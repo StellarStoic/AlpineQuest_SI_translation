@@ -1,0 +1,1117 @@
+<!-- AlpineQuest description -->
+
+Turn your Android device into a real off-road GPS using off-line topo maps!
+
+
+AlpineQuest is <b>the complete solution for all outdoor activities and sports</b>, including hiking, running, trailing, hunting, sailing, geocaching, off-road navigation and much more.
+
+You can access and store locally a large range of <b>on-line topographic maps, which will remain available</b> even while being out of cell coverage. AlpineQuest also supports <b>on-board file based maps</b>, like QCT or OZFx2 maps.
+
+By using the GPS and the magnetic sensor of your device (with compass display), getting lost is part of the past: <b>you are localized in real-time on the map</b>, which can also <b>be oriented</b> to match where you are looking at.
+
+Save and retrieve <b>placemarks</b>, share them with your friends. <b>Track</b> your path, get <b>advanced statistics</b> and <b>interactive graphics</b>. You won’t have anymore questions about what you can accomplish.
+
+By staying fully operational out of cell coverage (as often in mountain or abroad), AlpineQuest assists you in all your desires of deep wilderness exploring...
+
+<b><b>Don’t hesitate, try the free Lite version right now!</b></b> [for full version]
+<b><b>Don’t hesitate, use it right now for free!</b></b> [for free version]
+
+<b><b>No advertisements ~ No data monetization ~ No analytics ~ No third party libraries</b></b>
+
+PLEASE report suggestions and issues on our dedicated forum https://www.alpinequest.net/forum (no registration needed, all questions answered) and not in comments.
+
+
+<u><b>Key features are</b></u> (for full version):
+
+★★ <b>Maps</b> ★★
+• Built-in <b>online maps</b> (with <b>automatic local storage</b>; road, topo and satellite maps included) and <b>online layers</b> (road names, hillshade, contours);
+• Get more online maps and layers in one click from the included community map list (all major worldwide maps and many local topo maps);
+• Complete <b>area storage</b> of online maps for off-line use;
+• <b>On-board offline maps</b> support (raster) including <b>KMZ Overlays</b>, <b>OziExplorer OZFx2/OZFx3 (partly)/.map+.jpg/.png/.bmp/.gif</b>, <b>GeoPackage GeoPkg</b>, <b>MbTile</b>, <b>SqliteDB</b> and <b>TMS</b> zipped tiles (visit our website to get MOBAC, the free map creator);
+• <b>QuickChart</b> Memory Map support (.qct maps only, .qc3 maps not compatible);
+• Built-in <b>image calibration tool</b> to use any scan or picture as map;
+• <b>Digital elevation model</b> on-board storage (1-arcsec SRTM DEM) and support for <b>HGT</b> elevation files (both 1-arcsec and 3-arcsec resolutions) allowing display of <b>terrain</b>, <b>hillshade</b> and <b>steep slopes</b>;
+• Multiple <b>maps in layers</b> display, with per-map opacity/contrast/color control;
+• Advanced SD memory card Map Explorer.
+
+★★ <b>Placemarks</b> ★★
+• Create, display, save, restore <b>unlimited number of items</b> (waypoints, routes, areas and tracks);
+• Import/export <b>GPX</b> files, <b>Google Earth KML/KMZ</b> files and <b>CSV/TSV</b> files;
+• Import <b>ShapeFile SHP/PRJ/DBF</b>, <b>OziExplorer WPT/PLT</b>, <b>Geocaching LOC</b> waypoints and export <b>AutoCAD DXF</b> files;
+• Save and share online locations with other users using Community Placemarks;
+• <b>Details</b>, <b>advanced statistics</b> and <b>interactive graphics</b> on various items;
+• Time Controller to replay time-tagged tracks;
+• Routes, tracks and areas creator;
+• Advanced SD memory card Placemarks Explorer.
+
+★★ <b>GPS Position / Orientation</b> ★★
+• On-map geolocation using GPS or Network;
+• Map orientation, <b>compass</b> and target finder;
+• Built-in <b>GPS/Barometric track recorder</b> (long tracking capable, running in a separate and light process);
+• Proximity alerts and leave path alerts;
+• Barometer support (for compatible devices).
+
+★★ <b>And more:</b> ★★
+• Metric, imperial and hybrid distance units;
+• GPS Latitude/Longitude and grid coordinate formats (UTM, MGRS, USNG, OSGB, SK42, Irish, Swiss, Lambert, QTH Maidenhead Locator System, ...);
+• Ability to import hundreds of coordinate formats from http://www.spatialreference.org;
+• On-map grids display, full screen map view, multi-touch zoom;
+• ...
+
+
+
+
+<!-- OfflineMaps description -->
+
+OfflineMaps offers you to access a wide range of maps!
+OfflineMaps+ offers you to access a wide range of maps!
+
+--
+
+Bored to wait for maps to display? Use All-In-One OfflineMaps! <b>Once displayed, maps are stored and remain available, quickly, even with no network access</b>.
+
+• <b>Want more than just roads on your maps?</b> You will find what you need here;
+• <b>Used to go to places with poor network coverage?</b> Everything will stay available;
+• <b>Used to go abroad?</b> You won’t be lost anymore;
+• <b>Have a data allowance limit?</b> It will reduce your usage.
+
+--
+
+<b><b>This Plus version includes all features of the Standard version without ads, and supports import of professional GPS and geographic placemarks file formats (waypoints, routes, tracks, areas) like GPX, Google Earth KML/KMZ (map overlays not supported), Ozi Explorer WPT/PLT, CVS/TSV and Geocaching LOC</b></b>
+
+--
+
+★★ <b>Maps</b> ★★
+A lot of maps are available, including classical road maps, topographic maps, aerial (satellite) maps and various layers that can be added over any maps: OpenStreetMap (Roads, Topo), USGS National Map (Hi-res topo, Aerial imagery), Worldwide Military Soviet topo maps, etc.
+• All maps can be stacked in layers, with precise opacity control;
+• Select and store large areas in few clicks;
+• Stored space is clear and can be easily deleted.
+
+★★ <b>Display, store and retrieve unlimited placemarks</b> ★★
+You can add various items on the map such as waypoints, icons, routes, areas and tracks.
+You can easily manage them using the powerful SD-Card Placemarks Explorer.
+
+★★ <b>On-map GPS Location & Orientation</b> ★★
+Your real location and direction are clearly displayed on the map, which can be rotated to match your real orientation (depends on device capabilities).
+Easy turn on/off to save battery.
+
+And also:
+• Metric, imperial and hybrid distance units;
+• GPS Latitude/Longitude and grid coordinate formats (UTM, MGRS, USNG, OSGB Grid, Irish Grid, Swiss Grid, Lambert Grids, DFCI Grid, QTH Maidenhead Locator System, ...);
+• Ability to import hundreds of coordinate formats from http://www.spatialreference.org;
+• On-map grids display;
+• Full screen map view;
+• Multi-touch zoom;
+• ...
+
+★★ <b>Need more?</b> ★★
+If you are a real adventurer, try <b>AlpineQuest Off-Road Explorer</b>, the complete outdoor solution based on All-In-One OfflineMaps, loaded with a powerful GPS Location Tracker and more: https://www.alpinequest.net/google-play
+
+
+
+
+<!-- About OM -->
+
+<string name="om_whatsnew_howto_title">How does it work?</string>
+<string name="om_whatsnew_howto_content">Maps are retrieved from the Internet. Eveything that is displayed is stored locally to remain available when offline.\nThere are plenty of maps and layers available.</string>
+
+<string name="om_whatsnew_alpinequest_title">Need more features?</string>
+<string name="om_whatsnew_alpinequest_content">If you need a complete outdoor solution with offline maps, check out our other application, AlpineQuest. It comes with many more features, like a powerful GPS and barometric location tracker:</string>
+
+
+
+
+<!-- Menus -->
+
+<string name="core_submenu_title_display">Information box</string>
+<string name="core_submenu_title_options">Options</string>
+<string name="core_submenu_hide_menu">Hide menu</string>
+<string name="core_submenu_lock_screen">Lock screen</string>
+<string name="core_submenu_print_map">Print map</string>
+<string name="core_submenu_screen_center_coordinates">Screen centre coordinates</string>
+<string name="core_submenu_display_grid">Display grid</string>
+<string name="core_submenu_display_secondary_grid">Display secondary grid</string>
+<string name="core_submenu_display_radius_ruler">Display circular scale</string>
+<string name="core_submenu_night_mode">Night mode</string>
+
+<string name="maps_submenu_title">Maps &amp; layers</string>
+<string name="maps_submenu_available_maps">Available maps</string>
+<string name="maps_submenu_displayed_maps">Displayed maps</string>
+<string name="maps_submenu_area_downloader">Select and save an area</string>
+<string name="maps_submenu_display_name">Map name</string>
+<string name="maps_submenu_display_scale_value">Map scale value</string>
+<string name="maps_submenu_display_scale_bar">Map scale bar</string>
+<string name="maps_submenu_only_use_local_storage">Use only local storage</string>
+<string name="maps_submenu_show_storage_coverage">Show local storage coverage</string>
+<string name="maps_submenu_correct_china_shift">Correct offsets over China</string>
+<string name="maps_submenu_favorites_title">Favourite maps &amp; sets</string>
+
+<string name="landmarks_submenu_title">Placemarks</string>
+<string name="landmarks_submenu_browse">Explore placemarks</string>
+<string name="landmarks_submenu_create">Create a placemark</string>
+<string name="landmarks_submenu_displayed_landmarks">Displayed placemarks</string>
+<string name="landmarks_submenu_control_time">Control time</string>
+<string name="landmarks_submenu_display_target_information">Target information</string>
+<string name="landmarks_submenu_display_labels">Placemarks labels</string>
+
+<string name="geolocation_submenu_title">Positioning</string>
+<string name="geolocation_submenu_dashboard">Explorer mode</string>
+<string name="geolocation_submenu_geolocation">Real-time position</string>
+<string name="geolocation_submenu_tracker">Track recorder</string>
+<string name="geolocation_submenu_barometer">Barometer</string>
+<string name="geolocation_submenu_rotate">Rotate the map (using GNSS)</string>
+<string name="geolocation_submenu_display_information">Positioning status</string>
+<string name="geolocation_submenu_tracker_information">Track recorder status</string>
+
+<string name="orientation_submenu_title">Orientation</string>
+<string name="orientation_submenu_compass">Compass</string>
+<string name="orientation_submenu_rotate">Rotate the map (using compass)</string>
+<string name="orientation_submenu_compass_on_map">Display compass on the map</string>
+<string name="orientation_submenu_status">Current heading</string>
+
+
+
+
+<!-- Common buttons -->
+
+<string name="core_button_about">About</string>
+<string name="core_button_activate">Activate</string>
+<string name="core_button_all">All</string>
+<string name="core_button_browse">Browse</string>
+<string name="core_button_cancel">Cancel</string>
+<string name="core_button_clipboard">Clipboard</string>
+<string name="core_button_close">Close</string>
+<string name="core_button_compare">Compare</string>
+<string name="core_button_contact_us">Contact us</string>
+<string name="core_button_convert_to">Convert to</string>
+<string name="core_button_copy">Copy</string>
+<string name="core_button_create">Create</string>
+<string name="core_button_cut">Cut</string>
+<string name="core_button_delete">Delete</string>
+<string name="core_button_details">Details</string>
+<string name="core_button_disable">Disable</string>
+<string name="core_button_display">Display</string>
+<string name="core_button_edit">Edit</string>
+<string name="core_button_edit_color">Edit colour</string>
+<string name="core_button_edit_details">Edit details</string>
+<string name="core_button_empty">Empty</string>
+<string name="core_button_enter_coupon">Enter coupon</string>
+<string name="core_button_exit">Exit</string>
+<string name="core_button_export_as">Export as</string>
+<string name="core_button_filter">Filter</string>
+<string name="core_button_fullscreen">Fullscreen</string>
+<string name="core_button_gallery">Gallery</string>
+<string name="core_button_group">Group</string>
+<string name="core_button_hide">Hide</string>
+<string name="core_button_import">Import</string>
+<string name="core_button_insert_here">Insert here</string>
+<string name="core_button_install">Install</string>
+<string name="core_button_jump_to">Jump to</string>
+<string name="core_button_more">More</string>
+<string name="core_button_move_bottom">Move to bottom</string>
+<string name="core_button_move_down">Move down</string>
+<string name="core_button_move_top">Move to top</string>
+<string name="core_button_move_up">Move up</string>
+<string name="core_button_no">No</string>
+<string name="core_button_none">None</string>
+<string name="core_button_ok">OK</string>
+<string name="core_button_online_help">Online help</string>
+<string name="core_button_open">Open</string>
+<string name="core_button_open_url">Open URL</string>
+<string name="core_button_open_with">Open with</string>
+<string name="core_button_paste">Paste</string>
+<string name="core_button_purchase">Buy</string>
+<string name="core_button_refresh">Refresh</string>
+<string name="core_button_rename">Rename</string>
+<string name="core_button_report_errors">Report errors</string>
+<string name="core_button_reset">Reset</string>
+<string name="core_button_resume">Resume</string>
+<string name="core_button_reverse_order">Reverse order</string>
+<string name="core_button_save">Save</string>
+<string name="core_button_search">Search</string>
+<string name="core_button_select">Select</string>
+<string name="core_button_settings">Settings</string>
+<string name="core_button_share">Share</string>
+<string name="core_button_start">Start</string>
+<string name="core_button_start_new">Start new</string>
+<string name="core_button_stop">Stop</string>
+<string name="core_button_undisplay">Undisplay</string>
+<string name="core_button_undisplay_all_other">Undisplay others</string>
+<string name="core_button_deselect">Deselect</string>
+<string name="core_button_update">Update</string>
+<string name="core_button_whats_new">What’s new?</string>
+<string name="core_button_yes">Yes</string>
+<string name="core_button_zoom">Zoom</string>
+
+<string name="core_button_leave_comment">Leave a comment</string>
+<string name="core_button_support_forum">Support forum</string>
+<string name="core_button_privacy_policy">Privacy policy</string>
+<string name="core_button_terms_of_use">Terms of use</string>
+
+
+
+
+<!-- Common texts -->
+
+<string name="core_utils_item_1p">%s item</string>
+<string name="core_utils_items_1p">%s items</string>
+<string name="core_utils_error_1p">%s error</string>
+<string name="core_utils_errors_1p">%s errors</string>
+<string name="core_utils_opacity_1p">%s opacity</string>
+<string name="core_utils_all_1p">%s all</string>
+<string name="core_utils_selected_1p">%s selected</string>
+
+<string name="core_utils_size_medium">Medium</string>
+
+<string name="core_utils_size_very_small">Very small</string>
+<string name="core_utils_size_small">Small</string>
+<string name="core_utils_size_large">Large</string>
+<string name="core_utils_size_very_large">Very large</string>
+
+<string name="core_utils_size_very_low">Very low</string>
+<string name="core_utils_size_low">Low</string>
+<string name="core_utils_size_high">High</string>
+<string name="core_utils_size_very_high">Very high</string>
+
+<string name="core_utils_units_distance_meter">metre</string>
+<string name="core_utils_units_angle_degree">degree</string>
+
+<string name="core_utils_units_time_hour_abbrev">h</string>
+<string name="core_utils_units_time_minute_abbrev">min</string>
+<string name="core_utils_units_time_second_abbrev">s</string>
+<string name="core_utils_units_distance_meter_abbrev">m</string>
+<string name="core_utils_units_distance_kilometer_abbrev">km</string>
+<string name="core_utils_units_distance_foot_abbrev">ft</string>
+<string name="core_utils_units_distance_yard_abbrev">yd</string>
+<string name="core_utils_units_distance_mile_abbrev">mi</string>
+<string name="core_utils_units_distance_nautical_mile_abbrev">nmi</string>
+<string name="core_utils_units_speed_kmh_abbrev">km/h</string>
+<string name="core_utils_units_speed_mph_abbrev">mph</string>
+<string name="core_utils_units_speed_knot_abbrev">kn</string>
+<string name="core_utils_units_area_are_abbrev">are</string>
+<string name="core_utils_units_area_hectare_abbrev">ha</string>
+<string name="core_utils_units_area_acre_abbrev">acre</string>
+<string name="core_utils_units_pressure_hpa_abbrev">hPa</string>
+<string name="core_utils_units_pressure_mmhg_abbrev">mmHg</string>
+<string name="core_utils_units_pressure_inhg_abbrev">inHg</string>
+<string name="core_utils_units_weigth_kg_abbrev">kg</string>
+<string name="core_utils_units_weigth_lbs_abbrev">lb</string>
+<string name="core_utils_units_energy_kcal_abbrev">kcal</string>
+<string name="core_utils_units_cardinals_abbrev">N,S,E,W</string>
+
+<string name="core_utils_default">default</string>
+<string name="core_utils_session_only">this session only</string>
+
+<string name="core_toolkit_share_location_1p">The location is %s</string>
+<string name="core_toolkit_share_location_named_2p" formatted="false">The location of %s is %s</string>
+<string name="core_toolkit_share_location_received">New location</string>
+<string name="core_toolkit_share_location_list_empty">No location to display.</string>
+
+<string name="core_toolkit_loading">Loading</string>
+<string name="core_toolkit_please_wait">Please wait</string>
+<string name="core_toolkit_success">Success</string>
+<string name="core_toolkit_aborted">Aborted</string>
+
+<string name="core_toolkit_optional">Optional</string>
+<string name="core_toolkit_field_required">This field is required</string>
+<string name="core_toolkit_custom_item">Custom item</string>
+
+<string name="core_toolkit_error">Error</string>
+<string name="core_toolkit_error_no_network">No network</string>
+<string name="core_toolkit_error_network">Network error</string>
+<string name="core_toolkit_error_unknown">Unknown error</string>
+
+<string name="core_toolkit_error_occured_s">An error occurred.</string>
+<string name="core_toolkit_error_data_corrupted_s">Local data may be corrupted.</string>
+<string name="core_toolkit_error_action_failed_s_1p">The requested action “%s” failed.</string>
+<string name="core_toolkit_error_coupon_invalid_s">This coupon is not valid or has expired.</string>
+<string name="core_toolkit_error_out_of_memory_s">Running out of memory. Please restart the application.</string>
+<string name="core_toolkit_error_storage_s">Failed to detect or use a suitable storage location.</string>
+<string name="core_toolkit_error_storage_configure_s">Would you like to configure it now?</string>
+<string name="core_toolkit_error_limited_features_s">Functionalities will be limited.</string>
+<string name="core_toolkit_error_write_no_space_left_s">No more space available on this storage.</string>
+<string name="core_toolkit_error_write_no_grants_s">This storage is not writable.</string>
+<string name="core_toolkit_error_intent_input_s">Unable to handle external content.</string>
+<string name="core_toolkit_error_service_unavailable_s">Service is unavailable.</string>
+<string name="core_toolkit_error_device_locked_s">Please unlock your device.</string>
+<string name="core_toolkit_error_report_message_1p">Thanks for sending us this report containing %s error(s).</string>
+
+<string name="core_toolkit_message_restart_application_s">Please restart the application.</string>
+<string name="core_toolkit_message_item_saved_s">Item correctly saved.</string>
+<string name="core_toolkit_swipe_up_for_options">Swipe up for options</string>
+
+<string name="core_toolkit_permissions_location_name">Location access</string>
+<string name="core_toolkit_permissions_storage_name">Storage access</string>
+<string name="core_toolkit_permissions_background_location_description_s">If you want to record a track or get warnings when following a path or when using proximity alerts, even if the main application window is closed or if the screen is off, the application requires access to your location in the background.</string>
+<string name="core_toolkit_permissions_background_location_privacy_s">Locations collected in the background will be strictly used for the requested features and will only remain in the application.</string>
+<string name="core_toolkit_permissions_background_location_question_s">Do you want to allow the application to access your location in the background in addition to normal location access?</string>
+<string name="core_toolkit_permissions_not_granted_s">You must allow the requested permission to use this feature.</string>
+
+<string name="core_toolkit_question_are_you_sure_s">Are you sure?</string>
+<string name="core_toolkit_question_confirm_exit_s">Quit the application?</string>
+<string name="core_toolkit_question_file_already_imported_s">This file has already been imported. Open existing or import again?</string>
+<string name="core_toolkit_question_replace_existing_item_s">This item already exists, replace it?</string>
+
+<string name="core_explorer_address_device">Device</string>
+<string name="core_explorer_address_sdcard">SD Card</string>
+<string name="core_explorer_address_storage">Device storage</string>
+<string name="core_explorer_address_downloads">My downloads</string>
+<string name="core_explorer_cell_empty">This place is empty.</string>
+<string name="core_explorer_file_doesnt_exist">File does not exist.</string>
+<string name="core_explorer_scanning_1p">Scanning “%s”&#8230;</string>
+<string name="core_explorer_folder_create_desc">Folders help you organise your items easily.</string>
+<string name="core_explorer_folder_permission_s">You’ve not granted to the application the right to access your files.</string>
+<string name="core_explorer_folder_permission_limited_s">Some files may not be displayed.</string>
+<string name="core_explorer_bookmarks">Bookmarks</string>
+<string name="core_explorer_bookmark">Bookmark</string>
+
+<string name="core_explorer_item_delete_success_s">Item deleted.</string>
+<string name="core_explorer_item_move_success_s">Item moved.</string>
+<string name="core_explorer_item_rename_success_s">Item renamed.</string>
+<string name="core_explorer_item_copy_success_s">Item copied.</string>
+
+<string name="core_explorer_context_group_sort_title">Sort by</string>
+<string name="core_explorer_context_group_multiselect">Multiple selection</string>
+<string name="core_explorer_context_group_display_mode">Display mode</string>
+<string name="core_explorer_context_group_display_mode_list">List</string>
+<string name="core_explorer_context_group_display_mode_preview">Preview</string>
+
+<string name="core_explorer_category_files">Files</string>
+<string name="core_explorer_category_files_typed_1p">%s files</string>
+<string name="core_explorer_category_folders">Folders</string>
+<string name="core_explorer_category_importables">Files to import</string>
+<string name="core_explorer_name_file">File</string>
+<string name="core_explorer_name_file_typed_1p">%s file</string>
+<string name="core_explorer_name_folder">Folder</string>
+<string name="core_explorer_nb_folder_1p">%s folder</string>
+<string name="core_explorer_nb_folders_1p">%s folders</string>
+<string name="core_explorer_nb_file_1p">%s file</string>
+<string name="core_explorer_nb_files_1p">%s files</string>
+<string name="core_explorer_nb_unknown_file_1p">%s unknown file</string>
+<string name="core_explorer_nb_unknown_files_1p">%s unknown files</string>
+
+<string name="core_explorer_setting_fast_scroll">Enable fast scrolling</string>
+<string name="core_explorer_setting_collapsible_sections">Use collapsible sections</string>
+
+
+
+
+<!-- Application main texts -->
+
+<string name="application_support_thanks_for_using_1p">Thank you for using %s!</string>
+<string name="application_support_comment_on_store_1p">We need you! Support us by leaving a comment on the %s Store!</string>
+<string name="application_help_title">Where to find some help?</string>
+<string name="application_help_content">To get help, ask any question, report bugs, don’t hesitate:</string>
+
+<string name="application_eula">Before using the application, please read, understand and agree the Psyberia EULA:</string>
+<string name="application_disclaimer">All images, values and measurements given by this application are indicative and may contain errors. Always use it in conjunction with official sources and your common sense, make sure you have all the necessary equipment and training, take all sensible precautions, and be aware of the risks.</string>
+
+<string name="core_loader_loading">Loading components&#8230;</string>
+<string name="core_loader_restoring">Restoring items&#8230;</string>
+<string name="core_safecheck_bad_signature">This version of the application has been illegally modified and may contain viruses. Please only use official versions.</string>
+
+<string name="canvas_feature_disabled">Due to legal issues, this feature is disabled for the following map(s):</string>
+
+<string name="core_workspace_switch">Switch workspace</string>
+<string name="core_workspace_default">Default workspace</string>
+
+<string name="core_locker_unlock_s">Long-press volume button (-) to lock and unlock the map from touches, press return button to unlock.</string>
+<string name="core_locker_next_s">Long-press volume button (+) to display next view.</string>
+
+<string name="core_screensaver_name">Screensaver</string>
+
+<string name="core_features_get_more">Get more features!</string>
+<string name="core_features_manage">Manage features</string>
+<string name="core_features_add_support_1p">%s Support</string>
+
+
+
+
+<!-- Maps feature main texts -->
+
+<string name="maps_context_menu_layer">Add as layer</string>
+<string name="maps_context_menu_opacity">Layer opacity</string>
+<string name="maps_context_menu_key">Map key</string>
+<string name="maps_context_menu_erase_color">Erase colour</string>
+<string name="maps_context_menu_calibrate">Calibrate</string>
+<string name="maps_context_menu_reorder">Reorder</string>
+
+<string name="maps_confirm_outbound_title">Out-of-bounds map</string>
+<string name="maps_confirm_outbound_desc">The map you’ve selected contains no data at the current location, which will result in an empty screen.</string>
+<string name="maps_confirm_outbound_desc_slide">Do you want to slide the map view to a covered area?</string>
+
+<string name="maps_favorites_set_empty">No favourite map or set defined yet</string>
+<string name="maps_favorites_create_to_save_s">You can save your changes as a favorite map or map set.</string>
+<string name="maps_favorites_item">Favourite item</string>
+<string name="maps_favorites_save_as">Save as favourite</string>
+
+<string name="maps_online_provider_title">On-demand maps</string>
+<string name="maps_online_installed">Installed maps</string>
+<string name="maps_online_clear_data">Clear data</string>
+<string name="maps_online_clear_data_confirm">Clear all the stored data of this map?</string>
+<string name="maps_online_force_update_data">Force update local data</string>
+<string name="maps_online_add_new">Add new maps</string>
+<string name="maps_online_add_new_desc">You can browse and install new maps from the community:</string>
+<string name="maps_online_suggest">Suggest</string>
+
+<string name="maps_elevation_title">Elevation data</string>
+<string name="maps_elevation_dem_activate">Activate use of elevation data</string>
+<string name="maps_elevation_dem_download">Auto download elevation data</string>
+<string name="maps_elevation_dem_map">Elevation data coverage</string>
+<string name="maps_elevation_dem_source_1p">Indicative data from %s</string>
+<string name="maps_elevation_dem">Digital elevation model (DEM)</string>
+<string name="maps_elevation_dem_abbrev">DEM</string>
+<string name="maps_elevation_map_heights">DEM Heights</string>
+<string name="maps_elevation_map_terrain">DEM Terrain</string>
+<string name="maps_elevation_map_hillshade">DEM Hillshade Layer</string>
+<string name="maps_elevation_map_slopes">DEM Slopes (+30°) Layer</string>
+<string name="maps_elevation_map_sensitive">DEM Heights (sensitive)</string>
+
+<string name="maps_area_downloader_creator_cell_tile_1p">%s tile</string>
+<string name="maps_area_downloader_creator_cell_tiles_1p">%s tiles</string>
+<string name="maps_area_downloader_process_terminated">Successfully completed</string>
+<string name="maps_area_downloader_process_working">Process running</string>
+
+<string name="maps_onboard_provider_title">File based maps</string>
+<string name="maps_onboard_import_folder_name">Imported maps</string>
+<string name="maps_onboard_explorer_group_inbounds">In-bounds maps</string>
+<string name="maps_onboard_explorer_group_outbounds">Out-of-bounds maps</string>
+<string name="maps_onboard_explorer_group_calibratable">Images to calibrate</string>
+
+
+
+
+<!-- Landmarks feature main texts -->
+
+<string name="landmarks_explorer_category_areas">Areas</string>
+<string name="landmarks_explorer_category_files">Placemark files</string>
+<string name="landmarks_explorer_category_locations">Locations</string>
+<string name="landmarks_explorer_category_paths">Paths</string>
+<string name="landmarks_explorer_category_proximities">Proximity alerts</string>
+<string name="landmarks_explorer_category_routes">Routes</string>
+<string name="landmarks_explorer_category_segments">Track segments</string>
+<string name="landmarks_explorer_category_sets">Sets of waypoints</string>
+<string name="landmarks_explorer_category_tracks">Tracks</string>
+<string name="landmarks_explorer_category_waypoints">Waypoints</string>
+<string name="landmarks_explorer_name_area">Area</string>
+<string name="landmarks_explorer_name_audio">Audio waypoint</string>
+<string name="landmarks_explorer_name_file">Placemark file</string>
+<string name="landmarks_explorer_name_landmark">Placemark</string>
+<string name="landmarks_explorer_name_location">Location</string>
+<string name="landmarks_explorer_name_path">Path</string>
+<string name="landmarks_explorer_name_picture">Picture waypoint</string>
+<string name="landmarks_explorer_name_proximity">Proximity alert</string>
+<string name="landmarks_explorer_name_route">Route</string>
+<string name="landmarks_explorer_name_segment">Track segment</string>
+<string name="landmarks_explorer_name_set">Set of waypoints</string>
+<string name="landmarks_explorer_name_slope">Slope</string>
+<string name="landmarks_explorer_name_target">Target</string>
+<string name="landmarks_explorer_name_track">Track</string>
+<string name="landmarks_explorer_name_waypoint">Waypoint</string>
+<string name="landmarks_explorer_cell_location_1p">%s location</string>
+<string name="landmarks_explorer_cell_locations_1p">%s locations</string>
+<string name="landmarks_explorer_cell_segment_1p">%s segment</string>
+<string name="landmarks_explorer_cell_segments_1p">%s segments</string>
+<string name="landmarks_explorer_cell_waypoint_1p">%s waypoint</string>
+<string name="landmarks_explorer_cell_waypoints_1p">%s waypoints</string>
+
+<string name="landmarks_context_menu_auto_target">Auto target closest</string>
+<string name="landmarks_context_menu_edit_points">Edit points</string>
+<string name="landmarks_context_menu_edit_profile">Edit profile</string>
+<string name="landmarks_context_menu_dynamic_profile">Dynamic profile</string>
+<string name="landmarks_context_menu_split_here">Split here</string>
+<string name="landmarks_context_menu_split_points">Split waypoints</string>
+<string name="landmarks_context_menu_target_remove">Remove target</string>
+<string name="landmarks_context_menu_target_set">Set as target</string>
+
+<string name="landmarks_create_waypoint_desc">Create a point on the map.</string>
+<string name="landmarks_create_picture_desc">Take a picture and associate it to a point on the map.</string>
+<string name="landmarks_create_set_desc">Create multiple waypoints on the map, managed all together.</string>
+<string name="landmarks_create_route_desc">Create multiple ordered waypoints on the map drawing a route.</string>
+<string name="landmarks_create_area_desc">Manually draw a surface area on the map.</string>
+<string name="landmarks_create_path_desc">Manually draw a path on the map.</string>
+<string name="landmarks_create_file_desc">Create a new file to store various placemarks.</string>
+<string name="landmarks_create_proximity_desc">Be notified when approaching this location.</string>
+<string name="landmarks_create_circle_title">Circle</string>
+<string name="landmarks_create_circle_desc">Create a circular area based on a given radius distance from the screen centre.</string>
+<string name="landmarks_create_measure_title">Measure</string>
+<string name="landmarks_create_measure_desc">Measure distances and bearings between two or more points on the map.</string>
+<string name="landmarks_create_slope_title">Compute slope</string>
+<string name="landmarks_create_slope_desc">Compute slopes between two or more points.</string>
+<string name="landmarks_create_autorouting_title">Auto-routing</string>
+<string name="landmarks_create_autorouting_desc">Automatically draw a path following the roads on the map.</string>
+<string name="landmarks_create_quick_waypoint">Quick waypoint</string>
+
+<string name="landmarks_create_dialog_category_tools">Tools</string>
+<string name="landmarks_create_side_title">Placemark creator</string>
+<string name="landmarks_create_side_add">Add location</string>
+<string name="landmarks_create_side_new_segment">New section/lap</string>
+<string name="landmarks_create_side_draw">Draw</string>
+<string name="landmarks_create_side_save">Save &amp; close</string>
+<string name="landmarks_create_side_move_to_center">Move to centre</string>
+
+<string name="landmarks_follow_path">Follow path</string>
+<string name="landmarks_follow_path_option_reverse">Reverse order</string>
+<string name="landmarks_follow_path_option_loop">Loop</string>
+<string name="landmarks_follow_path_option_distance_1p">Set the target at least %s in advance</string>
+<string name="landmarks_follow_path_option_warn_me_1p">Warn me if I go more than %s away</string>
+<string name="landmarks_follow_path_option_dont_warn_me">Don’t warn me if I go away</string>
+
+<string name="landmarks_proximity_alerts_repeat">Repeat notifications</string>
+
+<string name="landmarks_control_time_bulk_start">Start all displayed tracks at the same time</string>
+
+<string name="landmarks_folder_name_my_landmarks">My placemarks</string>
+
+<string name="landmarks_offline_provider_title">Local placemarks</string>
+<string name="landmarks_offline_folder_unsorted">Unsorted landmarks</string>
+<string name="landmarks_offline_folder_import">Imported landmarks</string>
+<string name="landmarks_offline_folder_export">Exported landmarks</string>
+
+
+
+
+<!-- Search feature main texts -->
+
+<string name="search_title">Search a location</string>
+<string name="search_desc">Search names, coordinates and more.</string>
+<string name="search_save_folder_name">Recent searches</string>
+<string name="search_format_name">Search by name</string>
+<string name="search_format_project">Project a location</string>
+<string name="search_text_single">Single field (for copy/paste)</string>
+<string name="search_text_format">Search format</string>
+<string name="search_dialog_incorrect_location_p">Incorrect location format.</string>
+<string name="search_dialog_geocoder_failed_p">The search failed.\nYou need to have an Internet data access to search a location by name.</string>
+<string name="search_dialog_no_results_p">No result found.</string>
+<string name="search_dialog_main_results">Main results</string>
+<string name="search_dialog_other_results">Other results</string>
+
+
+
+
+<!-- Geolocation feature main texts -->
+
+<string name="geolocation_state_waiting_location_1p">Waiting for “%s”&#8230;</string>
+<string name="geolocation_state_listening_to_1p">Using “%s”&#8230;</string>
+<string name="geolocation_state_source_disabled_1p">“%s” is turned off!</string>
+<string name="geolocation_state_not_active">Not active</string>
+<string name="geolocation_satellite_abbrev">sats</string>
+<string name="geolocation_status_fix_1p">fix %s</string>
+
+<string name="geolocation_info_high_accuracy_disable_s">High accuracy location is disabled.</string>
+
+<string name="geolocation_source_title">Location source</string>
+<string name="geolocation_source_disabled">Source is disabled</string>
+<string name="geolocation_source_none_desc">There is no location source available on this device.</string>
+<string name="geolocation_source_auto_title">Automatic selection</string>
+<string name="geolocation_source_auto_desc">Uses locations provided by Outdoor GNSS and Network.</string>
+<string name="geolocation_source_gps_title">Outdoor GNSS</string>
+<string name="geolocation_source_gps_desc">Provides accurate locations computed from various GNSS (GPS/Glonass/Galileo/Beidou/IRNSS/QZSS) satellites (no network needed). Requires view of sky and initializing time.</string>
+<string name="geolocation_source_network_title">Network geolocation</string>
+<string name="geolocation_source_network_desc">Provides inaccurate locations retrieved from the wireless networks.</string>
+<string name="geolocation_source_passive_title">External locations</string>
+<string name="geolocation_source_passive_desc">Uses locations provided by other applications.</string>
+
+<string name="geolocation_rate_title">Location update delay</string>
+<string name="geolocation_rate_second">Update every second</string>
+<string name="geolocation_rate_seconds_1p">Update every %s</string>
+<string name="geolocation_rate_precise_title">Precise tracking</string>
+<string name="geolocation_rate_precise_desc">Battery consuming, for short runs with volatile speed.</string>
+<string name="geolocation_rate_medium_title">Medium tracking</string>
+<string name="geolocation_rate_medium_desc">Recommended for few hours hikes.</string>
+<string name="geolocation_rate_economy_title">Long tracking</string>
+<string name="geolocation_rate_economy_desc">Economy mode recommended for day long hikes.</string>
+
+
+
+
+<!-- Orientation feature main texts -->
+
+<string name="orientation_compass_not_available">Cannot activate the compass: no magnetic sensor on this device.</string>
+<string name="orientation_compass_calibrate_message">Rotate your device in all directions to calibrate the magnetic sensor.</string>
+<string name="orientation_setting_sensor">Sensor</string>
+<string name="orientation_setting_compass_standard_name">Standard</string>
+<string name="orientation_setting_compass_standard_desc">Moving needle over still graduations</string>
+<string name="orientation_setting_compass_topochaix_desc">Moving needle and graduations</string>
+<string name="orientation_setting_declination">Compute declination to get true (geographical) north</string>
+
+
+
+
+<!-- Barometer feature main texts -->
+
+<string name="barometer_calibrate_title">Calibrate barometer</string>
+<string name="barometer_calibrate_text">To get precise results using the barometer, you need to calibrate it.\nPlace yourself at a known elevation (you may use the GNSS altitude) and enter it as a reference.</string>
+<string name="barometer_calibrate_current_2p" formatted="false">The current reference pressure is %s at %s.</string>
+<string name="barometer_calibrate_elevation">Current elevation</string>
+<string name="barometer_forecast_1p">Forecast: %s</string>
+<string name="barometer_forecast_good">Fair</string>
+<string name="barometer_forecast_variable">Change</string>
+<string name="barometer_forecast_bad">Rain</string>
+
+
+
+
+<!-- Tracker feature main texts -->
+
+<string name="tracker_state_desc_connecting">Connecting to service</string>
+<string name="tracker_state_desc_stopped">Track recorder is stopped</string>
+<string name="tracker_save_folder_name">Recorded tracks</string>
+<string name="tracker_group_recorded_tracks">Recorded tracks</string>
+<string name="tracker_save_desc_1p">AlpineQuest Track %s</string>
+<string name="tracker_group_last_track">Last recorded track</string>
+<string name="tracker_message_resume_track_s">Resume last recorded track or start a new one?</string>
+<string name="tracker_message_save_track_failed_s">Failed to save the current track recorder data. Delete last recorded track?</string>
+<string name="tracker_settings_ignore_distance">Skip locations if I’m not moving</string>
+<string name="tracker_settings_use_barometer_desc">Record pressure values to compute more precise barometric elevations</string>
+<string name="tracker_settings_warn">Warn me if the GNSS signal is lost or too weak</string>
+<string name="tracker_settings_dashmode">Automatically start and stop the recorder with the application</string>
+
+
+
+
+<!-- Service agent texts -->
+
+<string name="background_service_killed_s">The agent has been killed by the system!</string>
+
+<string name="background_service_request_disable_brand_optimizations_1p_s">You must allow %s to run in the background from your device settings to use this feature while the screen is off.</string>
+<string name="background_service_request_ignore_battery_optimizations_1p_s">You must disable battery optimizations for %s to use this feature while the screen is off.</string>
+
+
+
+
+<!-- Settings texts -->
+
+<string name="settings_display_category">Display units</string>
+<string name="settings_display_distances_title">Distance unit</string>
+<string name="settings_display_distances_metric">Metric</string>
+<string name="settings_display_distances_imperial">Imperial</string>
+<string name="settings_display_distances_imperial_metric_elevations">metric elevations</string>
+<string name="settings_display_distances_imperial_deci_miles">deci. mi</string>
+<string name="settings_display_distances_nautical">Nautical</string>
+
+<string name="settings_display_location_title">Location format</string>
+<string name="settings_display_location_secondary_title">Secondary loc. format</string>
+<string name="settings_display_location_wgs84_second">Lat/Long (Deg Min Sec)</string>
+<string name="settings_display_location_wgs84_minute">Lat/Long (Deg Min)</string>
+<string name="settings_display_location_wgs84_degree">Lat/Long (Deg)</string>
+<string name="settings_display_location_imported">Imported formats</string>
+
+<string name="settings_display_areas_title">Area unit</string>
+
+<string name="settings_display_bearings_title">Bearing unit</string>
+<string name="settings_display_bearings_degrees">Degrees</string>
+<string name="settings_display_bearings_gradians">Gradians</string>
+<string name="settings_display_bearings_mils">Mils</string>
+<string name="settings_display_bearings_quadrants">Quadrants</string>
+
+<string name="settings_display_slopes_title">Slope unit</string>
+<string name="settings_display_slopes_percents">Percents</string>
+<string name="settings_display_slopes_degrees">Degrees</string>
+
+<string name="settings_display_pressures_title">Pressure unit</string>
+<string name="settings_display_pressures_pascals">Hectopascals / Millibars</string>
+<string name="settings_display_pressures_mmhg">Millimetres of mercury</string>
+<string name="settings_display_pressures_inhg">Inch of mercury</string>
+
+<string name="settings_display_reference_north_title">Reference north</string>
+<string name="settings_display_reference_north_geographic">True (geographical) north</string>
+<string name="settings_display_reference_north_grid">Grid north</string>
+<string name="settings_display_reference_north_magnetic">Magnetic north</string>
+
+<string name="settings_display_heading_arrow">Arrow</string>
+<string name="settings_display_heading_line">Line</string>
+<string name="settings_display_heading_field_of_view">Field of view</string>
+
+<string name="settings_technical_category">Technical settings</string>
+<string name="settings_technical_hide_status_bar_title">Hide status bar</string>
+<string name="settings_technical_hide_status_bar_desc">Use the main menu button to display the top status bar temporarily.</string>
+<string name="settings_technical_hide_navigation_bar_title">Hide navigation bar</string>
+<string name="settings_technical_hide_navigation_bar_desc">Also hide the software navigation buttons when displaying the map in full screen.</string>
+<string name="settings_technical_screen_on_title">Screen always on</string>
+<string name="settings_technical_screen_on_desc">Never turn the screen off when displaying the map view.</string>
+<string name="settings_technical_disable_keyguard_title">Display over lockscreen</string>
+<string name="settings_technical_disable_keyguard_desc">Do not require to unlock the keyguard screen to use this application.</string>
+<string name="settings_technical_confirm_exit_title">Confirm exit</string>
+<string name="settings_technical_confirm_exit_desc">Ask exit confirmation before exiting.</string>
+<string name="settings_technical_path_title">Storage location</string>
+<string name="settings_technical_path_desc">Define where to store downloaded maps.</string>
+<string name="settings_technical_path_dialog_app_path">Application path</string>
+<string name="settings_technical_path_dialog_warning_unavailable">Your system prevents usage of this location.</string>
+<string name="settings_technical_path_dialog_warning_removable">This location will be deleted by the system when you uninstall the application.</string>
+<string name="settings_technical_path_dialog_warning_vulnerable">If you use a maintenance application, it may delete this location.</string>
+
+<string name="settings_canvas_category">Map canvas settings</string>
+<string name="settings_canvas_infobox_style_title">Information boxes style</string>
+<string name="settings_canvas_infobox_style_desc">Define the size and background colour of the information boxes displayed on the map.</string>
+<string name="settings_canvas_long_press_map_title">Long-press map actions</string>
+<string name="settings_canvas_long_press_map_desc">Define which actions to trigger when long-pressing the map.</string>
+<string name="settings_canvas_long_press_map_action_map_only">Display map only</string>
+<string name="settings_canvas_zoom_type_title">Zoom controls</string>
+<string name="settings_canvas_zoom_type_desc">Define zoom controls behavior and display on the map.</string>
+<string name="settings_canvas_zoom_type_mode_buttons">Buttons</string>
+<string name="settings_canvas_zoom_type_mode_all">Buttons and slider</string>
+<string name="settings_canvas_zoom_type_shortcuts_s">Double-tap the map on the same point to zoom in, double-tap different points to zoom out.</string>
+<string name="settings_canvas_zoom_type_volume_keys">Volume buttons zoom in or zoom out the map</string>
+<string name="settings_canvas_zoom_type_adjust_zoom">Auto-adjust zoom on map levels</string>
+<string name="settings_canvas_zoom_type_long_press">Long-press zoom buttons change map display resolution</string>
+<string name="settings_canvas_grids_title">Grids density and style</string>
+<string name="settings_canvas_grids_desc">Define how grids are displayed on the map.</string>
+<string name="settings_canvas_grids_option_minor_labels">Display labels of minor lines</string>
+<string name="settings_canvas_multitouch_zoom_title">Pinch to zoom</string>
+<string name="settings_canvas_multitouch_zoom_desc">Allow to control the map zoom by pitching two fingers on the map.</string>
+<string name="settings_canvas_multitouch_rotate_title">Manual map rotation</string>
+<string name="settings_canvas_multitouch_rotate_desc">Allow to control the map orientation by turning two fingers on the map.</string>
+<string name="settings_canvas_multitouch_pitch_title">Perspective map view</string>
+<string name="settings_canvas_multitouch_pitch_desc">Allow to control the map perspective by moving down two fingers on the map.</string>
+<string name="settings_canvas_hres_map_title">Map display resolution</string>
+<string name="settings_canvas_hres_map_desc">Display size of the map on the screen.</string>
+
+<string name="settings_landmarks_display_size_title">Display size</string>
+<string name="settings_landmarks_display_size_desc">Size of placemarks (paths, waypoints, icons) displayed on the map.</string>
+<string name="settings_landmarks_display_color_title">Default colour</string>
+<string name="settings_landmarks_display_color_desc">Default colour of placemaks displayed on the map.</string>
+<string name="settings_landmarks_display_target_color_title">Target colour</string>
+<string name="settings_landmarks_display_target_color_desc">Colour of targeted placemark displayed on the map.</string>
+<string name="settings_landmarks_display_borders_title">Display borders</string>
+<string name="settings_landmarks_display_borders_desc">Display a border for placemarks displayed on the map.</string>
+<string name="settings_landmarks_display_shadows_title">Display shadows</string>
+<string name="settings_landmarks_display_shadows_desc">Display a shadow under placemarks displayed on the map.</string>
+<string name="settings_landmarks_display_time_bounds_title">Display time bounds</string>
+<string name="settings_landmarks_display_time_bounds_desc">Display time bounds of tracks displayed on the map.</string>
+<string name="settings_landmarks_preprocess_title">Preprocess tracks</string>
+<string name="settings_landmarks_preprocess_desc">Improve accuracy of tracks by filtering and correcting points before display.</string>
+
+<string name="settings_geolocation_relock_location_title">Automatic GNSS relock</string>
+<string name="settings_geolocation_relock_location_desc">Automatically relock the current GNSS location on the screen centre after 10s of inactivity.</string>
+<string name="settings_geolocation_auto_activate_explorer_mode_title">Automatic explorer mode</string>
+<string name="settings_geolocation_auto_activate_explorer_mode_desc">Automatically activate explorer mode when pitching the map down with two fingers.</string>
+<string name="settings_geolocation_previous_locations_title">Display previous locations</string>
+<string name="settings_geolocation_previous_locations_desc">Display the previous GNSS locations on the map.</string>
+<string name="settings_geolocation_distance_line_title">Display distance line</string>
+<string name="settings_geolocation_distance_line_desc">Display a line from screen centre to current GNSS location.</string>
+<string name="settings_geolocation_course_display_type_title">Current course display</string>
+<string name="settings_geolocation_course_display_type_desc">Define how to display the current GNSS course on the map.</string>
+<string name="settings_geolocation_disable_in_back_title">Disable in background</string>
+<string name="settings_geolocation_disable_in_back_desc">Disable real-time location updates when the application is in background to save battery.</string>
+<string name="settings_geolocation_disable_in_back_desc_tracker">does not apply to the track recorder</string>
+<string name="settings_geolocation_egm96_adjustment_title">EGM96 GNSS adjustment</string>
+<string name="settings_geolocation_egm96_adjustment_desc">Compute more precise elevations using the EGM96 geoid model.</string>
+
+<string name="settings_orientation_heading_display_type_title">Current heading display</string>
+<string name="settings_orientation_heading_display_type_desc">Define how to display the current compass heading on the map.</string>
+
+<string name="settings_display_location_import_import_desc_1p">Enter any coordinate system WKT/PROJ definition, or any EPSG/ESRI/SR-ORG ID from %s.</string>
+<string name="settings_display_location_import_not_supported_1p">Coordinate system “%s” is not supported yet. Please contact us on our support forum for any question about it.</string>
+
+
+
+
+<!-- Other common texts -->
+
+<string name="core_details_no_information">No information.</string>
+<string name="core_details_category_metadata">Information</string>
+
+<string name="atk_metadata_access_key">Access key</string>
+<string name="atk_metadata_address">Address</string>
+<string name="atk_metadata_audio">Audio</string>
+<string name="atk_metadata_author">Author</string>
+<string name="atk_metadata_battery">Battery</string>
+<string name="atk_metadata_charset">Charset</string>
+<string name="atk_metadata_color">Colour</string>
+<string name="atk_metadata_comment">Comment</string>
+<string name="atk_metadata_copyright">Copyright</string>
+<string name="atk_metadata_creator">Creator</string>
+<string name="atk_metadata_date">Date</string>
+<string name="atk_metadata_density">Density</string>
+<string name="atk_metadata_description">Description</string>
+<string name="atk_metadata_description_none">No description.</string>
+<string name="atk_metadata_direction">Direction</string>
+<string name="atk_metadata_dyncolor">Dynamic colour</string>
+<string name="atk_metadata_email">Email</string>
+<string name="atk_metadata_file_data">Data file</string>
+<string name="atk_metadata_file_path">Path</string>
+<string name="atk_metadata_group">Group</string>
+<string name="atk_metadata_icon">Icon</string>
+<string name="atk_metadata_id">Id</string>
+<string name="atk_metadata_keywords">Keywords</string>
+<string name="atk_metadata_location">Location</string>
+<string name="atk_metadata_location_accuracy">Accuracy</string>
+<string name="atk_metadata_location_barometric_elevation">Barometric elevation</string>
+<string name="atk_metadata_location_bearing">Bearing</string>
+<string name="atk_metadata_location_bearing_reverse">Reverse bearing</string>
+<string name="atk_metadata_location_coordinates">Coordinates</string>
+<string name="atk_metadata_location_declination">Declin.</string>
+<string name="atk_metadata_location_elevation">Elevation</string>
+<string name="atk_metadata_location_heading">Heading</string>
+<string name="atk_metadata_location_longitude">Longitude</string>
+<string name="atk_metadata_location_latitude">Latitude</string>
+<string name="atk_metadata_location_satellites">Satellites</string>
+<string name="atk_metadata_mapping_crs_geoid">Geoid</string>
+<string name="atk_metadata_mapping_crs_projection">Projection</string>
+<string name="atk_metadata_mapping_scale">Scale</string>
+<string name="atk_metadata_name">Name</string>
+<string name="atk_metadata_network">Network</string>
+<string name="atk_metadata_password">Password</string>
+<string name="atk_metadata_phonenumber">Phone</string>
+<string name="atk_metadata_picture">Picture</string>
+<string name="atk_metadata_pictures">Pictures</string>
+<string name="atk_metadata_place">Place</string>
+<string name="atk_metadata_pressure">Pressure</string>
+<string name="atk_metadata_pressure_sealevel">Sea-level pressure</string>
+<string name="atk_metadata_size">Size</string>
+<string name="atk_metadata_source">Source</string>
+<string name="atk_metadata_statistics">Statistics</string>
+<string name="atk_metadata_statistics_area">Area</string>
+<string name="atk_metadata_statistics_calories">Calories</string>
+<string name="atk_metadata_statistics_distance">Distance</string>
+<string name="atk_metadata_statistics_distance_from_center">Distance from screen centre</string>
+<string name="atk_metadata_statistics_duration">Duration</string>
+<string name="atk_metadata_statistics_elevations">Elevations</string>
+<string name="atk_metadata_statistics_elevations_gain">Gain</string>
+<string name="atk_metadata_statistics_elevations_loss">Loss</string>
+<string name="atk_metadata_statistics_elevations_mean_inclines">Mean inclines</string>
+<string name="atk_metadata_statistics_eta">ETA</string>
+<string name="atk_metadata_statistics_ete">ETE</string>
+<string name="atk_metadata_statistics_incline">Incline</string>
+<string name="atk_metadata_statistics_in_motion">In motion</string>
+<string name="atk_metadata_statistics_length">Length</string>
+<string name="atk_metadata_statistics_min">Min</string>
+<string name="atk_metadata_statistics_max">Max</string>
+<string name="atk_metadata_statistics_pace">Pace</string>
+<string name="atk_metadata_statistics_progress_done_so_far">Done so far</string>
+<string name="atk_metadata_statistics_progress_remaining_on_path">Remaining on path</string>
+<string name="atk_metadata_statistics_progress_remaining_to_1p">Remaining to “%s”</string>
+<string name="atk_metadata_statistics_speed">Speed</string>
+<string name="atk_metadata_statistics_speed_vertical">Vert. speed</string>
+<string name="atk_metadata_statistics_stopped">Stopped</string>
+<string name="atk_metadata_statistics_time">Time</string>
+<string name="atk_metadata_statistics_total">Total</string>
+<string name="atk_metadata_style">Style</string>
+<string name="atk_metadata_temperature">Temp.</string>
+<string name="atk_metadata_type">Type</string>
+<string name="atk_metadata_url">Url</string>
+<string name="atk_metadata_username">Username</string>
+<string name="atk_metadata_version">Version</string>
+<string name="atk_metadata_weight">User weight</string>
+
+<string name="core_toolkit_error_intent">Sorry, no suitable application is currently installed on your device to handle this action.</string>
+<string name="core_toolkit_error_intent_compat">Sorry, the external application used is not compatible with this application.</string>
+
+<string name="core_canvas_online_tile_queuing">Queuing</string>
+<string name="core_canvas_online_tile_connecting">Connecting</string>
+<string name="core_canvas_online_tile_not_available">Not available</string>
+<string name="core_canvas_online_tile_local_storage_only">Area not stored</string>
+
+<string name="core_button_open_with_external">Other application</string>
+<string name="core_button_open_with_direction">Maps Directions</string>
+<string name="core_button_open_with_navigation">Navigation</string>
+<string name="core_button_open_with_street_view">Street View</string>
+
+<string name="core_routing_method_driving">Driving</string>
+<string name="core_routing_method_walking">Walking</string>
+<string name="core_routing_method_cycling">Bicycling</string>
+<string name="core_routing_method_transit">Transit</string>
+
+<string name="core_graphics_category_profile">Profile</string>
+<string name="core_graphics_category_events">Events</string>
+<string name="core_graphics_category_waypoints">Waypoints</string>
+<string name="core_graphics_not_enough_data">Not enough data</string>
+<string name="core_graphics_touch_profile">Touch the profile to control</string>
+<string name="core_graphics_title_y">Set Y</string>
+<string name="core_graphics_title_x">Set X</string>
+<string name="core_graphics_axis_none_desc">Do not use this axis.</string>
+<string name="core_graphics_axis_altitude_geoid_desc">Real elevations, computed from the GNSS altitudes and shape of the Earth.</string>
+<string name="core_graphics_axis_altitude_baro_desc">Real elevations, computed from the calibrated pressure data, usually more precise than the GNSS altitudes.</string>
+<string name="core_graphics_axis_altitude_diff_title">Elevation (diff.)</string>
+<string name="core_graphics_axis_altitude_diff_desc">Differences between the barometric and geoid elevations.</string>
+<string name="core_graphics_axis_speed_desc">Instant speeds, computed from the GNSS locations and times.</string>
+<string name="core_graphics_axis_incline_desc">Slope values between each successive locations, computed from the GNSS or barometric altitudes (if available).</string>
+<string name="core_graphics_axis_pressure_raw_desc">Uncalibrated pressures, as given by the barometer.</string>
+<string name="core_graphics_axis_pressure_sl_desc">Calibrated pressures at the sea level, computed from the GNSS altitudes and raw pressure data.</string>
+<string name="core_graphics_axis_accuracy_desc">Accuracy of the locations, with a 68&#37; confidence.</string>
+<string name="core_graphics_axis_battery_desc">Level of the battery.</string>
+<string name="core_graphics_axis_network_desc">Strength of the network protocol signal in use (2G/3G/4G/5G).</string>
+
+
+
+
+<!-- Maps feature other texts -->
+
+<string name="maps_default_name">Base map</string>
+
+<string name="maps_utils_nb_map_1p">%s map</string>
+<string name="maps_utils_nb_maps_1p">%s maps</string>
+<string name="maps_utils_saturation">Saturation</string>
+<string name="maps_utils_contrast">Contrast</string>
+<string name="maps_utils_brightness">Brightness</string>
+<string name="maps_utils_hue">Tint</string>
+
+<string name="maps_erase_color_at_center">Erase screen centre colour</string>
+<string name="maps_erase_color_range_width">Colour ranges width</string>
+<string name="maps_edit_color_inverted">Inverted colours</string>
+<string name="maps_layer_blending_mode">Layer blending mode</string>
+<string name="maps_layer_blending_mode_normal">Normal</string>
+<string name="maps_layer_blending_mode_multiply">Multiply</string>
+<string name="maps_layer_blending_mode_screen">Screen</string>
+<string name="maps_layer_blending_mode_overlay">Overlay</string>
+<string name="maps_layer_blending_mode_lighten">Lighten</string>
+<string name="maps_layer_blending_mode_darken">Darken</string>
+
+<string name="maps_features_display_description_1p">Allows the application to display maps from %s files.</string>
+<string name="maps_features_elevations_download_description">Allows the application to download and store for offline use elevation data of remote areas.</string>
+<string name="maps_features_elevations_maps_description">Adds new maps and layers based on stored elevation data like heights, terrain, hillshading, slopes, etc.</string>
+
+<string name="maps_offline_provider_address_aq">My onboard maps</string>
+<string name="maps_offline_provider_recursive">Recursive scan</string>
+<string name="maps_offline_confirm_oversized_title">Oversized map</string>
+<string name="maps_offline_confirm_oversized_desc">The map you’ve selected is oversized for your Android version and some parts may fail to load.\n\nTry to split this map in different parts, smaller than 2GB.</string>
+
+<string name="maps_community_list_title">Community maps</string>
+<string name="maps_community_list_world_title">Worldwide maps</string>
+<string name="maps_community_list_local_title">Local maps</string>
+<string name="maps_community_list_featured_maps">Featured maps</string>
+<string name="maps_community_list_refreshed_1p">List updated: %s new map(s)</string>
+
+<string name="maps_community_type_aeronautical">Aeronautical</string>
+<string name="maps_community_type_historical">Historical</string>
+<string name="maps_community_type_nautical">Nautical</string>
+<string name="maps_community_type_other">Other</string>
+<string name="maps_community_type_roads">Roads</string>
+<string name="maps_community_type_satellite">Satellite</string>
+<string name="maps_community_type_topo">Topo</string>
+
+
+
+
+<!-- Landmarks feature other texts -->
+
+<string name="landmarks_explorer_dialog_load_error_corrupt">The application couldn’t load the entire file which looks like corrupted.</string>
+<string name="landmarks_explorer_dialog_load_error_memory">The application couldn’t load the entire file due to insufficient memory.</string>
+
+<string name="landmarks_details_statistics_moving_speeds">Moving speeds</string>
+<string name="landmarks_details_statistics_moving_speeds_flat">Flat</string>
+<string name="landmarks_details_statistics_moving_speeds_increase">Increase</string>
+<string name="landmarks_details_statistics_moving_speeds_decrease">Decrease</string>
+<string name="landmarks_details_statistics_moving_speeds_up">Up</string>
+<string name="landmarks_details_statistics_moving_speeds_down">Down</string>
+<string name="landmarks_details_statistics_events">Events</string>
+<string name="landmarks_details_statistics_events_break_1p">Break of %s</string>
+<string name="landmarks_details_statistics_events_max_speed_1p">Maximum speed of %s</string>
+<string name="landmarks_details_statistics_events_min_elevation_1p">Minimum elevation of %s</string>
+<string name="landmarks_details_statistics_events_max_elevation_1p">Maximum elevation of %s</string>
+<string name="landmarks_details_statistics_events_start_1p">Start at %s</string>
+<string name="landmarks_details_statistics_events_end_1p">End at %s</string>
+<string name="landmarks_details_statistics_settings_noise_reduction">Noise reduction</string>
+<string name="landmarks_details_statistics_settings_moving_threshold">Moving threshold</string>
+<string name="landmarks_details_statistics_settings_min_break_time">Min. break time</string>
+<string name="landmarks_details_statistics_settings_include_inter_segments">Include inter-segment gaps</string>
+<string name="landmarks_details_no_data_time">No time data</string>
+<string name="landmarks_details_no_data_elevation">No elevation data</string>
+
+<string name="landmarks_sym_group_custom">Custom</string>
+<string name="landmarks_sym_group_accommodation">Accommodation</string>
+<string name="landmarks_sym_group_amenity">Amenity</string>
+<string name="landmarks_sym_group_food">Food</string>
+<string name="landmarks_sym_group_health">Health</string>
+<string name="landmarks_sym_group_manmade">Man made</string>
+<string name="landmarks_sym_group_natural">Natural</string>
+<string name="landmarks_sym_group_power">Power</string>
+<string name="landmarks_sym_group_shopping">Shopping</string>
+<string name="landmarks_sym_group_sport">Sport</string>
+<string name="landmarks_sym_group_tourism">Tourism</string>
+<string name="landmarks_sym_group_transport">Transport</string>
+<string name="landmarks_sym_group_water">Water</string>
+<string name="landmarks_sym_group_worship">Worship</string>
+
+<string name="core_details_category_geocaching">Geocaching</string>
+
+<string name="landmarks_features_import_description_1p">Allows the application to import placemarks from %s files.</string>
+<string name="landmarks_features_export_description_1p">Allows the application to export placemarks to %s files.</string>
+
+<string name="landmarks_import_options_download_external_content">Download external content</string>
+<string name="landmarks_import_options_fix_gps_week_rollout">Fix GPS week number rollout issues</string>
+
+<string name="landmarks_import_xsv_separator">Separator</string>
+<string name="landmarks_import_xsv_assign">Assign to&#8230;</string>
+<string name="landmarks_import_xsv_first_row_headers">Headers in first row</string>
+
+<string name="landmarks_ldks_provider_title">Online placemarks</string>
+<string name="landmarks_ldks_provider_unavailable">Sorry, right now Community Placemarks is only available in the full or activated versions.</string>
+
+<string name="landmarks_ldks_signin_desc">Save your placemarks online, share them with your friends.</string>
+<string name="landmarks_ldks_signin_button">Sign in</string>
+<string name="landmarks_ldks_signin_username_desc">3 to 10 characters, a-z;A-Z;0-9</string>
+<string name="landmarks_ldks_signin_password_desc">3 to 30 characters</string>
+<string name="landmarks_ldks_signin_failed">Wrong username/password provided, please try again.</string>
+
+<string name="landmarks_ldks_signup_desc">Don’t have an account yet? Create one right now for free!</string>
+<string name="landmarks_ldks_signup_button">Create account</string>
+<string name="landmarks_ldks_signup_entry_exists_1p">%s already exists, please choose another one.</string>
+<string name="landmarks_ldks_button_verify">Verify</string>
+<string name="landmarks_ldks_verification_not_matching">Not matching</string>
+
+<string name="landmarks_ldks_verify_email_message_s">Please verify your email address.</string>
+<string name="landmarks_ldks_verify_email_pin_sent">PIN code sent by email</string>
+
+<string name="landmarks_ldks_toast_connection_failed">Failed to connect to the server, working offline.</string>
+<string name="landmarks_ldks_toast_modify_success">Modifications successfully sent to the server.</string>
+<string name="landmarks_ldks_toast_update_tiles_1p">Updating data from server (%s remaining)&#8230;</string>
+<string name="landmarks_ldks_toast_update_success_1p">%s new item(s).</string>
+<string name="landmarks_ldks_dialog_modify_failed">Failed to send modifications to the server. Please check your last modifications.</string>
+<string name="landmarks_ldks_dialog_wrong_version">Your version is no more supported, please update your client.</string>
+<string name="landmarks_ldks_explorer_header_title_offline">Working offline.</string>
+<string name="landmarks_ldks_explorer_header_up_to_date">Up to date.</string>
+<string name="landmarks_ldks_explorer_header_pendings_1p">%s pending action(s).</string>
+
+<string name="landmarks_ldks_context_menu_log_off">Sign off</string>
+<string name="landmarks_ldks_context_menu_account">My account</string>
+<string name="landmarks_ldks_context_menu_connect">Work online</string>
+<string name="landmarks_ldks_context_menu_disconnect">Work offline</string>
+<string name="landmarks_ldks_context_menu_refresh_folder">Refresh folder</string>
+<string name="landmarks_ldks_context_menu_refresh_area">Refresh area</string>
+
+<string name="landmarks_ldks_explorer_category_hidden_folders">Hidden folders</string>
+<string name="landmarks_ldks_explorer_category_users">Users</string>
+<string name="landmarks_ldks_explorer_category_friends">Friends</string>
+<string name="landmarks_ldks_explorer_category_public_waypoints">Public waypoints</string>
+
+<string name="landmarks_ldks_explorer_name_user">User</string>
+<string name="landmarks_ldks_explorer_name_my_landmarks_title">My waypoints</string>
+<string name="landmarks_ldks_explorer_name_my_landmarks_desc">Your online waypoints</string>
+<string name="landmarks_ldks_explorer_name_public_landmarks_title">My public waypoints</string>
+<string name="landmarks_ldks_explorer_name_public_landmarks_desc">Public waypoints you created or modified</string>
+<string name="landmarks_ldks_explorer_name_my_friends_title">My Friends</string>
+<string name="landmarks_ldks_explorer_name_my_friends_desc">Add users to access their waypoints</string>
+
+<string name="landmarks_ldks_create_folder_hidden_title">Hidden folder</string>
+<string name="landmarks_ldks_create_folder_hidden_desc">Allows you to browse an hidden sub-folder.</string>
+<string name="landmarks_ldks_create_friend_title">Friend</string>
+<string name="landmarks_ldks_create_friend_desc">Define another user as a friend in order to browse its placemarks easier.</string>
+<string name="landmarks_ldks_create_public_waypoint_title">Public waypoint</string>
+<string name="landmarks_ldks_create_public_waypoint_desc">Share some information about this location. A new waypoint will be created on the map, visible to all users.</string>
+<string name="landmarks_ldks_create_public_waypoint_disclaimer_check">Before creating a new waypoint, please check that no other waypoint exists on the same place.</string>
+<string name="landmarks_ldks_create_public_waypoint_disclaimer_personal">Public waypoints are visible to all users. Do not enter any personal information.</string>
+<string name="landmarks_ldks_create_public_waypoint_disclaimer_correct">Please choose carefuly the waypoint icon: it will be displayed on the map for all users.</string>
+
+<string name="landmarks_ldks_details_line_visibility">Visibility</string>
+<string name="landmarks_ldks_details_line_visibility_private">Private</string>
+<string name="landmarks_ldks_details_line_visibility_hidden">Hidden</string>
+<string name="landmarks_ldks_details_line_visibility_public">Public</string>
+
+
+
+
+<!-- Activation texts -->
+
+<string name="activation_dialog_title_lite">Lite version</string>
+<string name="activation_dialog_limited_feature_s">This feature is not available in this free version.</string>
+<string name="activation_dialog_desc_lite_s">Enjoy all features of AlpineQuest and support us by using the complete version, all future updates included.</string>
+<string name="activation_dialog_url_lite">Click here for more information</string>
+
+<string name="activation_context_menu_activation">Activation</string>
+<string name="activation_description_s">Activate the application only if requested. \nIf you’ve purchased the complete version on the Play Store, do not activate but use the dedicated version.</string>
+<string name="activation_status_activated">Activated</string>
+<string name="activation_status_unactivated">Not activated</string>
+<string name="activation_status_locked">Locked by another device</string>
+<string name="activation_info_line_status">Status</string>

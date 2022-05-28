@@ -5,57 +5,57 @@ Spremenite svojo Android napravo v čisto pravi ročni GPS z raznoraznimi topogr
 
 AlpineQuest je <b>celovita rešitev za vaše zunanje športne aktivnosti in avanture</b>, kot so pohodništvo, tek, gorništvo, lov, jadranje, geocaching, navigacija po brezpotju in še veliko več.
 
-Dostopate lahko do različnih vrst <b>topografskih kart,  katere si lahko shranite na napravo, kjer vam bojo vedno pri roki </b> v slučaju, če se znajdete v območju brez internetnega omrežja. AlpineQuest podpira tudi <b> t.i. "on-board" datoteke z zemljevidi</b>, kot so QCT ali OZFx2 zemljevide.
+Dostopate lahko do različnih vrst <b>topografskih kart,  katere si lahko shranite na napravo, kjer vam bojo vedno pri roki </b> v slučaju, če se znajdete v območju brez omrežnega signala. AlpineQuest podpira tudi <b> t.i. "on-board" datoteke z zemljevidi</b>, kot so QCT ali OZFx2 zemljevide.
 
-Z uporabo GPS-a in magnetnega senzorja vaše naprave (z prikazom kompasa), je bojazen da bi se izgubili, stvar preteklosti: <b>Vaša natančna lokacija je prikazana na zemljevidu</b>, s katerim se lahko <b>orientirate</b> z prikazom v katero smer ste usmerjeni.
+Z uporabo GPS-a in magnetnega senzorja vaše naprave (z prikazom kompasa), je bojazen da bi se izgubili, stvar preteklosti: <b>Vaša natančna lokacija je prikazana na zemljevidu</b>, s katerim se lahko <b>orientirate</b> z prikazom smeri kamor ste usmerjeni.
 
-Save and retrieve <b>placemarks</b>, share them with your friends. <b>Track</b> your path, get <b>advanced statistics</b> and <b>interactive graphics</b>. You won’t have anymore questions about what you can accomplish.
+Shranite ali pridobite <b>geolokacije</b>, delite jih z prijatelji. <b>Sled</b>ite svoji poti, pridobite <b>napredno statistiko</b> z <b>interaktivno grafiko</b>. Konec je vprašanj o tem, kaj vse lahko dosežete.
 
-By staying fully operational out of cell coverage (as often in mountain or abroad), AlpineQuest assists you in all your desires of deep wilderness exploring...
+Funkcionalnost aplikacije ni okrnjena četudi se znajdete v območju brez omrežnega signala (kar je pogost pojav v gorah in na tujem), AlpineQuest vam pomaga pri vseh vaših željah po raziskovanju divjine ...
 
-<b><b>Don’t hesitate, try the free Lite version right now!</b></b> [for full version]
-<b><b>Don’t hesitate, use it right now for free!</b></b> [for free version]
+<b><b>Ne odlašajte, preizkusite brezplačno različico sedaj!</b></b> [za celotno različico]
+<b><b>Ne odlašajte, uporabite jo sedaj, povsem zastonj!</b></b> [za brezplačno različico]
 
-<b><b>No advertisements ~ No data monetization ~ No analytics ~ No third party libraries</b></b>
+<b><b>Brez oglaševanja ~ Ne prodajamo vaših podatkov ~ Ne analiziramo vaših podatkov ~ Ne uporabljamo knjižnic tretjih entitet </b></b>
 
-PLEASE report suggestions and issues on our dedicated forum https://www.alpinequest.net/forum (no registration needed, all questions answered) and not in comments.
+PROSIMO sporočite predloge ali napake za v to namemnjen forumu https://www.alpinequest.net/forum (registracija ni potrebna, odgovorimo na vsa vprašanja, le v angleškem jeziku) in ne v komentarje.
 
 
-<u><b>Key features are</b></u> (for full version):
+<u><b>Glavne prednosti</b></u> (za celotno različico):
 
-★★ <b>Maps</b> ★★
-• Built-in <b>online maps</b> (with <b>automatic local storage</b>; road, topo and satellite maps included) and <b>online layers</b> (road names, hillshade, contours);
-• Get more online maps and layers in one click from the included community map list (all major worldwide maps and many local topo maps);
-• Complete <b>area storage</b> of online maps for off-line use;
-• <b>On-board offline maps</b> support (raster) including <b>KMZ Overlays</b>, <b>OziExplorer OZFx2/OZFx3 (partly)/.map+.jpg/.png/.bmp/.gif</b>, <b>GeoPackage GeoPkg</b>, <b>MbTile</b>, <b>SqliteDB</b> and <b>TMS</b> zipped tiles (visit our website to get MOBAC, the free map creator);
-• <b>QuickChart</b> Memory Map support (.qct maps only, .qc3 maps not compatible);
-• Built-in <b>image calibration tool</b> to use any scan or picture as map;
-• <b>Digital elevation model</b> on-board storage (1-arcsec SRTM DEM) and support for <b>HGT</b> elevation files (both 1-arcsec and 3-arcsec resolutions) allowing display of <b>terrain</b>, <b>hillshade</b> and <b>steep slopes</b>;
-• Multiple <b>maps in layers</b> display, with per-map opacity/contrast/color control;
-• Advanced SD memory card Map Explorer.
+★★ <b>Zemljevidi</b> ★★
+• Vključuje <b>online zemljevidi</b> (z <b>avtomatskim lokalnim shranjevanjem</b>; vključeni cestni, topografski in satelitski zemljevidi) in <b>online plasti</b> (imena ulic, senčenje, plastnice);
+• pridobite online zemljevide ter plasti z enim klikom iz seznama zemljevidov skupnosti (Vsi večji svetovni zemljevidi in mnogo lokalnih topografskih zemljevidov);
+• Celotno <b>shranjevanje območij</b> online zemljevidov za uporabo brez omrežnega signala;
+• <b>Lokalno shranjeni zemljevidi</b> podpira (raster) vključno z <b>KMZ plastmi</b>, <b>OziExplorer OZFx2/OZFx3 (partly)/.map+.jpg/.png/.bmp/.gif</b>, <b>GeoPackage GeoPkg</b>, <b>MbTile</b>, <b>SqliteDB</b> and <b>TMS</b> zipped tiles (Obiščite našo spletno stran, da pridobite MOBAC, brezplačni ustvarjalec zemljevidov);
+• <b>QuickChart</b> Memory Map podpora (samo .qct zemljevidi, .qc3 zemljevidi niso podprti);
+• Vključuje <b>Kalibracijo lastnih slik</b> za uporabo katerekoli slike kot zemljevid;
+• <b>Digitalni višinski model</b> shranjeno na napravi (1-arcsec SRTM DEM) in podpora za <b>HGT</b> datoteke z podatki o višini (both 1-arcsec and 3-arcsec resolucije) dovoljuje prikaz <b>terena</b>, <b>senčenje naklona terena</b> in <b>strmih pobočij</b>;
+• Več <b>zemljevidov in plasti</b> prikaz, možnost spreminjanja za vsak zemljevid/sloj posebaj prosojnost/kontrast/barve;
+• Napreden SD memory card Map Explorer.
 
-★★ <b>Placemarks</b> ★★
-• Create, display, save, restore <b>unlimited number of items</b> (waypoints, routes, areas and tracks);
-• Import/export <b>GPX</b> files, <b>Google Earth KML/KMZ</b> files and <b>CSV/TSV</b> files;
-• Import <b>ShapeFile SHP/PRJ/DBF</b>, <b>OziExplorer WPT/PLT</b>, <b>Geocaching LOC</b> waypoints and export <b>AutoCAD DXF</b> files;
-• Save and share online locations with other users using Community Placemarks;
-• <b>Details</b>, <b>advanced statistics</b> and <b>interactive graphics</b> on various items;
-• Time Controller to replay time-tagged tracks;
-• Routes, tracks and areas creator;
-• Advanced SD memory card Placemarks Explorer.
+★★ <b>Oznake lokacije</b> ★★
+• Ustvari, Prikaži, Shrani, Povrni <b>neomejena količina oznak</b> (točke, poti, površine in sledi);
+• Uvoz/izvoz <b>GPX</b> datotek, <b>Google Earth KML/KMZ</b> datotek in <b>CSV/TSV</b> datotek;
+• Uvoz <b>ShapeFile SHP/PRJ/DBF</b>, <b>OziExplorer WPT/PLT</b>, <b>Geocaching LOC</b> točk in izvoz <b>AutoCAD DXF</b> datotek;
+• Shrani ali deli online lokacije z ostalimi uporabniki kateri uporabljajo oznake lokacij skupnosti;
+• <b>Podrobnosti</b>, <b>napredna statistika</b> in <b>interaktivna grafika</b> pri različnih načinih;
+• Časovnik za predvajanje sledi;
+• Ustvarjalec poti, sledi ali območij;
+• Napreden SD memory card Placemarks Explorer.
 
-★★ <b>GPS Position / Orientation</b> ★★
-• On-map geolocation using GPS or Network;
-• Map orientation, <b>compass</b> and target finder;
-• Built-in <b>GPS/Barometric track recorder</b> (long tracking capable, running in a separate and light process);
-• Proximity alerts and leave path alerts;
-• Barometer support (for compatible devices).
+★★ <b>GPS Lokacija / Orientacija</b> ★★
+• Prikaz geolokacije na zemljevidu z uporabo GPS-a ali omrežnega signala;
+• orijentacija zemljevida, <b>kompas</b> in iskalec tarč;
+• Vgrajen <b>GPS/Barometrični snemalnik sledi</b> (Možen dolgega snemanja, zaradi ločenega in lahkega procesa);
+• Alarm prebliževanju tarče in alarm o odstopanju s poti;
+• Podpora barometra (le za naprave z vgrajenim barometrom).
 
-★★ <b>And more:</b> ★★
-• Metric, imperial and hybrid distance units;
-• GPS Latitude/Longitude and grid coordinate formats (UTM, MGRS, USNG, OSGB, SK42, Irish, Swiss, Lambert, QTH Maidenhead Locator System, ...);
-• Ability to import hundreds of coordinate formats from http://www.spatialreference.org;
-• On-map grids display, full screen map view, multi-touch zoom;
+★★ <b>In še veliko več:</b> ★★
+• Metrične, imperične in hibridne enote razdalje;
+• GPS Širina/dolžina in mrežni koordinatni sistemi (UTM, MGRS, USNG, OSGB, SK42, Irish, Swiss, Lambert, QTH Maidenhead Locator System, ...);
+• Možnost uvoza na stotine koordinatnih sistemov iz http://www.spatialreference.org;
+• prikaz mrež na zemljevidu, celozaslonski način, multi-touch zoom;
 • ...
 
 
@@ -63,56 +63,56 @@ PLEASE report suggestions and issues on our dedicated forum https://www.alpinequ
 
 <!-- OfflineMaps description -->
 
-OfflineMaps offers you to access a wide range of maps!
-OfflineMaps+ offers you to access a wide range of maps!
+OfflineMaps ponuja dostop širokega spektra zemljevidov !
+OfflineMaps+ ponuja dostop širokega spektra zemljevidov!
 
 --
 
-Bored to wait for maps to display? Use All-In-One OfflineMaps! <b>Once displayed, maps are stored and remain available, quickly, even with no network access</b>.
+Ste naveličani čakanja, da se zemljevid naloži? Uporabite vse v enem OfflineMaps! <b>Prikazani zemljevid se shrani lokalno in se ob naslednji uporabi prikaže hitro, četudi nimate omrežnega signala</b>.
 
 • <b>Want more than just roads on your maps?</b> You will find what you need here;
-• <b>Used to go to places with poor network coverage?</b> Everything will stay available;
-• <b>Used to go abroad?</b> You won’t be lost anymore;
-• <b>Have a data allowance limit?</b> It will reduce your usage.
+• <b>Se pogosto znajdete v območju slabega omrežnega signala?</b> Vse vam je dostopno;
+• <b>Se velikokrat odpravite v tujino?</b> nikdar se ne boste več izgubili;
+• <b>Imate omejeno količino mobilnih podatkov?</b> AlpineQuest vam bo zmanjšal porabo le teh.
 
 --
 
-<b><b>This Plus version includes all features of the Standard version without ads, and supports import of professional GPS and geographic placemarks file formats (waypoints, routes, tracks, areas) like GPX, Google Earth KML/KMZ (map overlays not supported), Ozi Explorer WPT/PLT, CVS/TSV and Geocaching LOC</b></b>
+<b><b>Ta Plus različica vsebuje vse lastnosti Standardne različice brez oglasov, in podpira uvoz profesionalnih GPS in geografskih lokacijskih datotek formatov (točke, poti, sledi, območja) kot so GPX, Google Earth KML/KMZ (prekrivanja niso podprta), Ozi Explorer WPT/PLT, CVS/TSV and Geocaching LOC</b></b>
 
 --
 
-★★ <b>Maps</b> ★★
-A lot of maps are available, including classical road maps, topographic maps, aerial (satellite) maps and various layers that can be added over any maps: OpenStreetMap (Roads, Topo), USGS National Map (Hi-res topo, Aerial imagery), Worldwide Military Soviet topo maps, etc.
-• All maps can be stacked in layers, with precise opacity control;
-• Select and store large areas in few clicks;
-• Stored space is clear and can be easily deleted.
+★★ <b>Zemljevidi</b> ★★
+Na voljo je veliko zemljevidov, vklučno z avtokartami, topografskimi zemljevidi, aero (satelitskimi) posnetki in različni sloji s katerimi lahko prekrijete zemljevide: OpenStreetMap (Ceste, Topo), USGS National Map (Hi-res topo, Aero posnetki), Svetovno vojaški Sovietski topografski zemljevid, itd.
+• Vse zemljevide lahko stlačite v sloje, z možnostjo precizne nastavitve prosojnosti;
+• Izberite in shranite večja območja z nekaj kliki;
+• Shranjeni podatki se lahko počistijo na lahek način.
 
-★★ <b>Display, store and retrieve unlimited placemarks</b> ★★
-You can add various items on the map such as waypoints, icons, routes, areas and tracks.
-You can easily manage them using the powerful SD-Card Placemarks Explorer.
+★★ <b>Prikaži, shrani in povrni neomejene oznake lokacij</b> ★★
+Lahko dodate različne predmete na zemljevide kot so recimo točke, ikone, poti, območja in sledi.
+z njimi lahko z lahkoto upravljate z uporabo zmogljivega SD-Card Placemarks Explorer-ja.
 
-★★ <b>On-map GPS Location & Orientation</b> ★★
-Your real location and direction are clearly displayed on the map, which can be rotated to match your real orientation (depends on device capabilities).
-Easy turn on/off to save battery.
+★★ <b>Prikaz lokacije na Zemljevidu & Orientacija</b> ★★
+Vaša trenutna geolokacija in smer so vidno prikazani na zemljevidu, kateri so lahko obrnejo v smer pogleda (odvisno od zmogljivosti naprave).
+Preprost vklop/izklop za varčevanje z energijo.
 
-And also:
-• Metric, imperial and hybrid distance units;
-• GPS Latitude/Longitude and grid coordinate formats (UTM, MGRS, USNG, OSGB Grid, Irish Grid, Swiss Grid, Lambert Grids, DFCI Grid, QTH Maidenhead Locator System, ...);
-• Ability to import hundreds of coordinate formats from http://www.spatialreference.org;
-• On-map grids display;
-• Full screen map view;
+in tudi:
+• Metrične, Imperične in hibridne enote razdalje;
+• GPS Širina/dolžina in mrežni koordinatni sistemi (UTM, MGRS, USNG, OSGB Grid, Irish Grid, Swiss Grid, Lambert Grids, DFCI Grid, QTH Maidenhead Locator System, ...);
+• Možnost uvoza na stotine koordinatnih sistemov iz http://www.spatialreference.org;
+• Mrežni prikaz;
+• Celiozaslonski način;
 • Multi-touch zoom;
 • ...
 
-★★ <b>Need more?</b> ★★
-If you are a real adventurer, try <b>AlpineQuest Off-Road Explorer</b>, the complete outdoor solution based on All-In-One OfflineMaps, loaded with a powerful GPS Location Tracker and more: https://www.alpinequest.net/google-play
+★★ <b>Potrebujete več?</b> ★★
+Če ste pravi avanturist, preizkusite <b>AlpineQuest Off-Road Explorer</b>, Celostna rešitev za aktivnosti na prostem na način "vse v enem" zemljevidu, shranjenem lokalno na napravi, katerega poganja zmogljiv GPS lokator in še veliko več: https://www.alpinequest.net/google-play
 
 
 
 
 <!-- About OM -->
 
-<string name="om_whatsnew_howto_title">How does it work?</string>
+<string name="om_whatsnew_howto_title">Kako deluje?</string>
 <string name="om_whatsnew_howto_content">Maps are retrieved from the Internet. Eveything that is displayed is stored locally to remain available when offline.\nThere are plenty of maps and layers available.</string>
 
 <string name="om_whatsnew_alpinequest_title">Need more features?</string>

@@ -398,31 +398,31 @@ in tudi:
 
 <!-- Application main texts -->
 
-<string name="application_support_thanks_for_using_1p">Thank you for using %s!</string>
-<string name="application_support_comment_on_store_1p">We need you! Support us by leaving a comment on the %s Store!</string>
-<string name="application_help_title">Where to find some help?</string>
-<string name="application_help_content">To get help, ask any question, report bugs, don’t hesitate:</string>
+<string name="application_support_thanks_for_using_1p">Zahvaljujemo se vam za uporabo %s!</string>
+<string name="application_support_comment_on_store_1p">Potrebujemo manjšo uslugo! Podpri nas z oddajo komentarja v %s Trgovini!</string>
+<string name="application_help_title">Kje najti pomoč?</string>
+<string name="application_help_content">Pridobite pomoč, Vprašajte, Izpostavite napake, nikar ne odlašajte:</string>
 
-<string name="application_eula">Before using the application, please read, understand and agree the Psyberia EULA:</string>
-<string name="application_disclaimer">All images, values and measurements given by this application are indicative and may contain errors. Always use it in conjunction with official sources and your common sense, make sure you have all the necessary equipment and training, take all sensible precautions, and be aware of the risks.</string>
+<string name="application_eula">Predno začnete uporabljati aplikacijo, prosimo preberite, in se strinjajte z pogoji uporabe the Psyberia EULA:</string>
+<string name="application_disclaimer">Vse slike, vrednosti in meritve, ki jih poda ta aplikacija, so okvirne in lahko prihaja do napak. Vedno jo uporabljajte v povezavi z uradnimi viri in zdravo kmečko pametjo, poskrbite, da se na pot odpravite usposobljeni in z vso potrebno opremo, upoštevajte vse razumne previdnostne ukrepe in se zavedajte tveganj.</string>
 
-<string name="core_loader_loading">Loading components&#8230;</string>
-<string name="core_loader_restoring">Restoring items&#8230;</string>
-<string name="core_safecheck_bad_signature">This version of the application has been illegally modified and may contain viruses. Please only use official versions.</string>
+<string name="core_loader_loading">Nalagam komponente&#8230;</string>
+<string name="core_loader_restoring">Obnavljam predmete&#8230;</string>
+<string name="core_safecheck_bad_signature">Ta različica aplikacije je bila nezakonito modificirana in lahko vsebuje škodljivo kodo in viruse. Prosimo, da uporabljate le uradno različico.</string>
 
-<string name="canvas_feature_disabled">Due to legal issues, this feature is disabled for the following map(s):</string>
+<string name="canvas_feature_disabled">Zaradi zakonskih omejitev je ta možnost onesposobljena za naslednje zemljevide(e):</string>
 
-<string name="core_workspace_switch">Switch workspace</string>
-<string name="core_workspace_default">Default workspace</string>
+<string name="core_workspace_switch">Zamenjaj delovno okolje</string>
+<string name="core_workspace_default">Privzeto delovno okolje</string>
 
-<string name="core_locker_unlock_s">Long-press volume button (-) to lock and unlock the map from touches, press return button to unlock.</string>
-<string name="core_locker_next_s">Long-press volume button (+) to display next view.</string>
+<string name="core_locker_unlock_s">Dolg-pritisk tipke za glasnost (-) za zaklep zemljevida pred dotiki. Izključite ga z tipko za nazaj.</string>
+<string name="core_locker_next_s">Dolg-dotik tipke za glasnost (+) za prikaz naslednjega pogleda.</string>
 
-<string name="core_screensaver_name">Screensaver</string>
+<string name="core_screensaver_name">Ohranjevalnik zaslona</string>
 
-<string name="core_features_get_more">Get more features!</string>
-<string name="core_features_manage">Manage features</string>
-<string name="core_features_add_support_1p">%s Support</string>
+<string name="core_features_get_more">Pridobite več možnosti!</string>
+<string name="core_features_manage">Upravljaj z možnostmi</string>
+<string name="core_features_add_support_1p">%s Podpora</string>
 
 
 

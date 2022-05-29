@@ -9,7 +9,7 @@ Dostopate lahko do različnih vrst <b>topografskih kart,  katere si lahko shrani
 
 Z uporabo GPS-a in magnetnega senzorja vaše naprave (z prikazom kompasa), je bojazen da bi se izgubili, stvar preteklosti: <b>Vaša natančna lokacija je prikazana na zemljevidu</b>, s katerim se lahko <b>orientirate</b> z prikazom smeri kamor ste usmerjeni.
 
-Shranite ali pridobite <b>geolokacije</b>, delite jih z prijatelji. <b>Sled</b>ite svoji poti, pridobite <b>napredno statistiko</b> z <b>interaktivno grafiko</b>. Konec je vprašanj o tem, kaj vse lahko dosežete.
+Shranite ali pridobite <b>geopodatki</b>, delite jih z prijatelji. <b>Sled</b>ite svoji poti, pridobite <b>napredno statistiko</b> z <b>interaktivno grafiko</b>. Konec je vprašanj o tem, kaj vse lahko dosežete.
 
 Funkcionalnost aplikacije ni okrnjena četudi se znajdete v območju brez omrežnega signala (kar je pogost pojav v gorah in na tujem), AlpineQuest vam pomaga pri vseh vaših željah po raziskovanju divjine ...
 
@@ -34,11 +34,11 @@ PROSIMO sporočite predloge ali napake za v to namemnjen forumu https://www.alpi
 • Več <b>zemljevidov in plasti</b> prikaz, možnost spreminjanja za vsak zemljevid/sloj posebaj prosojnost/kontrast/barve;
 • Napreden SD memory card Map Explorer.
 
-★★ <b>Oznake lokacije</b> ★★
+★★ <b>Geopodatki</b> ★★
 • Ustvari, Prikaži, Shrani, Povrni <b>neomejena količina oznak</b> (točke, poti, površine in sledi);
 • Uvoz/izvoz <b>GPX</b> datotek, <b>Google Earth KML/KMZ</b> datotek in <b>CSV/TSV</b> datotek;
 • Uvoz <b>ShapeFile SHP/PRJ/DBF</b>, <b>OziExplorer WPT/PLT</b>, <b>Geocaching LOC</b> točk in izvoz <b>AutoCAD DXF</b> datotek;
-• Shrani ali deli online lokacije z ostalimi uporabniki kateri uporabljajo oznake lokacij skupnosti;
+• Shrani ali deli online lokacije z ostalimi uporabniki kateri uporabljajo geopodatke skupnosti;
 • <b>Podrobnosti</b>, <b>napredna statistika</b> in <b>interaktivna grafika</b> pri različnih načinih;
 • Časovnik za predvajanje sledi;
 • Ustvarjalec poti, sledi ali območij;
@@ -77,7 +77,7 @@ Ste naveličani čakanja, da se zemljevid naloži? Uporabite vse v enem OfflineM
 
 --
 
-<b><b>Ta Plus različica vsebuje vse lastnosti Standardne različice brez oglasov, in podpira uvoz profesionalnih GPS in geografskih lokacijskih datotek formatov (točke, poti, sledi, območja) kot so GPX, Google Earth KML/KMZ (prekrivanja niso podprta), Ozi Explorer WPT/PLT, CVS/TSV and Geocaching LOC</b></b>
+<b><b>Ta Plus različica vsebuje vse lastnosti Standardne različice brez oglasov, in podpira uvoz profesionalnih GPS in ostalih formatov datotek geopodatkov (točke, poti, sledi, območja) kot so GPX, Google Earth KML/KMZ (prekrivanja niso podprta), Ozi Explorer WPT/PLT, CVS/TSV and Geocaching LOC</b></b>
 
 --
 
@@ -87,7 +87,7 @@ Na voljo je veliko zemljevidov, vklučno z avtokartami, topografskimi zemljevidi
 • Izberite in shranite večja območja z nekaj kliki;
 • Shranjeni podatki se lahko počistijo na lahek način.
 
-★★ <b>Prikaži, shrani in povrni neomejene oznake lokacij</b> ★★
+★★ <b>Prikaži, shrani in povrni neomejeno št. geopodatkov</b> ★★
 Lahko dodate različne predmete na zemljevide kot so recimo točke, ikone, poti, območja in sledi.
 z njimi lahko z lahkoto upravljate z uporabo zmogljivega SD-Card Placemarks Explorer-ja.
 
@@ -113,61 +113,61 @@ in tudi:
 <!-- About OM -->
 
 <string name="om_whatsnew_howto_title">Kako deluje?</string>
-<string name="om_whatsnew_howto_content">Maps are retrieved from the Internet. Eveything that is displayed is stored locally to remain available when offline.\nThere are plenty of maps and layers available.</string>
+<string name="om_whatsnew_howto_content">Zemljevidi se nalagajo iz spleta. Vse kar se prikaže na zaslonu se shrani lokakno na napravo, kar pride še kako prav, ko se znajdete v območjih ki niso pokrita z omrežjem .\nTam so vam na voljo različni zemljevi in plasti.</string>
 
-<string name="om_whatsnew_alpinequest_title">Need more features?</string>
-<string name="om_whatsnew_alpinequest_content">If you need a complete outdoor solution with offline maps, check out our other application, AlpineQuest. It comes with many more features, like a powerful GPS and barometric location tracker:</string>
+<string name="om_whatsnew_alpinequest_title">Potrebujete še več funkcionalnosti?</string>
+<string name="om_whatsnew_alpinequest_content">Če potrebujete celovito rešitev za zunanje aktivnost z zamljevidi, ki ne potrebujejo internetnega dostopa, preverite naše ostale aplikacije, AlpineQuest. zagotavlja veliko več možnosti, kot naprimer vrhunski ročni GPS in barometrični lokalizator:</string>
 
 
 
 
 <!-- Menus -->
 
-<string name="core_submenu_title_display">Information box</string>
-<string name="core_submenu_title_options">Options</string>
-<string name="core_submenu_hide_menu">Hide menu</string>
-<string name="core_submenu_lock_screen">Lock screen</string>
-<string name="core_submenu_print_map">Print map</string>
-<string name="core_submenu_screen_center_coordinates">Screen centre coordinates</string>
-<string name="core_submenu_display_grid">Display grid</string>
-<string name="core_submenu_display_secondary_grid">Display secondary grid</string>
-<string name="core_submenu_display_radius_ruler">Display circular scale</string>
-<string name="core_submenu_night_mode">Night mode</string>
+<string name="core_submenu_title_display">Info</string>
+<string name="core_submenu_title_options">Možnosti</string>
+<string name="core_submenu_hide_menu">Skriti meni</string>
+<string name="core_submenu_lock_screen">Zakleni zaslon</string>
+<string name="core_submenu_print_map">Zajemi zemljevid</string>
+<string name="core_submenu_screen_center_coordinates">Koordinate sredine zaslona</string>
+<string name="core_submenu_display_grid">Prikaži mrežo</string>
+<string name="core_submenu_display_secondary_grid">Prikaži sekundarno mrežo</string>
+<string name="core_submenu_display_radius_ruler">Prikaži krožno skalo</string>
+<string name="core_submenu_night_mode">Nočni način</string>
 
-<string name="maps_submenu_title">Maps &amp; layers</string>
-<string name="maps_submenu_available_maps">Available maps</string>
-<string name="maps_submenu_displayed_maps">Displayed maps</string>
-<string name="maps_submenu_area_downloader">Select and save an area</string>
-<string name="maps_submenu_display_name">Map name</string>
-<string name="maps_submenu_display_scale_value">Map scale value</string>
-<string name="maps_submenu_display_scale_bar">Map scale bar</string>
-<string name="maps_submenu_only_use_local_storage">Use only local storage</string>
-<string name="maps_submenu_show_storage_coverage">Show local storage coverage</string>
-<string name="maps_submenu_correct_china_shift">Correct offsets over China</string>
-<string name="maps_submenu_favorites_title">Favourite maps &amp; sets</string>
+<string name="maps_submenu_title">Zemljevidi &amp; plasti</string>
+<string name="maps_submenu_available_maps">Razpoložljivi zemljevidi</string>
+<string name="maps_submenu_displayed_maps">Prikaži zemljevide</string>
+<string name="maps_submenu_area_downloader">Izberi in shrani območje</string>
+<string name="maps_submenu_display_name">Ime zemljevida</string>
+<string name="maps_submenu_display_scale_value">Merilo zemljevida</string>
+<string name="maps_submenu_display_scale_bar">Skala merila</string>
+<string name="maps_submenu_only_use_local_storage">Uporabi le lokalni pomnilnik</string>
+<string name="maps_submenu_show_storage_coverage">Prikaži naloženo v pomnilniku </string>
+<string name="maps_submenu_correct_china_shift">Pravilen odklon čez Kitajsko</string>
+<string name="maps_submenu_favorites_title">Priljubljeni zemljevidi &amp; seti</string>
 
-<string name="landmarks_submenu_title">Placemarks</string>
-<string name="landmarks_submenu_browse">Explore placemarks</string>
-<string name="landmarks_submenu_create">Create a placemark</string>
-<string name="landmarks_submenu_displayed_landmarks">Displayed placemarks</string>
-<string name="landmarks_submenu_control_time">Control time</string>
-<string name="landmarks_submenu_display_target_information">Target information</string>
-<string name="landmarks_submenu_display_labels">Placemarks labels</string>
+<string name="landmarks_submenu_title">Geopodatki</string>
+<string name="landmarks_submenu_browse">Raziskuj geopodatke</string>
+<string name="landmarks_submenu_create">Ustvari oznako položaja</string>
+<string name="landmarks_submenu_displayed_landmarks">Prikaži geopodatke</string>
+<string name="landmarks_submenu_control_time">Časovnica</string>
+<string name="landmarks_submenu_display_target_information">Informacije o tarči</string>
+<string name="landmarks_submenu_display_labels">Imena geopodatkov</string>
 
 <string name="geolocation_submenu_title">Positioning</string>
-<string name="geolocation_submenu_dashboard">Explorer mode</string>
-<string name="geolocation_submenu_geolocation">Real-time position</string>
-<string name="geolocation_submenu_tracker">Track recorder</string>
+<string name="geolocation_submenu_dashboard">Raziskovalec način</string>
+<string name="geolocation_submenu_geolocation">Trenutna lokacija</string>
+<string name="geolocation_submenu_tracker">snemalnik sledi</string>
 <string name="geolocation_submenu_barometer">Barometer</string>
-<string name="geolocation_submenu_rotate">Rotate the map (using GNSS)</string>
-<string name="geolocation_submenu_display_information">Positioning status</string>
-<string name="geolocation_submenu_tracker_information">Track recorder status</string>
+<string name="geolocation_submenu_rotate">Obračanje zemljevida (z uporabo GNSS)</string>
+<string name="geolocation_submenu_display_information">Status pozicije</string>
+<string name="geolocation_submenu_tracker_information">Status snemalnika sledi</string>
 
-<string name="orientation_submenu_title">Orientation</string>
-<string name="orientation_submenu_compass">Compass</string>
-<string name="orientation_submenu_rotate">Rotate the map (using compass)</string>
-<string name="orientation_submenu_compass_on_map">Display compass on the map</string>
-<string name="orientation_submenu_status">Current heading</string>
+<string name="orientation_submenu_title">Orientacija</string>
+<string name="orientation_submenu_compass">Kompas</string>
+<string name="orientation_submenu_rotate">Obračanje zemljevida (z uporabo kompasa)</string>
+<string name="orientation_submenu_compass_on_map">Prikaži kompas na zemljevidu</string>
+<string name="orientation_submenu_status">Trenutna smer</string>
 
 
 

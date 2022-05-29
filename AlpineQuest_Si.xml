@@ -253,28 +253,28 @@ in tudi:
 
 <!-- Common texts -->
 
-<string name="core_utils_item_1p">%s item</string>
-<string name="core_utils_items_1p">%s items</string>
-<string name="core_utils_error_1p">%s error</string>
-<string name="core_utils_errors_1p">%s errors</string>
-<string name="core_utils_opacity_1p">%s opacity</string>
-<string name="core_utils_all_1p">%s all</string>
-<string name="core_utils_selected_1p">%s selected</string>
+<string name="core_utils_item_1p">%s predmet</string>
+<string name="core_utils_items_1p">%s predmeti</string>
+<string name="core_utils_error_1p">%s Napaka</string>
+<string name="core_utils_errors_1p">%s Napake</string>
+<string name="core_utils_opacity_1p">%s prosojnost</string>
+<string name="core_utils_all_1p">%s vse</string>
+<string name="core_utils_selected_1p">%s izbrano</string>
 
-<string name="core_utils_size_medium">Medium</string>
+<string name="core_utils_size_medium">Srednje</string>
 
-<string name="core_utils_size_very_small">Very small</string>
-<string name="core_utils_size_small">Small</string>
-<string name="core_utils_size_large">Large</string>
-<string name="core_utils_size_very_large">Very large</string>
+<string name="core_utils_size_very_small">Zelo majhno</string>
+<string name="core_utils_size_small">Majhno</string>
+<string name="core_utils_size_large">Veliko</string>
+<string name="core_utils_size_very_large">Zelo veliko</string>
 
-<string name="core_utils_size_very_low">Very low</string>
-<string name="core_utils_size_low">Low</string>
-<string name="core_utils_size_high">High</string>
-<string name="core_utils_size_very_high">Very high</string>
+<string name="core_utils_size_very_low">Zelo nizko</string>
+<string name="core_utils_size_low">Nizko</string>
+<string name="core_utils_size_high">Visoko</string>
+<string name="core_utils_size_very_high">Zelo visoko</string>
 
-<string name="core_utils_units_distance_meter">metre</string>
-<string name="core_utils_units_angle_degree">degree</string>
+<string name="core_utils_units_distance_meter">meter</string>
+<string name="core_utils_units_angle_degree">stopinja</string>
 
 <string name="core_utils_units_time_hour_abbrev">h</string>
 <string name="core_utils_units_time_minute_abbrev">min</string>
@@ -299,99 +299,99 @@ in tudi:
 <string name="core_utils_units_energy_kcal_abbrev">kcal</string>
 <string name="core_utils_units_cardinals_abbrev">N,S,E,W</string>
 
-<string name="core_utils_default">default</string>
-<string name="core_utils_session_only">this session only</string>
+<string name="core_utils_default">prevzeto</string>
+<string name="core_utils_session_only">samo ta seja</string>
 
-<string name="core_toolkit_share_location_1p">The location is %s</string>
-<string name="core_toolkit_share_location_named_2p" formatted="false">The location of %s is %s</string>
-<string name="core_toolkit_share_location_received">New location</string>
-<string name="core_toolkit_share_location_list_empty">No location to display.</string>
+<string name="core_toolkit_share_location_1p">Lokacija je %s</string>
+<string name="core_toolkit_share_location_named_2p" formatted="false">Lokacija %s je %s</string>
+<string name="core_toolkit_share_location_received">Nova lokacija</string>
+<string name="core_toolkit_share_location_list_empty">Ni lokacije za prikaz.</string>
 
-<string name="core_toolkit_loading">Loading</string>
-<string name="core_toolkit_please_wait">Please wait</string>
-<string name="core_toolkit_success">Success</string>
-<string name="core_toolkit_aborted">Aborted</string>
+<string name="core_toolkit_loading">Nalagam</string>
+<string name="core_toolkit_please_wait">Prosimo počakajte</string>
+<string name="core_toolkit_success">Uspelo je</string>
+<string name="core_toolkit_aborted">Preklicano</string>
 
-<string name="core_toolkit_optional">Optional</string>
-<string name="core_toolkit_field_required">This field is required</string>
-<string name="core_toolkit_custom_item">Custom item</string>
+<string name="core_toolkit_optional">Neobvezno</string>
+<string name="core_toolkit_field_required">To polje je obvezno</string>
+<string name="core_toolkit_custom_item">Predmet po meri</string>
 
-<string name="core_toolkit_error">Error</string>
-<string name="core_toolkit_error_no_network">No network</string>
-<string name="core_toolkit_error_network">Network error</string>
-<string name="core_toolkit_error_unknown">Unknown error</string>
+<string name="core_toolkit_error">Napaka</string>
+<string name="core_toolkit_error_no_network">Ni omrežja</string>
+<string name="core_toolkit_error_network">Omrežna napaka</string>
+<string name="core_toolkit_error_unknown">Neznana napaka</string>
 
-<string name="core_toolkit_error_occured_s">An error occurred.</string>
-<string name="core_toolkit_error_data_corrupted_s">Local data may be corrupted.</string>
-<string name="core_toolkit_error_action_failed_s_1p">The requested action “%s” failed.</string>
-<string name="core_toolkit_error_coupon_invalid_s">This coupon is not valid or has expired.</string>
-<string name="core_toolkit_error_out_of_memory_s">Running out of memory. Please restart the application.</string>
-<string name="core_toolkit_error_storage_s">Failed to detect or use a suitable storage location.</string>
-<string name="core_toolkit_error_storage_configure_s">Would you like to configure it now?</string>
-<string name="core_toolkit_error_limited_features_s">Functionalities will be limited.</string>
-<string name="core_toolkit_error_write_no_space_left_s">No more space available on this storage.</string>
-<string name="core_toolkit_error_write_no_grants_s">This storage is not writable.</string>
-<string name="core_toolkit_error_intent_input_s">Unable to handle external content.</string>
-<string name="core_toolkit_error_service_unavailable_s">Service is unavailable.</string>
-<string name="core_toolkit_error_device_locked_s">Please unlock your device.</string>
-<string name="core_toolkit_error_report_message_1p">Thanks for sending us this report containing %s error(s).</string>
+<string name="core_toolkit_error_occured_s">Pojavila se je napaka.</string>
+<string name="core_toolkit_error_data_corrupted_s">Podatki v pomnilniku so poškodaovani.</string>
+<string name="core_toolkit_error_action_failed_s_1p">Željena operacija “%s” ni uspela.</string>
+<string name="core_toolkit_error_coupon_invalid_s">Ta kupon ni veljaven ali pa je potekel.</string>
+<string name="core_toolkit_error_out_of_memory_s">Nizek nivo medpolnilnika. Prosimo ponovno zaženite aplikacijo.</string>
+<string name="core_toolkit_error_storage_s">Nismo uspeli najti ali uporabiti primernega prostora za shranjevanje.</string>
+<string name="core_toolkit_error_storage_configure_s">Želite nastaviti sedaj?</string>
+<string name="core_toolkit_error_limited_features_s">Funkcionalnost bo omejena.</string>
+<string name="core_toolkit_error_write_no_space_left_s">V tem polnilniku ni več prostora</string>.</string>
+<string name="core_toolkit_error_write_no_grants_s">Na ta polnilnik se sedaj lahko zapišejo podatki.</string>
+<string name="core_toolkit_error_intent_input_s">Upravljanje z zunanjimi podatki ni bilo mogoče.</string>
+<string name="core_toolkit_error_service_unavailable_s">Storitev je nedosegljiva.</string>
+<string name="core_toolkit_error_device_locked_s">Prosimo odklenite napravo.</string>
+<string name="core_toolkit_error_report_message_1p">Zahvaljujemo se za poslano poročilo, ki vsebuje %s napak(e).</string>
 
-<string name="core_toolkit_message_restart_application_s">Please restart the application.</string>
-<string name="core_toolkit_message_item_saved_s">Item correctly saved.</string>
-<string name="core_toolkit_swipe_up_for_options">Swipe up for options</string>
+<string name="core_toolkit_message_restart_application_s">Prosimo, da aplikacijo zaženete znova.</string>
+<string name="core_toolkit_message_item_saved_s">Predmet uspešno shranjen.</string>
+<string name="core_toolkit_swipe_up_for_options">Podrsaj navzgor za opcije</string>
 
-<string name="core_toolkit_permissions_location_name">Location access</string>
-<string name="core_toolkit_permissions_storage_name">Storage access</string>
-<string name="core_toolkit_permissions_background_location_description_s">If you want to record a track or get warnings when following a path or when using proximity alerts, even if the main application window is closed or if the screen is off, the application requires access to your location in the background.</string>
-<string name="core_toolkit_permissions_background_location_privacy_s">Locations collected in the background will be strictly used for the requested features and will only remain in the application.</string>
-<string name="core_toolkit_permissions_background_location_question_s">Do you want to allow the application to access your location in the background in addition to normal location access?</string>
-<string name="core_toolkit_permissions_not_granted_s">You must allow the requested permission to use this feature.</string>
+<string name="core_toolkit_permissions_location_name">Dostop do lokacije</string>
+<string name="core_toolkit_permissions_storage_name">Dostop do pomnilnika</string>
+<string name="core_toolkit_permissions_background_location_description_s">Če želite posneti sled, prejeti opozorila na poti ali pa morda uporabljate opozorila o približevanju, tudi če je glavno okno aplikacije zaprto ali če je zaslon izklopljen, aplikacija zahteva dostop do vaše lokacije v ozadju.</string>
+<string name="core_toolkit_permissions_background_location_privacy_s">Lokacijski podatki, zbrani v ozadju, bodo strogo uporabljeni le za zahtevane funkcije in bodo ostanejo le na vaši napravi.</string>
+<string name="core_toolkit_permissions_background_location_question_s">Ali dovolite aplikaciji dostop do vaše lokacije v ozadju poleg običajnega dostopa do lokacije?</string>
+<string name="core_toolkit_permissions_not_granted_s">Za uporabo te funkcije morate aplikaciji dovoliti dostop.</string>
 
-<string name="core_toolkit_question_are_you_sure_s">Are you sure?</string>
-<string name="core_toolkit_question_confirm_exit_s">Quit the application?</string>
-<string name="core_toolkit_question_file_already_imported_s">This file has already been imported. Open existing or import again?</string>
-<string name="core_toolkit_question_replace_existing_item_s">This item already exists, replace it?</string>
+<string name="core_toolkit_question_are_you_sure_s">Ali ste prepričani?</string>
+<string name="core_toolkit_question_confirm_exit_s">Zapri aplikacijo?</string>
+<string name="core_toolkit_question_file_already_imported_s">To datoteko je že uvožena. Odpri obstoječo ali ponovno uvozi?</string>
+<string name="core_toolkit_question_replace_existing_item_s">Ta predmet že obstaja, ga želite nadomestiti?</string>
 
-<string name="core_explorer_address_device">Device</string>
-<string name="core_explorer_address_sdcard">SD Card</string>
-<string name="core_explorer_address_storage">Device storage</string>
-<string name="core_explorer_address_downloads">My downloads</string>
-<string name="core_explorer_cell_empty">This place is empty.</string>
-<string name="core_explorer_file_doesnt_exist">File does not exist.</string>
-<string name="core_explorer_scanning_1p">Scanning “%s”&#8230;</string>
-<string name="core_explorer_folder_create_desc">Folders help you organise your items easily.</string>
-<string name="core_explorer_folder_permission_s">You’ve not granted to the application the right to access your files.</string>
-<string name="core_explorer_folder_permission_limited_s">Some files may not be displayed.</string>
-<string name="core_explorer_bookmarks">Bookmarks</string>
-<string name="core_explorer_bookmark">Bookmark</string>
+<string name="core_explorer_address_device">Naprava</string>
+<string name="core_explorer_address_sdcard">SD kartica</string>
+<string name="core_explorer_address_storage">Pomnilnik naprave</string>
+<string name="core_explorer_address_downloads">Moji prenost</string>
+<string name="core_explorer_cell_empty">Ta prostor je prazen.</string>
+<string name="core_explorer_file_doesnt_exist">Ta datoteka ne obstaja.</string>
+<string name="core_explorer_scanning_1p">Skeniranje “%s”&#8230;</string>
+<string name="core_explorer_folder_create_desc">Mape vam omogočajo preprosto urejenje predmetov.</string>
+<string name="core_explorer_folder_permission_s">Aplikaciji niste dovolili dostopa do datotek v napravi.</string>
+<string name="core_explorer_folder_permission_limited_s">Nekatere datoteke morda ne bojo prikazane.</string>
+<string name="core_explorer_bookmarks">Zaznamki</string>
+<string name="core_explorer_bookmark">Zaznamek</string>
 
-<string name="core_explorer_item_delete_success_s">Item deleted.</string>
-<string name="core_explorer_item_move_success_s">Item moved.</string>
-<string name="core_explorer_item_rename_success_s">Item renamed.</string>
-<string name="core_explorer_item_copy_success_s">Item copied.</string>
+<string name="core_explorer_item_delete_success_s">Predmet izbrisan.</string>
+<string name="core_explorer_item_move_success_s">Predmet premaknjen.</string>
+<string name="core_explorer_item_rename_success_s">Predmet preimenovan.</string>
+<string name="core_explorer_item_copy_success_s">Predmet kopiran.</string>
 
-<string name="core_explorer_context_group_sort_title">Sort by</string>
-<string name="core_explorer_context_group_multiselect">Multiple selection</string>
-<string name="core_explorer_context_group_display_mode">Display mode</string>
-<string name="core_explorer_context_group_display_mode_list">List</string>
-<string name="core_explorer_context_group_display_mode_preview">Preview</string>
+<string name="core_explorer_context_group_sort_title">Razvrsti</string>
+<string name="core_explorer_context_group_multiselect">Večkratni izbor</string>
+<string name="core_explorer_context_group_display_mode">Način prikaza</string>
+<string name="core_explorer_context_group_display_mode_list">Seznam</string>
+<string name="core_explorer_context_group_display_mode_preview">Predogled</string>
 
-<string name="core_explorer_category_files">Files</string>
-<string name="core_explorer_category_files_typed_1p">%s files</string>
-<string name="core_explorer_category_folders">Folders</string>
-<string name="core_explorer_category_importables">Files to import</string>
-<string name="core_explorer_name_file">File</string>
-<string name="core_explorer_name_file_typed_1p">%s file</string>
-<string name="core_explorer_name_folder">Folder</string>
-<string name="core_explorer_nb_folder_1p">%s folder</string>
-<string name="core_explorer_nb_folders_1p">%s folders</string>
-<string name="core_explorer_nb_file_1p">%s file</string>
-<string name="core_explorer_nb_files_1p">%s files</string>
-<string name="core_explorer_nb_unknown_file_1p">%s unknown file</string>
-<string name="core_explorer_nb_unknown_files_1p">%s unknown files</string>
+<string name="core_explorer_category_files">Datoteke</string>
+<string name="core_explorer_category_files_typed_1p">%s datoteke</string>
+<string name="core_explorer_category_folders">Mape</string>
+<string name="core_explorer_category_importables">Datoteke za uvoz</string>
+<string name="core_explorer_name_file">Datoteka</string>
+<string name="core_explorer_name_file_typed_1p">%s datoteka</string>
+<string name="core_explorer_name_folder">Mapa</string>
+<string name="core_explorer_nb_folder_1p">%s mapa</string>
+<string name="core_explorer_nb_folders_1p">%s mape</string>
+<string name="core_explorer_nb_file_1p">%s datoteka</string>
+<string name="core_explorer_nb_files_1p">%s datoteke</string>
+<string name="core_explorer_nb_unknown_file_1p">%s neznana datoteka</string>
+<string name="core_explorer_nb_unknown_files_1p">%s neznane datoteke</string>
 
-<string name="core_explorer_setting_fast_scroll">Enable fast scrolling</string>
-<string name="core_explorer_setting_collapsible_sections">Use collapsible sections</string>
+<string name="core_explorer_setting_fast_scroll">Vključi hitro premikanje zaslona</string>
+<string name="core_explorer_setting_collapsible_sections">Uporabi zložljive odseke</string>
 
 
 

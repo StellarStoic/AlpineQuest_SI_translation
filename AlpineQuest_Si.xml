@@ -612,7 +612,7 @@ in tudi:
 <string name="geolocation_source_passive_title">Zunanje lokacije</string>
 <string name="geolocation_source_passive_desc">Uporablja zunanje lokacije iz drugih virov.</string>
 
-<string name="geolocation_rate_title">Zaostanek posodobitve lokacije</string>
+<string name="geolocation_rate_title">Odlašati z posodobitvijo lokacije</string>
 <string name="geolocation_rate_second">Posodobi vsako sekundo</string>
 <string name="geolocation_rate_seconds_1p">Posodobi vsakih %s</string>
 <string name="geolocation_rate_precise_title">Precizno sledenje</string>
@@ -627,13 +627,13 @@ in tudi:
 
 <!-- Orientation feature main texts -->
 
-<string name="orientation_compass_not_available">Cannot activate the compass: no magnetic sensor on this device.</string>
-<string name="orientation_compass_calibrate_message">Rotate your device in all directions to calibrate the magnetic sensor.</string>
-<string name="orientation_setting_sensor">Sensor</string>
+<string name="orientation_compass_not_available">Vklop kompasa ni mogoč: ta naprava nima magnetnega senzorja.</string>
+<string name="orientation_compass_calibrate_message">Obračajte napravo v vse smeri, da se magnetni senzor kalibrira.</string>
+<string name="orientation_setting_sensor">Senzor</string>
 <string name="orientation_setting_compass_standard_name">Standard</string>
-<string name="orientation_setting_compass_standard_desc">Moving needle over still graduations</string>
-<string name="orientation_setting_compass_topochaix_desc">Moving needle and graduations</string>
-<string name="orientation_setting_declination">Compute declination to get true (geographical) north</string>
+<string name="orientation_setting_compass_standard_desc">Premaknite iglo čez nepremično razdelbo</string>
+<string name="orientation_setting_compass_topochaix_desc">Premiklajoča igla in razdelba</string>
+<string name="orientation_setting_declination">Izračun magnetne deklinacije, da pridobite pravi (geografski) Sever</string>
 
 
 

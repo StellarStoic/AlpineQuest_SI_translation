@@ -640,14 +640,14 @@ in tudi:
 
 <!-- Barometer feature main texts -->
 
-<string name="barometer_calibrate_title">Calibrate barometer</string>
-<string name="barometer_calibrate_text">To get precise results using the barometer, you need to calibrate it.\nPlace yourself at a known elevation (you may use the GNSS altitude) and enter it as a reference.</string>
-<string name="barometer_calibrate_current_2p" formatted="false">The current reference pressure is %s at %s.</string>
-<string name="barometer_calibrate_elevation">Current elevation</string>
-<string name="barometer_forecast_1p">Forecast: %s</string>
-<string name="barometer_forecast_good">Fair</string>
-<string name="barometer_forecast_variable">Change</string>
-<string name="barometer_forecast_bad">Rain</string>
+<string name="barometer_calibrate_title">Kalibracija barometra</string>
+<string name="barometer_calibrate_text">Za precizne barometrične podatke je potrebna kalibracija barometra.\nPostavite se na znano višino (Uporabite lahko GNSS višino) in jo vnesite kot referenco .</string>
+<string name="barometer_calibrate_current_2p" formatted="false">Trenutni referenčni pritisk znaša %s ob %s.</string>
+<string name="barometer_calibrate_elevation">Trenutna nadmorska višina</string>
+<string name="barometer_forecast_1p">Napoved: %s</string>
+<string name="barometer_forecast_good">Dobro vreme</string>
+<string name="barometer_forecast_variable">Spremenljivo vreme</string>
+<string name="barometer_forecast_bad">Slabo vreme</string>
 
 
 

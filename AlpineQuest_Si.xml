@@ -672,10 +672,10 @@ in tudi:
 
 <!-- Service agent texts -->
 
-<string name="background_service_killed_s">The agent has been killed by the system!</string>
+<string name="background_service_killed_s">Agent je bil likvidiran s strani sistema!</string>
 
-<string name="background_service_request_disable_brand_optimizations_1p_s">You must allow %s to run in the background from your device settings to use this feature while the screen is off.</string>
-<string name="background_service_request_ignore_battery_optimizations_1p_s">You must disable battery optimizations for %s to use this feature while the screen is off.</string>
+<string name="background_service_request_disable_brand_optimizations_1p_s">%s morate v sistemskih nastavitvah dovoliti, da deluje v ozadju, če želite uporabljati to možnost, ko je zaslon ugasnjen.</string>
+<string name="background_service_request_ignore_battery_optimizations_1p_s">Optimizacija baterije za %s morate izključiti za uporabo te možnosti, ko je zaslon ugasnjen.</string>
 
 
 

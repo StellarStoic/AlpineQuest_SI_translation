@@ -591,36 +591,36 @@ in tudi:
 
 <!-- Geolocation feature main texts -->
 
-<string name="geolocation_state_waiting_location_1p">Waiting for “%s”&#8230;</string>
-<string name="geolocation_state_listening_to_1p">Using “%s”&#8230;</string>
-<string name="geolocation_state_source_disabled_1p">“%s” is turned off!</string>
-<string name="geolocation_state_not_active">Not active</string>
-<string name="geolocation_satellite_abbrev">sats</string>
-<string name="geolocation_status_fix_1p">fix %s</string>
+<string name="geolocation_state_waiting_location_1p">Čakam na “%s”&#8230;</string>
+<string name="geolocation_state_listening_to_1p">Uporaba “%s”&#8230;</string> <!-- To do! Questionable translation-->
+<string name="geolocation_state_source_disabled_1p">“%s” je ugasnjen!</string>
+<string name="geolocation_state_not_active">Ni aktiven</string>
+<string name="geolocation_satellite_abbrev">sat</string>
+<string name="geolocation_status_fix_1p">popravek %s</string>
 
-<string name="geolocation_info_high_accuracy_disable_s">High accuracy location is disabled.</string>
+<string name="geolocation_info_high_accuracy_disable_s">Visoka natančnost lokacije je izklopljena.</string>
 
-<string name="geolocation_source_title">Location source</string>
-<string name="geolocation_source_disabled">Source is disabled</string>
-<string name="geolocation_source_none_desc">There is no location source available on this device.</string>
-<string name="geolocation_source_auto_title">Automatic selection</string>
-<string name="geolocation_source_auto_desc">Uses locations provided by Outdoor GNSS and Network.</string>
-<string name="geolocation_source_gps_title">Outdoor GNSS</string>
-<string name="geolocation_source_gps_desc">Provides accurate locations computed from various GNSS (GPS/Glonass/Galileo/Beidou/IRNSS/QZSS) satellites (no network needed). Requires view of sky and initializing time.</string>
-<string name="geolocation_source_network_title">Network geolocation</string>
-<string name="geolocation_source_network_desc">Provides inaccurate locations retrieved from the wireless networks.</string>
-<string name="geolocation_source_passive_title">External locations</string>
-<string name="geolocation_source_passive_desc">Uses locations provided by other applications.</string>
+<string name="geolocation_source_title">Vir lokacije</string>
+<string name="geolocation_source_disabled">Vir je izključen</string>
+<string name="geolocation_source_none_desc">Vir lokacije na tej napravi ni zaznan.</string>
+<string name="geolocation_source_auto_title">Samodejna izbira</string>
+<string name="geolocation_source_auto_desc">Uporablja lokacijo zunanjega GNSS ter mobilnega omrežja.</string>
+<string name="geolocation_source_gps_title">Zunanji GNSS</string>
+<string name="geolocation_source_gps_desc">Zagotavlja visoko natančnost lokacije z izračunom različnih GNSS (GPS/Glonass/Galileo/Beidou/IRNSS/QZSS) satelitov (Mobilni signal ni potreben). Potreben je vidno polje do neba, ter čas, da se zveza vzpostavi.</string>
+<string name="geolocation_source_network_title">Geolokacija na podlagi mobilnega signala</string>
+<string name="geolocation_source_network_desc">Zagotavlja nenatančno lokacijo pridobljeno iz brezžičnih omrežij (wifi).</string>
+<string name="geolocation_source_passive_title">Zunanje lokacije</string>
+<string name="geolocation_source_passive_desc">Uporablja zunanje lokacije iz drugih virov.</string>
 
-<string name="geolocation_rate_title">Location update delay</string>
-<string name="geolocation_rate_second">Update every second</string>
-<string name="geolocation_rate_seconds_1p">Update every %s</string>
-<string name="geolocation_rate_precise_title">Precise tracking</string>
-<string name="geolocation_rate_precise_desc">Battery consuming, for short runs with volatile speed.</string>
-<string name="geolocation_rate_medium_title">Medium tracking</string>
-<string name="geolocation_rate_medium_desc">Recommended for few hours hikes.</string>
-<string name="geolocation_rate_economy_title">Long tracking</string>
-<string name="geolocation_rate_economy_desc">Economy mode recommended for day long hikes.</string>
+<string name="geolocation_rate_title">Zaostanek posodobitve lokacije</string>
+<string name="geolocation_rate_second">Posodobi vsako sekundo</string>
+<string name="geolocation_rate_seconds_1p">Posodobi vsakih %s</string>
+<string name="geolocation_rate_precise_title">Precizno sledenje</string>
+<string name="geolocation_rate_precise_desc">Uporaba baterije, za kratke teke z zelo razgibano hitrostjo.</string>
+<string name="geolocation_rate_medium_title">Srednje sledenje</string>
+<string name="geolocation_rate_medium_desc">Primerno za nekaj urne pohode.</string>
+<string name="geolocation_rate_economy_title">Dolgo sledenje</string>
+<string name="geolocation_rate_economy_desc">Ekonomski način primeren za celodnevne ture.</string>
 
 
 

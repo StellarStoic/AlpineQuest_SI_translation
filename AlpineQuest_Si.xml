@@ -35,9 +35,9 @@ PROSIMO sporočite predloge ali napake za v to namemnjen forumu https://www.alpi
 • Napreden SD memory card Map Explorer.
 
 ★★ <b>Geopodatki</b> ★★
-• Ustvari, Prikaži, Shrani, Povrni <b>neomejena količina oznak</b> (točke, poti, površine in sledi);
+• Ustvari, Prikaži, Shrani, Povrni <b>neomejena količina oznak</b> (smerne točke, poti, površine in sledi);
 • Uvoz/izvoz <b>GPX</b> datotek, <b>Google Earth KML/KMZ</b> datotek in <b>CSV/TSV</b> datotek;
-• Uvoz <b>ShapeFile SHP/PRJ/DBF</b>, <b>OziExplorer WPT/PLT</b>, <b>Geocaching LOC</b> točk in izvoz <b>AutoCAD DXF</b> datotek;
+• Uvoz <b>ShapeFile SHP/PRJ/DBF</b>, <b>OziExplorer WPT/PLT</b>, <b>Geocaching LOC</b> smerne točke in izvoz <b>AutoCAD DXF</b> datotek;
 • Shrani ali deli online lokacije z ostalimi uporabniki kateri uporabljajo geopodatke skupnosti;
 • <b>Podrobnosti</b>, <b>napredna statistika</b> in <b>interaktivna grafika</b> pri različnih načinih;
 • Časovnik za predvajanje sledi;
@@ -77,7 +77,7 @@ Ste naveličani čakanja, da se zemljevid naloži? Uporabite vse v enem OfflineM
 
 --
 
-<b><b>Ta Plus različica vsebuje vse lastnosti Standardne različice brez oglasov, in podpira uvoz profesionalnih GPS in ostalih formatov datotek geopodatkov (točke, poti, sledi, območja) kot so GPX, Google Earth KML/KMZ (prekrivanja niso podprta), Ozi Explorer WPT/PLT, CVS/TSV and Geocaching LOC</b></b>
+<b><b>Ta Plus različica vsebuje vse lastnosti Standardne različice brez oglasov, in podpira uvoz profesionalnih GPS in ostalih formatov datotek geopodatkov (smerne točke, poti, sledi, območja) kot so GPX, Google Earth KML/KMZ (prekrivanja niso podprta), Ozi Explorer WPT/PLT, CVS/TSV and Geocaching LOC</b></b>
 
 --
 
@@ -88,7 +88,7 @@ Na voljo je veliko zemljevidov, vklučno z avtokartami, topografskimi zemljevidi
 • Shranjeni podatki se lahko počistijo na lahek način.
 
 ★★ <b>Prikaži, shrani in povrni neomejeno št. geopodatkov</b> ★★
-Lahko dodate različne predmete na zemljevide kot so recimo točke, ikone, poti, območja in sledi.
+Lahko dodate različne predmete na zemljevide kot so recimo smerne točke, ikone, poti, območja in sledi.
 z njimi lahko z lahkoto upravljate z uporabo zmogljivega SD-Card Placemarks Explorer-ja.
 
 ★★ <b>Prikaz lokacije na Zemljevidu & Orientacija</b> ★★
@@ -342,7 +342,7 @@ in tudi:
 
 <string name="core_toolkit_permissions_location_name">Dostop do lokacije</string>
 <string name="core_toolkit_permissions_storage_name">Dostop do pomnilnika</string>
-<string name="core_toolkit_permissions_background_location_description_s">Če želite posneti sled, prejeti opozorila na poti ali pa morda uporabljate opozorila o približevanju, tudi če je glavno okno aplikacije zaprto ali če je zaslon izklopljen, aplikacija zahteva dostop do vaše lokacije v ozadju.</string>
+<string name="core_toolkit_permissions_background_location_description_s">Če želite posneti sled, prejeti opozorila na poti ali pa morda uporabljate bližinjske alarme, tudi če je glavno okno aplikacije zaprto ali če je zaslon izklopljen, aplikacija zahteva dostop do vaše lokacije v ozadju.</string>
 <string name="core_toolkit_permissions_background_location_privacy_s">Lokacijski podatki, zbrani v ozadju, bodo strogo uporabljeni le za zahtevane funkcije in bodo ostanejo le na vaši napravi.</string>
 <string name="core_toolkit_permissions_background_location_question_s">Ali dovolite aplikaciji dostop do vaše lokacije v ozadju poleg običajnega dostopa do lokacije?</string>
 <string name="core_toolkit_permissions_not_granted_s">Za uporabo te funkcije morate aplikaciji dovoliti dostop.</string>
@@ -474,8 +474,8 @@ in tudi:
 
 <string name="maps_onboard_provider_title">Zemljevidi v mapah</string>
 <string name="maps_onboard_import_folder_name">Uvoženi zemljevidi</string> 
-<string name="maps_onboard_explorer_group_inbounds">Bližnji zemljevidi</string> <!-- to do! območni, v bližini, V mejah zaslona-->
-<string name="maps_onboard_explorer_group_outbounds">Oddaljeni zemljevidi</string> <!-- to do! izven območja, oddaljeni-->
+<string name="maps_onboard_explorer_group_inbounds">Bližnji zemljevidi</string>
+<string name="maps_onboard_explorer_group_outbounds">Oddaljeni zemljevidi</string>
 <string name="maps_onboard_explorer_group_calibratable">Slike za kalibrirati </string>
 
 
@@ -483,90 +483,90 @@ in tudi:
 
 <!-- Landmarks feature main texts -->
 
-<string name="landmarks_explorer_category_areas">Areas</string>
-<string name="landmarks_explorer_category_files">Placemark files</string>
-<string name="landmarks_explorer_category_locations">Locations</string>
-<string name="landmarks_explorer_category_paths">Paths</string>
-<string name="landmarks_explorer_category_proximities">Proximity alerts</string>
+<string name="landmarks_explorer_category_areas">Področja</string>
+<string name="landmarks_explorer_category_files">Datoteke z geopodatki</string>
+<string name="landmarks_explorer_category_locations">Lokacije</string>
+<string name="landmarks_explorer_category_paths">Poti</string>
+<string name="landmarks_explorer_category_proximities">Bližinjski alarmi</string>
 <string name="landmarks_explorer_category_routes">Routes</string>
-<string name="landmarks_explorer_category_segments">Track segments</string>
-<string name="landmarks_explorer_category_sets">Sets of waypoints</string>
-<string name="landmarks_explorer_category_tracks">Tracks</string>
-<string name="landmarks_explorer_category_waypoints">Waypoints</string>
-<string name="landmarks_explorer_name_area">Area</string>
-<string name="landmarks_explorer_name_audio">Audio waypoint</string>
-<string name="landmarks_explorer_name_file">Placemark file</string>
-<string name="landmarks_explorer_name_landmark">Placemark</string>
-<string name="landmarks_explorer_name_location">Location</string>
+<string name="landmarks_explorer_category_segments">Odseki sledi</string>
+<string name="landmarks_explorer_category_sets">Skupek smernih točk</string>
+<string name="landmarks_explorer_category_tracks">Sledi</string>
+<string name="landmarks_explorer_category_waypoints">Smerne točke</string>
+<string name="landmarks_explorer_name_area">Področje</string>
+<string name="landmarks_explorer_name_audio">Glasovna smerna točka</string>
+<string name="landmarks_explorer_name_file">Datoteka z geopodatki</string>
+<string name="landmarks_explorer_name_landmark">Geopodatek</string>
+<string name="landmarks_explorer_name_location">Lokacija</string>
 <string name="landmarks_explorer_name_path">Path</string>
-<string name="landmarks_explorer_name_picture">Picture waypoint</string>
-<string name="landmarks_explorer_name_proximity">Proximity alert</string>
-<string name="landmarks_explorer_name_route">Route</string>
-<string name="landmarks_explorer_name_segment">Track segment</string>
-<string name="landmarks_explorer_name_set">Set of waypoints</string>
-<string name="landmarks_explorer_name_slope">Slope</string>
-<string name="landmarks_explorer_name_target">Target</string>
-<string name="landmarks_explorer_name_track">Track</string>
-<string name="landmarks_explorer_name_waypoint">Waypoint</string>
-<string name="landmarks_explorer_cell_location_1p">%s location</string>
-<string name="landmarks_explorer_cell_locations_1p">%s locations</string>
-<string name="landmarks_explorer_cell_segment_1p">%s segment</string>
-<string name="landmarks_explorer_cell_segments_1p">%s segments</string>
-<string name="landmarks_explorer_cell_waypoint_1p">%s waypoint</string>
-<string name="landmarks_explorer_cell_waypoints_1p">%s waypoints</string>
+<string name="landmarks_explorer_name_picture">Slikaj smerno točko</string>
+<string name="landmarks_explorer_name_proximity">Bližinjski alarm</string>
+<string name="landmarks_explorer_name_route">Pot</string>
+<string name="landmarks_explorer_name_segment">Odsek sledi</string>
+<string name="landmarks_explorer_name_set">Skupek smernih točk</string>
+<string name="landmarks_explorer_name_slope">Naklon</string>
+<string name="landmarks_explorer_name_target">Tarča</string>
+<string name="landmarks_explorer_name_track">Sled</string>
+<string name="landmarks_explorer_name_waypoint">Smerna točka</string>
+<string name="landmarks_explorer_cell_location_1p">%s lokacija</string>
+<string name="landmarks_explorer_cell_locations_1p">%s lokacije</string>
+<string name="landmarks_explorer_cell_segment_1p">%s odsek</string>
+<string name="landmarks_explorer_cell_segments_1p">%s odseki</string>
+<string name="landmarks_explorer_cell_waypoint_1p">%s smerna točka</string>
+<string name="landmarks_explorer_cell_waypoints_1p">%s smerne točke</string>
 
-<string name="landmarks_context_menu_auto_target">Auto target closest</string>
-<string name="landmarks_context_menu_edit_points">Edit points</string>
-<string name="landmarks_context_menu_edit_profile">Edit profile</string>
-<string name="landmarks_context_menu_dynamic_profile">Dynamic profile</string>
-<string name="landmarks_context_menu_split_here">Split here</string>
-<string name="landmarks_context_menu_split_points">Split waypoints</string>
-<string name="landmarks_context_menu_target_remove">Remove target</string>
-<string name="landmarks_context_menu_target_set">Set as target</string>
+<string name="landmarks_context_menu_auto_target">Auto target closest</string> <!-- To do! I can't find this option in my installed app, so I don't have a clue what it does-->
+<string name="landmarks_context_menu_edit_points">Uredi točke</string>
+<string name="landmarks_context_menu_edit_profile">Uredi profil</string>
+<string name="landmarks_context_menu_dynamic_profile">Dinamični profil</string>
+<string name="landmarks_context_menu_split_here">Razdeli tukaj</string>
+<string name="landmarks_context_menu_split_points">Razdeli smerne točke</string>
+<string name="landmarks_context_menu_target_remove">Odstrani tarčo</string>
+<string name="landmarks_context_menu_target_set">Določi kot tarčo</string>
 
-<string name="landmarks_create_waypoint_desc">Create a point on the map.</string>
-<string name="landmarks_create_picture_desc">Take a picture and associate it to a point on the map.</string>
-<string name="landmarks_create_set_desc">Create multiple waypoints on the map, managed all together.</string>
-<string name="landmarks_create_route_desc">Create multiple ordered waypoints on the map drawing a route.</string>
-<string name="landmarks_create_area_desc">Manually draw a surface area on the map.</string>
-<string name="landmarks_create_path_desc">Manually draw a path on the map.</string>
-<string name="landmarks_create_file_desc">Create a new file to store various placemarks.</string>
-<string name="landmarks_create_proximity_desc">Be notified when approaching this location.</string>
-<string name="landmarks_create_circle_title">Circle</string>
-<string name="landmarks_create_circle_desc">Create a circular area based on a given radius distance from the screen centre.</string>
-<string name="landmarks_create_measure_title">Measure</string>
-<string name="landmarks_create_measure_desc">Measure distances and bearings between two or more points on the map.</string>
-<string name="landmarks_create_slope_title">Compute slope</string>
-<string name="landmarks_create_slope_desc">Compute slopes between two or more points.</string>
-<string name="landmarks_create_autorouting_title">Auto-routing</string>
-<string name="landmarks_create_autorouting_desc">Automatically draw a path following the roads on the map.</string>
-<string name="landmarks_create_quick_waypoint">Quick waypoint</string>
+<string name="landmarks_create_waypoint_desc">Ustvari točko na zemljevidu.</string>
+<string name="landmarks_create_picture_desc">Zajemi sliko in jo dodaj kot točko na zemljevidu.</string>
+<string name="landmarks_create_set_desc">Ustvari več smernih točk na zemljevidu, upravljanje z vsemi naenkrat.</string>
+<string name="landmarks_create_route_desc">Ustvari več smernih točk na zemljevidu po vrsti z risanjem poti.</string>
+<string name="landmarks_create_area_desc">Nariši področje na zemljevidu.</string>
+<string name="landmarks_create_path_desc">Nariši pot na zemljevidu.</string>
+<string name="landmarks_create_file_desc">Ustvari datoteko za hrambo različnih geopodatkov.</string>
+<string name="landmarks_create_proximity_desc">Bodite opozorjeni, ko se približate tej lokaciji.</string>
+<string name="landmarks_create_circle_title">Krog</string>
+<string name="landmarks_create_circle_desc">Ustvari krožno področje bazirano na radiju oddaljenosti od sredine zaslona.</string>
+<string name="landmarks_create_measure_title">Izmeri</string>
+<string name="landmarks_create_measure_desc">Izmeri dolžino in smer med dvema ali več točkami na zemljevidu.</string>
+<string name="landmarks_create_slope_title">Izračunaj naklon</string>
+<string name="landmarks_create_slope_desc">Izračunaj naklon med dvema ali več točkami.</string>
+<string name="landmarks_create_autorouting_title">Avtomatsko vodenje</string>
+<string name="landmarks_create_autorouting_desc">Samodejno nariši pot, ki sledi cestam na zemljevidu.</string>
+<string name="landmarks_create_quick_waypoint">Hitra smerna točka</string>
 
-<string name="landmarks_create_dialog_category_tools">Tools</string>
-<string name="landmarks_create_side_title">Placemark creator</string>
-<string name="landmarks_create_side_add">Add location</string>
-<string name="landmarks_create_side_new_segment">New section/lap</string>
-<string name="landmarks_create_side_draw">Draw</string>
-<string name="landmarks_create_side_save">Save &amp; close</string>
-<string name="landmarks_create_side_move_to_center">Move to centre</string>
+<string name="landmarks_create_dialog_category_tools">Orodja</string>
+<string name="landmarks_create_side_title">Ustvarjalec geopodatka</string>
+<string name="landmarks_create_side_add">Dodaj lokacijo</string>
+<string name="landmarks_create_side_new_segment">Nova sekcija/krog</string>
+<string name="landmarks_create_side_draw">Nariši</string>
+<string name="landmarks_create_side_save">Shrani &amp; zapri</string>
+<string name="landmarks_create_side_move_to_center">Premakni na sredino</string>
 
-<string name="landmarks_follow_path">Follow path</string>
-<string name="landmarks_follow_path_option_reverse">Reverse order</string>
-<string name="landmarks_follow_path_option_loop">Loop</string>
-<string name="landmarks_follow_path_option_distance_1p">Set the target at least %s in advance</string>
-<string name="landmarks_follow_path_option_warn_me_1p">Warn me if I go more than %s away</string>
-<string name="landmarks_follow_path_option_dont_warn_me">Don’t warn me if I go away</string>
+<string name="landmarks_follow_path">Sledi poti</string>
+<string name="landmarks_follow_path_option_reverse">Obratni vrstni red</string>
+<string name="landmarks_follow_path_option_loop">Zanka</string>
+<string name="landmarks_follow_path_option_distance_1p">Ustvari tarčo vsaj %s v naprej</string>
+<string name="landmarks_follow_path_option_warn_me_1p">Opozori me, če se oddaljim vsaj %s vstran</string>
+<string name="landmarks_follow_path_option_dont_warn_me">Ne opozori me, če se oddaljim</string>
 
-<string name="landmarks_proximity_alerts_repeat">Repeat notifications</string>
+<string name="landmarks_proximity_alerts_repeat">Ponovi opozorila</string>
 
-<string name="landmarks_control_time_bulk_start">Start all displayed tracks at the same time</string>
+<string name="landmarks_control_time_bulk_start">Štartaj vse prikazane sledi naenkrat</string>
 
-<string name="landmarks_folder_name_my_landmarks">My placemarks</string>
+<string name="landmarks_folder_name_my_landmarks">Moji geopodatki</string>
 
-<string name="landmarks_offline_provider_title">Local placemarks</string>
-<string name="landmarks_offline_folder_unsorted">Unsorted landmarks</string>
-<string name="landmarks_offline_folder_import">Imported landmarks</string>
-<string name="landmarks_offline_folder_export">Exported landmarks</string>
+<string name="landmarks_offline_provider_title">Lokalni geopodatki</string>
+<string name="landmarks_offline_folder_unsorted">Neurejene znamenitosti</string>
+<string name="landmarks_offline_folder_import">Uvožene znamenitosti</string>
+<string name="landmarks_offline_folder_export">Izvožene znamenitosti</string>
 
 
 

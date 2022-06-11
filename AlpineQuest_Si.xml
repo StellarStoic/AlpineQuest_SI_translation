@@ -24,7 +24,7 @@ PROSIMO sporočite predloge ali napake za v to namemnjen forumu https://www.alpi
 <u><b>Glavne prednosti</b></u> (za celotno različico):
 
 ★★ <b>Zemljevidi</b> ★★
-• Vključuje <b>online zemljevidi</b> (z <b>avtomatskim lokalnim shranjevanjem</b>; vključeni cestni, topografski in satelitski zemljevidi) in <b>online plasti</b> (imena ulic, senčenje, plastnice);
+• Vključuje <b>online zemljevidi</b> (z <b>avtomatskim lokalnim shranjevanjem</b>; vključeni cestni, topografski in satelitski zemljevidi) in <b>online plasti</b> (imena ulic, senčenje terena, plastnice);
 • pridobite online zemljevide ter plasti z enim klikom iz seznama zemljevidov skupnosti (Vsi večji svetovni zemljevidi in mnogo lokalnih topografskih zemljevidov);
 • Celotno <b>shranjevanje območij</b> online zemljevidov za uporabo brez omrežnega signala;
 • <b>Lokalno shranjeni zemljevidi</b> podpira (raster) vključno z <b>KMZ plastmi</b>, <b>OziExplorer OZFx2/OZFx3 (partly)/.map+.jpg/.png/.bmp/.gif</b>, <b>GeoPackage GeoPkg</b>, <b>MbTile</b>, <b>SqliteDB</b> and <b>TMS</b> zipped tiles (Obiščite našo spletno stran, da pridobite MOBAC, brezplačni ustvarjalec zemljevidov);
@@ -429,54 +429,54 @@ in tudi:
 
 <!-- Maps feature main texts -->
 
-<string name="maps_context_menu_layer">Add as layer</string>
-<string name="maps_context_menu_opacity">Layer opacity</string>
-<string name="maps_context_menu_key">Map key</string>
-<string name="maps_context_menu_erase_color">Erase colour</string>
-<string name="maps_context_menu_calibrate">Calibrate</string>
-<string name="maps_context_menu_reorder">Reorder</string>
+<string name="maps_context_menu_layer">Dodaj kot sloj</string>
+<string name="maps_context_menu_opacity">Prosojnost sloja</string>
+<string name="maps_context_menu_key">Ključ zemljevida</string>
+<string name="maps_context_menu_erase_color">Izbriši barvo</string>
+<string name="maps_context_menu_calibrate">Kalibriraj</string>
+<string name="maps_context_menu_reorder">Presortiraj</string>
 
-<string name="maps_confirm_outbound_title">Out-of-bounds map</string>
-<string name="maps_confirm_outbound_desc">The map you’ve selected contains no data at the current location, which will result in an empty screen.</string>
-<string name="maps_confirm_outbound_desc_slide">Do you want to slide the map view to a covered area?</string>
+<string name="maps_confirm_outbound_title">Oddaljeni zemljevidi</string>
+<string name="maps_confirm_outbound_desc">Zemljevid, ki ste ga izbrali nima podatkov za to lokacijo in zaradi tega bo zaslon ostal prazen.</string>
+<string name="maps_confirm_outbound_desc_slide">Želite prestaviti zemljevid do območja z podatki</string>
 
-<string name="maps_favorites_set_empty">No favourite map or set defined yet</string>
-<string name="maps_favorites_create_to_save_s">You can save your changes as a favorite map or map set.</string>
-<string name="maps_favorites_item">Favourite item</string>
-<string name="maps_favorites_save_as">Save as favourite</string>
+<string name="maps_favorites_set_empty">Trenutno priljubljeni zemljevidi ali skupek zemljevidov, še niso dodani</string>
+<string name="maps_favorites_create_to_save_s">Spremembe lahko shranite kot priljubljene zemljevide ali kot skupek priljubljenih zemljevidov.</string>
+<string name="maps_favorites_item">Priljubljeni elementi</string>
+<string name="maps_favorites_save_as">Shrani kot priljubljeno</string>
 
-<string name="maps_online_provider_title">On-demand maps</string>
-<string name="maps_online_installed">Installed maps</string>
-<string name="maps_online_clear_data">Clear data</string>
-<string name="maps_online_clear_data_confirm">Clear all the stored data of this map?</string>
-<string name="maps_online_force_update_data">Force update local data</string>
-<string name="maps_online_add_new">Add new maps</string>
-<string name="maps_online_add_new_desc">You can browse and install new maps from the community:</string>
-<string name="maps_online_suggest">Suggest</string>
+<string name="maps_online_provider_title">Zemljevidi na zahtevo</string>
+<string name="maps_online_installed">Nameščeni zemljevidi</string>
+<string name="maps_online_clear_data">Počisti podatke</string>
+<string name="maps_online_clear_data_confirm">Počisti vse podatke tega zemljevida?</string>
+<string name="maps_online_force_update_data">Prisilna posodobitev lokalnih podatkov</string>
+<string name="maps_online_add_new">Dodaj nove zemljevide</string>
+<string name="maps_online_add_new_desc">Raziščite ali namestite zemljevide iz skupnosti:</string>
+<string name="maps_online_suggest">Predlagaj</string>
 
-<string name="maps_elevation_title">Elevation data</string>
-<string name="maps_elevation_dem_activate">Activate use of elevation data</string>
-<string name="maps_elevation_dem_download">Auto download elevation data</string>
-<string name="maps_elevation_dem_map">Elevation data coverage</string>
-<string name="maps_elevation_dem_source_1p">Indicative data from %s</string>
-<string name="maps_elevation_dem">Digital elevation model (DEM)</string>
+<string name="maps_elevation_title">Višinski podatki</string>
+<string name="maps_elevation_dem_activate">Vključi uporabo višinskih podatkov</string>
+<string name="maps_elevation_dem_download">Samodejno namesti višinske podatke</string>
+<string name="maps_elevation_dem_map">Pokritost višinskih podatkov</string>
+<string name="maps_elevation_dem_source_1p">Indicative data from %s</string> <!-- To do! I need to see this in app to get the right picture what is indicate to-->
+<string name="maps_elevation_dem">Digitalni višinski model (DEM)</string>
 <string name="maps_elevation_dem_abbrev">DEM</string>
-<string name="maps_elevation_map_heights">DEM Heights</string>
-<string name="maps_elevation_map_terrain">DEM Terrain</string>
-<string name="maps_elevation_map_hillshade">DEM Hillshade Layer</string>
-<string name="maps_elevation_map_slopes">DEM Slopes (+30°) Layer</string>
-<string name="maps_elevation_map_sensitive">DEM Heights (sensitive)</string>
+<string name="maps_elevation_map_heights">DEM Višine</string>
+<string name="maps_elevation_map_terrain">DEM Teren</string>
+<string name="maps_elevation_map_hillshade">DEM Sloj osenčenega terena</string>
+<string name="maps_elevation_map_slopes">DEM Nakloni (+30°) Sloj</string>
+<string name="maps_elevation_map_sensitive">DEM Višine (občutljivo)</string>
 
-<string name="maps_area_downloader_creator_cell_tile_1p">%s tile</string>
-<string name="maps_area_downloader_creator_cell_tiles_1p">%s tiles</string>
-<string name="maps_area_downloader_process_terminated">Successfully completed</string>
-<string name="maps_area_downloader_process_working">Process running</string>
+<string name="maps_area_downloader_creator_cell_tile_1p">%s plošča</string>
+<string name="maps_area_downloader_creator_cell_tiles_1p">%s plošče</string>
+<string name="maps_area_downloader_process_terminated">Uspešno zaključeno</string>
+<string name="maps_area_downloader_process_working">Delo v teku</string>
 
-<string name="maps_onboard_provider_title">File based maps</string>
-<string name="maps_onboard_import_folder_name">Imported maps</string>
-<string name="maps_onboard_explorer_group_inbounds">In-bounds maps</string>
-<string name="maps_onboard_explorer_group_outbounds">Out-of-bounds maps</string>
-<string name="maps_onboard_explorer_group_calibratable">Images to calibrate</string>
+<string name="maps_onboard_provider_title">Zemljevidi v mapah</string>
+<string name="maps_onboard_import_folder_name">Uvoženi zemljevidi</string> 
+<string name="maps_onboard_explorer_group_inbounds">Bližnji zemljevidi</string> <!-- to do! območni, v bližini, V mejah zaslona-->
+<string name="maps_onboard_explorer_group_outbounds">Oddaljeni zemljevidi</string> <!-- to do! izven območja, oddaljeni-->
+<string name="maps_onboard_explorer_group_calibratable">Slike za kalibrirati </string>
 
 
 

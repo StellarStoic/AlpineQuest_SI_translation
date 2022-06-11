@@ -654,18 +654,18 @@ in tudi:
 
 <!-- Tracker feature main texts -->
 
-<string name="tracker_state_desc_connecting">Connecting to service</string>
-<string name="tracker_state_desc_stopped">Track recorder is stopped</string>
-<string name="tracker_save_folder_name">Recorded tracks</string>
-<string name="tracker_group_recorded_tracks">Recorded tracks</string>
-<string name="tracker_save_desc_1p">AlpineQuest Track %s</string>
-<string name="tracker_group_last_track">Last recorded track</string>
-<string name="tracker_message_resume_track_s">Resume last recorded track or start a new one?</string>
-<string name="tracker_message_save_track_failed_s">Failed to save the current track recorder data. Delete last recorded track?</string>
-<string name="tracker_settings_ignore_distance">Skip locations if I’m not moving</string>
-<string name="tracker_settings_use_barometer_desc">Record pressure values to compute more precise barometric elevations</string>
-<string name="tracker_settings_warn">Warn me if the GNSS signal is lost or too weak</string>
-<string name="tracker_settings_dashmode">Automatically start and stop the recorder with the application</string>
+<string name="tracker_state_desc_connecting">Povezujem storitev</string>
+<string name="tracker_state_desc_stopped">Snemalnik sledi se je izklopil</string>
+<string name="tracker_save_folder_name">Posnete sledi</string>
+<string name="tracker_group_recorded_tracks">Posnete sledi</string>
+<string name="tracker_save_desc_1p">AlpineQuest Sled %s</string>
+<string name="tracker_group_last_track">Zadnja posneta sled</string>
+<string name="tracker_message_resume_track_s">Nadaljuj od zadnje posnete sledi ali začni novo sled?</string>
+<string name="tracker_message_save_track_failed_s">Trenutno posnetih podatkov sledi ni bilo mogoče shraniti. Izbriši zadnjo posneto sled?</string>
+<string name="tracker_settings_ignore_distance">Preskoči lokacijo, če se ne premikam</string>
+<string name="tracker_settings_use_barometer_desc">Posnemi barometrične podatke za izračun bolj natančne barometrične višinske razlike</string>
+<string name="tracker_settings_warn">Opozori me, če je GNSS signal izgubljen ali prešibak</string>
+<string name="tracker_settings_dashmode">Samodejno zaženi ali ustavi snemalnik skupaj z aplikacijo</string>
 
 
 

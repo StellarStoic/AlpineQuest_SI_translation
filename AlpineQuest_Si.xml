@@ -573,18 +573,18 @@ in tudi:
 
 <!-- Search feature main texts -->
 
-<string name="search_title">Search a location</string>
-<string name="search_desc">Search names, coordinates and more.</string>
-<string name="search_save_folder_name">Recent searches</string>
-<string name="search_format_name">Search by name</string>
-<string name="search_format_project">Project a location</string>
-<string name="search_text_single">Single field (for copy/paste)</string>
-<string name="search_text_format">Search format</string>
-<string name="search_dialog_incorrect_location_p">Incorrect location format.</string>
-<string name="search_dialog_geocoder_failed_p">The search failed.\nYou need to have an Internet data access to search a location by name.</string>
-<string name="search_dialog_no_results_p">No result found.</string>
-<string name="search_dialog_main_results">Main results</string>
-<string name="search_dialog_other_results">Other results</string>
+<string name="search_title">Išči lokacijo</string>
+<string name="search_desc">Išči imena, koordinate in ostalo.</string>
+<string name="search_save_folder_name">Nedavna iskanja</string>
+<string name="search_format_name">Išči po Imenu</string>
+<string name="search_format_project">Projiciraj lokacijo</string>
+<string name="search_text_single">Posamezno polje (za kopiraj/prilepi)</string>
+<string name="search_text_format">Oblika iskanja</string>
+<string name="search_dialog_incorrect_location_p">nepravilna oblika lokacije.</string>
+<string name="search_dialog_geocoder_failed_p">Iskalno polje.\nPotrebujete internetni dostop, če želite iskati po imenu.</string>
+<string name="search_dialog_no_results_p">Ni rezultatov.</string>
+<string name="search_dialog_main_results">Glavni rezultati</string>
+<string name="search_dialog_other_results">Ostali rezultati</string>
 
 
 

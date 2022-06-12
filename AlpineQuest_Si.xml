@@ -938,40 +938,40 @@ in tudi:
 
 <!-- Maps feature other texts -->
 
-<string name="maps_default_name">Base map</string>
+<string name="maps_default_name">Osnovni zemljevid</string>
 
-<string name="maps_utils_nb_map_1p">%s map</string>
-<string name="maps_utils_nb_maps_1p">%s maps</string>
-<string name="maps_utils_saturation">Saturation</string>
-<string name="maps_utils_contrast">Contrast</string>
-<string name="maps_utils_brightness">Brightness</string>
-<string name="maps_utils_hue">Tint</string>
+<string name="maps_utils_nb_map_1p">%s zemljevid</string>
+<string name="maps_utils_nb_maps_1p">%s zemljevidi</string>
+<string name="maps_utils_saturation">Saturacija</string>
+<string name="maps_utils_contrast">Kontrast</string>
+<string name="maps_utils_brightness">Svetlost</string>
+<string name="maps_utils_hue">Odtenek</string>
 
-<string name="maps_erase_color_at_center">Erase screen centre colour</string>
-<string name="maps_erase_color_range_width">Colour ranges width</string>
-<string name="maps_edit_color_inverted">Inverted colours</string>
-<string name="maps_layer_blending_mode">Layer blending mode</string>
-<string name="maps_layer_blending_mode_normal">Normal</string>
-<string name="maps_layer_blending_mode_multiply">Multiply</string>
-<string name="maps_layer_blending_mode_screen">Screen</string>
-<string name="maps_layer_blending_mode_overlay">Overlay</string>
-<string name="maps_layer_blending_mode_lighten">Lighten</string>
-<string name="maps_layer_blending_mode_darken">Darken</string>
+<string name="maps_erase_color_at_center">Izbris zaslon center barva</string>
+<string name="maps_erase_color_range_width">Barva doseg širina</string>
+<string name="maps_edit_color_inverted">Zrcalne barve</string>
+<string name="maps_layer_blending_mode">Mešalnik slojev</string>
+<string name="maps_layer_blending_mode_normal">Normalno</string>
+<string name="maps_layer_blending_mode_multiply">Večkratno</string>
+<string name="maps_layer_blending_mode_screen">Zaslon</string>
+<string name="maps_layer_blending_mode_overlay">Nadsloj</string>
+<string name="maps_layer_blending_mode_lighten">Posvetli</string>
+<string name="maps_layer_blending_mode_darken">Potemni</string>
 
-<string name="maps_features_display_description_1p">Allows the application to display maps from %s files.</string>
-<string name="maps_features_elevations_download_description">Allows the application to download and store for offline use elevation data of remote areas.</string>
-<string name="maps_features_elevations_maps_description">Adds new maps and layers based on stored elevation data like heights, terrain, hillshading, slopes, etc.</string>
+<string name="maps_features_display_description_1p">Dovoli aplikaciji, da prikazuje zemljevide iz %s datoteke.</string>
+<string name="maps_features_elevations_download_description">Dovoli aplikaciji, da naloži in shrani podatke o višini oddaljenih zemljevidov za uporabo brez mobilnega omrežja.</string>
+<string name="maps_features_elevations_maps_description">Doda nove zemljevide ter sloje na podlagi shranjenih višinskih podatkov kot so višina, teren, senčenje terena, nakloni, itd.</string>
 
-<string name="maps_offline_provider_address_aq">My onboard maps</string>
-<string name="maps_offline_provider_recursive">Recursive scan</string>
-<string name="maps_offline_confirm_oversized_title">Oversized map</string>
-<string name="maps_offline_confirm_oversized_desc">The map you’ve selected is oversized for your Android version and some parts may fail to load.\n\nTry to split this map in different parts, smaller than 2GB.</string>
+<string name="maps_offline_provider_address_aq">Moji naloženi zemljevidi</string>
+<string name="maps_offline_provider_recursive">Ponavljajoče se skeniranje</string>
+<string name="maps_offline_confirm_oversized_title">prevelik zemljevid</string>
+<string name="maps_offline_confirm_oversized_desc">Zemljevid, ki ste ga izbrali je prevelik za vašo Android različico in morda nekateri deli ne bojo naloženi.\n\nPoskusite razdeliti zemljevid na več manjših delov, manjših od 2GB.</string>
 
-<string name="maps_community_list_title">Community maps</string>
-<string name="maps_community_list_world_title">Worldwide maps</string>
-<string name="maps_community_list_local_title">Local maps</string>
-<string name="maps_community_list_featured_maps">Featured maps</string>
-<string name="maps_community_list_refreshed_1p">List updated: %s new map(s)</string>
+<string name="maps_community_list_title">Zemljevidi skupnosti</string>
+<string name="maps_community_list_world_title">Svetovni zemljevidi</string>
+<string name="maps_community_list_local_title">Lokalni zemljevidi</string>
+<string name="maps_community_list_featured_maps">Posebna ponudba zemljevidov</string>
+<string name="maps_community_list_refreshed_1p">List posodobitev: %s novih zemljevidov</string>
 
 <string name="maps_community_type_aeronautical">Letalski</string>
 <string name="maps_community_type_historical">Zgodovinjski</string>

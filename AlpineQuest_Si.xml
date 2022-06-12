@@ -167,7 +167,7 @@ in tudi:
 <string name="orientation_submenu_compass">Kompas</string>
 <string name="orientation_submenu_rotate">Obračanje zemljevida (z uporabo kompasa)</string>
 <string name="orientation_submenu_compass_on_map">Prikaži kompas na zemljevidu</string>
-<string name="orientation_submenu_status">Trenutna smer</string>
+<string name="orientation_submenu_status">Trenutni kurz</string>
 
 
 
@@ -413,7 +413,7 @@ in tudi:
 <string name="canvas_feature_disabled">Zaradi zakonskih omejitev je ta možnost onesposobljena za naslednje zemljevide(e):</string>
 
 <string name="core_workspace_switch">Zamenjaj delovno okolje</string>
-<string name="core_workspace_default">Privzeto delovno okolje</string>
+<string name="core_workspace_default">Prevzeto delovno okolje</string>
 
 <string name="core_locker_unlock_s">Dolg-pritisk tipke za glasnost (-) za zaklep zemljevida pred dotiki. Izključite ga z tipko za nazaj.</string>
 <string name="core_locker_next_s">Dolg-dotik tipke za glasnost (+) za prikaz naslednjega pogleda.</string>
@@ -682,127 +682,127 @@ in tudi:
 
 <!-- Settings texts -->
 
-<string name="settings_display_category">Display units</string>
-<string name="settings_display_distances_title">Distance unit</string>
-<string name="settings_display_distances_metric">Metric</string>
-<string name="settings_display_distances_imperial">Imperial</string>
-<string name="settings_display_distances_imperial_metric_elevations">metric elevations</string>
+<string name="settings_display_category">Merske enote</string>
+<string name="settings_display_distances_title">Razdalja</string>
+<string name="settings_display_distances_metric">Metrična</string>
+<string name="settings_display_distances_imperial">Imperialna</string>
+<string name="settings_display_distances_imperial_metric_elevations">metrična nadmorska višina</string>
 <string name="settings_display_distances_imperial_deci_miles">deci. mi</string>
-<string name="settings_display_distances_nautical">Nautical</string>
+<string name="settings_display_distances_nautical">Navtična</string>
 
-<string name="settings_display_location_title">Location format</string>
-<string name="settings_display_location_secondary_title">Secondary loc. format</string>
+<string name="settings_display_location_title">Koordinatni zapisi</string>
+<string name="settings_display_location_secondary_title">Sekundarna koord. zapis</string>
 <string name="settings_display_location_wgs84_second">Lat/Long (Deg Min Sec)</string>
 <string name="settings_display_location_wgs84_minute">Lat/Long (Deg Min)</string>
 <string name="settings_display_location_wgs84_degree">Lat/Long (Deg)</string>
-<string name="settings_display_location_imported">Imported formats</string>
+<string name="settings_display_location_imported">Uvoženi formati</string>
 
-<string name="settings_display_areas_title">Area unit</string>
+<string name="settings_display_areas_title">Merske enote površine</string>
 
-<string name="settings_display_bearings_title">Bearing unit</string>
-<string name="settings_display_bearings_degrees">Degrees</string>
-<string name="settings_display_bearings_gradians">Gradians</string>
-<string name="settings_display_bearings_mils">Mils</string>
-<string name="settings_display_bearings_quadrants">Quadrants</string>
+<string name="settings_display_bearings_title">Azimut</string>
+<string name="settings_display_bearings_degrees">Stopinje</string>
+<string name="settings_display_bearings_gradians">Gradian</string>
+<string name="settings_display_bearings_mils">Miliradian</string>
+<string name="settings_display_bearings_quadrants">Kvadranti</string>
 
-<string name="settings_display_slopes_title">Slope unit</string>
-<string name="settings_display_slopes_percents">Percents</string>
-<string name="settings_display_slopes_degrees">Degrees</string>
+<string name="settings_display_slopes_title">Naklon</string>
+<string name="settings_display_slopes_percents">Odstotki</string>
+<string name="settings_display_slopes_degrees">Stopinje</string>
 
-<string name="settings_display_pressures_title">Pressure unit</string>
-<string name="settings_display_pressures_pascals">Hectopascals / Millibars</string>
-<string name="settings_display_pressures_mmhg">Millimetres of mercury</string>
-<string name="settings_display_pressures_inhg">Inch of mercury</string>
+<string name="settings_display_pressures_title">Pritisk</string>
+<string name="settings_display_pressures_pascals">Hektopaskali / Milibari</string>
+<string name="settings_display_pressures_mmhg">Milimeter živega srebra</string>
+<string name="settings_display_pressures_inhg">Inč živega srebra</string>
 
-<string name="settings_display_reference_north_title">Reference north</string>
-<string name="settings_display_reference_north_geographic">True (geographical) north</string>
-<string name="settings_display_reference_north_grid">Grid north</string>
-<string name="settings_display_reference_north_magnetic">Magnetic north</string>
+<string name="settings_display_reference_north_title"></string>
+<string name="settings_display_reference_north_geographic">Pravi (geografski) sever</string>
+<string name="settings_display_reference_north_grid">Kartografski sever</string>
+<string name="settings_display_reference_north_magnetic">Magnetni sever</string>
 
-<string name="settings_display_heading_arrow">Arrow</string>
-<string name="settings_display_heading_line">Line</string>
-<string name="settings_display_heading_field_of_view">Field of view</string>
+<string name="settings_display_heading_arrow">Puščica</string>
+<string name="settings_display_heading_line">Črta</string>
+<string name="settings_display_heading_field_of_view">Vidno polje</string>
 
-<string name="settings_technical_category">Technical settings</string>
-<string name="settings_technical_hide_status_bar_title">Hide status bar</string>
-<string name="settings_technical_hide_status_bar_desc">Use the main menu button to display the top status bar temporarily.</string>
-<string name="settings_technical_hide_navigation_bar_title">Hide navigation bar</string>
-<string name="settings_technical_hide_navigation_bar_desc">Also hide the software navigation buttons when displaying the map in full screen.</string>
-<string name="settings_technical_screen_on_title">Screen always on</string>
-<string name="settings_technical_screen_on_desc">Never turn the screen off when displaying the map view.</string>
-<string name="settings_technical_disable_keyguard_title">Display over lockscreen</string>
-<string name="settings_technical_disable_keyguard_desc">Do not require to unlock the keyguard screen to use this application.</string>
-<string name="settings_technical_confirm_exit_title">Confirm exit</string>
-<string name="settings_technical_confirm_exit_desc">Ask exit confirmation before exiting.</string>
-<string name="settings_technical_path_title">Storage location</string>
-<string name="settings_technical_path_desc">Define where to store downloaded maps.</string>
-<string name="settings_technical_path_dialog_app_path">Application path</string>
-<string name="settings_technical_path_dialog_warning_unavailable">Your system prevents usage of this location.</string>
-<string name="settings_technical_path_dialog_warning_removable">This location will be deleted by the system when you uninstall the application.</string>
-<string name="settings_technical_path_dialog_warning_vulnerable">If you use a maintenance application, it may delete this location.</string>
+<string name="settings_technical_category">Tehnične nastavitve</string>
+<string name="settings_technical_hide_status_bar_title">Skrij statusno vrstico</string>
+<string name="settings_technical_hide_status_bar_desc">Uporabi gumb glavnega menija za začasni prikaz zgornje statusne vrstice.</string>
+<string name="settings_technical_hide_navigation_bar_title">Skrij vrstico z navigacijo</string>
+<string name="settings_technical_hide_navigation_bar_desc"> Prav tako skrij navigacijske gumbe aplikacije ko je zemljevid v celozaslonskem načinu.</string>
+<string name="settings_technical_screen_on_title">Ekran vedno prižgan</string>
+<string name="settings_technical_screen_on_desc">Nikoli ne ugasni ekrana ob prikazovanju zemljevida.</string>
+<string name="settings_technical_disable_keyguard_title">Prikazuj čez zaklenjen zaslon</string>
+<string name="settings_technical_disable_keyguard_desc">Ne zahteva odklepa zaslona za uporabo te aplikacije.</string>
+<string name="settings_technical_confirm_exit_title">Potrdi izhod</string>
+<string name="settings_technical_confirm_exit_desc">Potrdi izhod pred izhodom iz aplikacije.</string>
+<string name="settings_technical_path_title">Lokacija shranjenih podatkov</string>
+<string name="settings_technical_path_desc">Določi kam se shranijo naloženi zemljevidi.</string>
+<string name="settings_technical_path_dialog_app_path">Naslov aplikacije</string>
+<string name="settings_technical_path_dialog_warning_unavailable">Vaš sistem vam je onemogočil uporabo te lokacije.</string>
+<string name="settings_technical_path_dialog_warning_removable">Ta lokacija bo izbrisana iz sistema, ko boste izbrisali aplikacijo.</string>
+<string name="settings_technical_path_dialog_warning_vulnerable">Če uporabljate aplikacijo za popravke, lahko ta izbriše to lokacijo.</string>
 
-<string name="settings_canvas_category">Map canvas settings</string>
-<string name="settings_canvas_infobox_style_title">Information boxes style</string>
-<string name="settings_canvas_infobox_style_desc">Define the size and background colour of the information boxes displayed on the map.</string>
-<string name="settings_canvas_long_press_map_title">Long-press map actions</string>
-<string name="settings_canvas_long_press_map_desc">Define which actions to trigger when long-pressing the map.</string>
-<string name="settings_canvas_long_press_map_action_map_only">Display map only</string>
-<string name="settings_canvas_zoom_type_title">Zoom controls</string>
-<string name="settings_canvas_zoom_type_desc">Define zoom controls behavior and display on the map.</string>
-<string name="settings_canvas_zoom_type_mode_buttons">Buttons</string>
-<string name="settings_canvas_zoom_type_mode_all">Buttons and slider</string>
-<string name="settings_canvas_zoom_type_shortcuts_s">Double-tap the map on the same point to zoom in, double-tap different points to zoom out.</string>
-<string name="settings_canvas_zoom_type_volume_keys">Volume buttons zoom in or zoom out the map</string>
-<string name="settings_canvas_zoom_type_adjust_zoom">Auto-adjust zoom on map levels</string>
-<string name="settings_canvas_zoom_type_long_press">Long-press zoom buttons change map display resolution</string>
-<string name="settings_canvas_grids_title">Grids density and style</string>
-<string name="settings_canvas_grids_desc">Define how grids are displayed on the map.</string>
-<string name="settings_canvas_grids_option_minor_labels">Display labels of minor lines</string>
-<string name="settings_canvas_multitouch_zoom_title">Pinch to zoom</string>
-<string name="settings_canvas_multitouch_zoom_desc">Allow to control the map zoom by pitching two fingers on the map.</string>
-<string name="settings_canvas_multitouch_rotate_title">Manual map rotation</string>
-<string name="settings_canvas_multitouch_rotate_desc">Allow to control the map orientation by turning two fingers on the map.</string>
-<string name="settings_canvas_multitouch_pitch_title">Perspective map view</string>
-<string name="settings_canvas_multitouch_pitch_desc">Allow to control the map perspective by moving down two fingers on the map.</string>
-<string name="settings_canvas_hres_map_title">Map display resolution</string>
-<string name="settings_canvas_hres_map_desc">Display size of the map on the screen.</string>
+<string name="settings_canvas_category">Izgled zemljevida</string>
+<string name="settings_canvas_infobox_style_title">Izgled okna z informacijami</string>
+<string name="settings_canvas_infobox_style_desc">Določi velikost in barvo ozadja okna z informacijami prikazanega na zemljevidu.</string>
+<string name="settings_canvas_long_press_map_title">Dejanja dolgega pritiska na zemljevid</string></string>
+<string name="settings_canvas_long_press_map_desc">Določi katera dejanja se zaženenejo ob dolgem pritisku na zemljevid.</string>
+<string name="settings_canvas_long_press_map_action_map_only">Prikaži samo zemljevid</string>
+<string name="settings_canvas_zoom_type_title">Povečava</string>
+<string name="settings_canvas_zoom_type_desc">Določi obnašanje povečave in ekrana na zemljevidu.</string>
+<string name="settings_canvas_zoom_type_mode_buttons">Gumbi</string>
+<string name="settings_canvas_zoom_type_mode_all">Gumbi in drsalka</string>
+<string name="settings_canvas_zoom_type_shortcuts_s">Dvojni pritisk na istem mestu poveča zemljevid, dvojni pritisk na različnih mestih, pomanjša zemljevid.</string>
+<string name="settings_canvas_zoom_type_volume_keys">Tipke za glasnost povečajo ali pomanjšajo zemljevid</string>
+<string name="settings_canvas_zoom_type_adjust_zoom">Samodejno prilagodi povečavo na nivojih zemljevida</string>
+<string name="settings_canvas_zoom_type_long_press">Dolg pritisk gumbov za povečavo spremeni ločljivost prikazanega zemljevida</string>
+<string name="settings_canvas_grids_title">Oblika in gostota mreže (raster)</string>
+<string name="settings_canvas_grids_desc">Določi kako je mreža prikazana na zemljevidu.</string>
+<string name="settings_canvas_grids_option_minor_labels">Prikaži napise manj pomembnih črt</string>
+<string name="settings_canvas_multitouch_zoom_title">Uščipni za povečavo</string>
+<string name="settings_canvas_multitouch_zoom_desc">Dovoli nadzor nad povečavo z uščipanjem dveh prstov po zemljevidu.</string>
+<string name="settings_canvas_multitouch_rotate_title">Ročno obračanje zemljevida</string>
+<string name="settings_canvas_multitouch_rotate_desc">Dovoli nadzor nad orientacijo zemljevida z obračanjem dveh prstov po zemljevidu.</string>
+<string name="settings_canvas_multitouch_pitch_title">Perspektiva zemljevida</string>
+<string name="settings_canvas_multitouch_pitch_desc">Dovoli nadzor nad perspektivo zemljevida z drsenjem dveh prstov naenkrat navzdol po zemljevidu.</string>
+<string name="settings_canvas_hres_map_title">Ločljivost zemljevida</string>
+<string name="settings_canvas_hres_map_desc">Prikaži velikost zemljevida na ekranu.</string>
 
-<string name="settings_landmarks_display_size_title">Display size</string>
-<string name="settings_landmarks_display_size_desc">Size of placemarks (paths, waypoints, icons) displayed on the map.</string>
-<string name="settings_landmarks_display_color_title">Default colour</string>
-<string name="settings_landmarks_display_color_desc">Default colour of placemaks displayed on the map.</string>
-<string name="settings_landmarks_display_target_color_title">Target colour</string>
-<string name="settings_landmarks_display_target_color_desc">Colour of targeted placemark displayed on the map.</string>
-<string name="settings_landmarks_display_borders_title">Display borders</string>
-<string name="settings_landmarks_display_borders_desc">Display a border for placemarks displayed on the map.</string>
-<string name="settings_landmarks_display_shadows_title">Display shadows</string>
-<string name="settings_landmarks_display_shadows_desc">Display a shadow under placemarks displayed on the map.</string>
-<string name="settings_landmarks_display_time_bounds_title">Display time bounds</string>
-<string name="settings_landmarks_display_time_bounds_desc">Display time bounds of tracks displayed on the map.</string>
-<string name="settings_landmarks_preprocess_title">Preprocess tracks</string>
-<string name="settings_landmarks_preprocess_desc">Improve accuracy of tracks by filtering and correcting points before display.</string>
+<string name="settings_landmarks_display_size_title">Prikaži velikost</string>
+<string name="settings_landmarks_display_size_desc">Velikost geopodatkov (poti, smernih točk, ikon) prikazanih na zemljevidu.</string>
+<string name="settings_landmarks_display_color_title">Prevzeta barva</string>
+<string name="settings_landmarks_display_color_desc">Prevzeta barva geopodatka prikazanega na zemljevidu.</string>
+<string name="settings_landmarks_display_target_color_title">Barva tarče</string>
+<string name="settings_landmarks_display_target_color_desc">Barva geopodatka kot tarče, prikazanega na zemljevidu.</string>
+<string name="settings_landmarks_display_borders_title">Prikaži meje</string>
+<string name="settings_landmarks_display_borders_desc">Prikaži meje geopodatkov prikazanih na zemljevidu.</string>
+<string name="settings_landmarks_display_shadows_title">Prikaži sence</string>
+<string name="settings_landmarks_display_shadows_desc"> Prikaži senco pod geopodatki prikazanih na zemljevidu.</string>
+<string name="settings_landmarks_display_time_bounds_title">Prikaži časovne kazalce </string>
+<string name="settings_landmarks_display_time_bounds_desc">Prikaži časovne kazalce pri sledeh prikazanih na zemljevidu.</string>
+<string name="settings_landmarks_preprocess_title">Predprocesiranje sledi</string>
+<string name="settings_landmarks_preprocess_desc">Izboljšaj natančnost sledi z filtriranjem in popravlanjem točk predno so prikazane.</string>
 
-<string name="settings_geolocation_relock_location_title">Automatic GNSS relock</string>
-<string name="settings_geolocation_relock_location_desc">Automatically relock the current GNSS location on the screen centre after 10s of inactivity.</string>
-<string name="settings_geolocation_auto_activate_explorer_mode_title">Automatic explorer mode</string>
-<string name="settings_geolocation_auto_activate_explorer_mode_desc">Automatically activate explorer mode when pitching the map down with two fingers.</string>
-<string name="settings_geolocation_previous_locations_title">Display previous locations</string>
-<string name="settings_geolocation_previous_locations_desc">Display the previous GNSS locations on the map.</string>
-<string name="settings_geolocation_distance_line_title">Display distance line</string>
-<string name="settings_geolocation_distance_line_desc">Display a line from screen centre to current GNSS location.</string>
-<string name="settings_geolocation_course_display_type_title">Current course display</string>
-<string name="settings_geolocation_course_display_type_desc">Define how to display the current GNSS course on the map.</string>
-<string name="settings_geolocation_disable_in_back_title">Disable in background</string>
-<string name="settings_geolocation_disable_in_back_desc">Disable real-time location updates when the application is in background to save battery.</string>
-<string name="settings_geolocation_disable_in_back_desc_tracker">does not apply to the track recorder</string>
-<string name="settings_geolocation_egm96_adjustment_title">EGM96 GNSS adjustment</string>
-<string name="settings_geolocation_egm96_adjustment_desc">Compute more precise elevations using the EGM96 geoid model.</string>
+<string name="settings_geolocation_relock_location_title">Avtomatsko zakleni GNSS</string>
+<string name="settings_geolocation_relock_location_desc">Avtomatsko zakleni trenutno GNSS lokacijo v sredino zaslona po 10s neuporabe.</string>
+<string name="settings_geolocation_auto_activate_explorer_mode_title">Avtomatski raziskovalni način</string>
+<string name="settings_geolocation_auto_activate_explorer_mode_desc">Avtomatsko aktiviraj raziskovalnega načina z uščipanjem dveh prstov navzdol po zemljevidu.</string>
+<string name="settings_geolocation_previous_locations_title">Prikaži prejšnje lokacije</string>
+<string name="settings_geolocation_previous_locations_desc">Prikaži prejšnje GNSS lokacije na zemljevidu.</string>
+<string name="settings_geolocation_distance_line_title">Prikaži črto razdalje</string>
+<Prikaži name="settings_geolocation_distance_line_desc">Prikaži črto lokacije od sredine zaslona, do trenutne GNSS lokacije.</string>
+<string name="settings_geolocation_course_display_type_title">Prikaži trenutno smer hoje</string>
+<string name="settings_geolocation_course_display_type_desc">Določi kako naj se prikaže trenutna GNSS smer hoje na zemljevidu.</string>
+<string name="settings_geolocation_disable_in_back_title">Onemogoči v ozadju</string>
+<string name="settings_geolocation_disable_in_back_desc">Onemogoči posodobitve lokacije, ko aplikacija deluje v ozadju, da privarčuje z energijo.</string>
+<string name="settings_geolocation_disable_in_back_desc_tracker">se ne nanaša na snemalca sledi</string>
+<string name="settings_geolocation_egm96_adjustment_title">EGM96 GNSS prilagoditev</string>
+<string name="settings_geolocation_egm96_adjustment_desc">Izračun bolj natančne nadmorske višine z uporabo EGM96 geoid modela.</string>
 
-<string name="settings_orientation_heading_display_type_title">Current heading display</string>
-<string name="settings_orientation_heading_display_type_desc">Define how to display the current compass heading on the map.</string>
+<string name="settings_orientation_heading_display_type_title">Prikaz trenutnega kurza</string>
+<string name="settings_orientation_heading_display_type_desc">Določi kako naj se prikaže trenutni kurz po kompasu na zemljevidu.</string>
 
-<string name="settings_display_location_import_import_desc_1p">Enter any coordinate system WKT/PROJ definition, or any EPSG/ESRI/SR-ORG ID from %s.</string>
-<string name="settings_display_location_import_not_supported_1p">Coordinate system “%s” is not supported yet. Please contact us on our support forum for any question about it.</string>
+<string name="settings_display_location_import_import_desc_1p">Vnesi katerokoli WKT/PROJ definicijo koordinatnih sistemov, ali katerokoli EPSG/ESRI/SR-ORG ID iz %s.</string>
+<string name="settings_display_location_import_not_supported_1p">Koordinatni sistem “%s” trenutno še ni podprt. Prosimo kontaktirajte nas na forumu za pomoč in postavite vprašanja v zvezi vaše težave.</string>
 
 
 
@@ -973,13 +973,13 @@ in tudi:
 <string name="maps_community_list_featured_maps">Featured maps</string>
 <string name="maps_community_list_refreshed_1p">List updated: %s new map(s)</string>
 
-<string name="maps_community_type_aeronautical">Aeronautical</string>
-<string name="maps_community_type_historical">Historical</string>
-<string name="maps_community_type_nautical">Nautical</string>
-<string name="maps_community_type_other">Other</string>
-<string name="maps_community_type_roads">Roads</string>
-<string name="maps_community_type_satellite">Satellite</string>
-<string name="maps_community_type_topo">Topo</string>
+<string name="maps_community_type_aeronautical">Letalski</string>
+<string name="maps_community_type_historical">Zgodovinjski</string>
+<string name="maps_community_type_nautical">Navtični</string>
+<string name="maps_community_type_other">Ostali</string>
+<string name="maps_community_type_roads">Ceste</string>
+<string name="maps_community_type_satellite">Satelitski</string>
+<string name="maps_community_type_topo">Topografski</string>
 
 
 

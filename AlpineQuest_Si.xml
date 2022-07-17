@@ -97,7 +97,7 @@ Preprost vklop/izklop za varčevanje z energijo.
 
 in tudi:
 • Metrične, Imperične in hibridne enote razdalje;
-• GPS Širina/dolžina in mrežni koordinatni sistemi (UTM, MGRS, USNG, OSGB Grid, Irish Grid, Swiss Grid, Lambert Grids, DFCI Grid, QTH Maidenhead Locator System, ...);
+• GPS Širina/dolžina in mrežni koordinatni sistemi (UTM, MGRS, USNG, OSGB koordinatna mreža, Irska koordinatna mreža, Švicarska koordinatna mreža, Lambert koordinatna mreža, DFCI koordinatna mreža, QTH Maidenhead Locator System, ...);
 • Možnost uvoza na stotine koordinatnih sistemov iz http://www.spatialreference.org;
 • Mrežni prikaz;
 • Celiozaslonski način;
@@ -129,8 +129,8 @@ in tudi:
 <string name="core_submenu_lock_screen">Zakleni zaslon</string>
 <string name="core_submenu_print_map">Zajemi zemljevid</string>
 <string name="core_submenu_screen_center_coordinates">Koordinate sredine zaslona</string>
-<string name="core_submenu_display_grid">Prikaži mrežo</string>
-<string name="core_submenu_display_secondary_grid">Prikaži sekundarno mrežo</string>
+<string name="core_submenu_display_grid">Prikaži koordinatno mrežo</string>
+<string name="core_submenu_display_secondary_grid">Prikaži sekundarno koordinatno mrežo</string>
 <string name="core_submenu_display_radius_ruler">Prikaži krožno skalo</string>
 <string name="core_submenu_night_mode">Nočni način</string>
 
@@ -755,7 +755,7 @@ in tudi:
 <string name="settings_canvas_zoom_type_volume_keys">Tipke za glasnost povečajo ali pomanjšajo zemljevid</string>
 <string name="settings_canvas_zoom_type_adjust_zoom">Samodejno prilagodi povečavo na nivojih zemljevida</string>
 <string name="settings_canvas_zoom_type_long_press">Dolg pritisk gumbov za povečavo spremeni ločljivost prikazanega zemljevida</string>
-<string name="settings_canvas_grids_title">Oblika in gostota mreže (raster)</string>
+<string name="settings_canvas_grids_title">Oblika in gostota koordinatne mreže (raster)</string>
 <string name="settings_canvas_grids_desc">Določi kako je mreža prikazana na zemljevidu.</string>
 <string name="settings_canvas_grids_option_minor_labels">Prikaži napise manj pomembnih črt</string>
 <string name="settings_canvas_multitouch_zoom_title">Uščipni za povečavo</string>

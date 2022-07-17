@@ -26,7 +26,7 @@ PROSIMO sporočite predloge ali napake za v to namemnjen forumu https://www.alpi
 ★★ <b>Zemljevidi</b> ★★
 • Vključuje <b>online zemljevidi</b> (z <b>avtomatskim lokalnim shranjevanjem</b>; vključeni cestni, topografski in satelitski zemljevidi) in <b>online plasti</b> (imena ulic, senčenje terena, plastnice);
 • pridobite online zemljevide ter plasti z enim klikom iz seznama zemljevidov skupnosti (Vsi večji svetovni zemljevidi in mnogo lokalnih topografskih zemljevidov);
-• Celotno <b>shranjevanje območij</b> online zemljevidov za uporabo brez omrežnega signala;
+• Celotno <b>shranjevanje področij</b> online zemljevidov za uporabo brez omrežnega signala;
 • <b>Lokalno shranjeni zemljevidi</b> podpira (raster) vključno z <b>KMZ plastmi</b>, <b>OziExplorer OZFx2/OZFx3 (partly)/.map+.jpg/.png/.bmp/.gif</b>, <b>GeoPackage GeoPkg</b>, <b>MbTile</b>, <b>SqliteDB</b> and <b>TMS</b> zipped tiles (Obiščite našo spletno stran, da pridobite MOBAC, brezplačni ustvarjalec zemljevidov);
 • <b>QuickChart</b> Memory Map podpora (samo .qct zemljevidi, .qc3 zemljevidi niso podprti);
 • Vključuje <b>Kalibracijo lastnih slik</b> za uporabo katerekoli slike kot zemljevid;
@@ -35,14 +35,14 @@ PROSIMO sporočite predloge ali napake za v to namemnjen forumu https://www.alpi
 • Napreden SD memory card Map Explorer.
 
 ★★ <b>Geopodatki</b> ★★
-• Ustvari, Prikaži, Shrani, Povrni <b>neomejena količina oznak</b> (smerne točke, poti, površine in sledi);
+• Ustvari, Prikaži, Shrani, Povrni <b>neomejena količina oznak</b> (smerne točke, rute, področja in sledi);
 • Uvoz/izvoz <b>GPX</b> datotek, <b>Google Earth KML/KMZ</b> datotek in <b>CSV/TSV</b> datotek;
 • Uvoz <b>ShapeFile SHP/PRJ/DBF</b>, <b>OziExplorer WPT/PLT</b>, <b>Geocaching LOC</b> smerne točke in izvoz <b>AutoCAD DXF</b> datotek;
 • Shrani ali deli online lokacije z ostalimi uporabniki kateri uporabljajo geopodatke skupnosti;
 • <b>Podrobnosti</b>, <b>napredna statistika</b> in <b>interaktivna grafika</b> pri različnih načinih;
 • Časovnik za predvajanje sledi;
-• Ustvarjalec poti, sledi ali območij;
-• Napreden SD memory card Placemarks Explorer.
+• Ustvarjalec rut, sledi ali področij;
+• Napreden SD memory card iskalec geopodatkov.
 
 ★★ <b>GPS Lokacija / Orientacija</b> ★★
 • Prikaz geolokacije na zemljevidu z uporabo GPS-a ali omrežnega signala;
@@ -77,18 +77,18 @@ Ste naveličani čakanja, da se zemljevid naloži? Uporabite vse v enem OfflineM
 
 --
 
-<b><b>Ta Plus različica vsebuje vse lastnosti Standardne različice brez oglasov, in podpira uvoz profesionalnih GPS in ostalih formatov datotek geopodatkov (smerne točke, poti, sledi, območja) kot so GPX, Google Earth KML/KMZ (prekrivanja niso podprta), Ozi Explorer WPT/PLT, CVS/TSV and Geocaching LOC</b></b>
+<b><b>Ta Plus različica vsebuje vse lastnosti Standardne različice brez oglasov, in podpira uvoz profesionalnih GPS in ostalih formatov datotek geopodatkov (smerne točke, rute, sledi, področja) kot so GPX, Google Earth KML/KMZ (prekrivanja niso podprta), Ozi Explorer WPT/PLT, CVS/TSV and Geocaching LOC</b></b>
 
 --
 
 ★★ <b>Zemljevidi</b> ★★
 Na voljo je veliko zemljevidov, vklučno z avtokartami, topografskimi zemljevidi, aero (satelitskimi) posnetki in različni sloji s katerimi lahko prekrijete zemljevide: OpenStreetMap (Ceste, Topo), USGS National Map (Hi-res topo, Aero posnetki), Svetovno vojaški Sovietski topografski zemljevid, itd.
 • Vse zemljevide lahko stlačite v sloje, z možnostjo precizne nastavitve prosojnosti;
-• Izberite in shranite večja območja z nekaj kliki;
-• Shranjeni podatki se lahko počistijo na lahek način.
+• Izberite in shranite večja področja z nekaj kliki;
+• Shranjeni podatki se lahko počistijo na preprost način.
 
 ★★ <b>Prikaži, shrani in povrni neomejeno št. geopodatkov</b> ★★
-Lahko dodate različne predmete na zemljevide kot so recimo smerne točke, ikone, poti, območja in sledi.
+Lahko dodate različne predmete na zemljevide kot so recimo smerne točke, ikone, rute, področja in sledi.
 z njimi lahko z lahkoto upravljate z uporabo zmogljivega SD-Card Placemarks Explorer-ja.
 
 ★★ <b>Prikaz lokacije na Zemljevidu & Orientacija</b> ★★
@@ -137,7 +137,7 @@ in tudi:
 <string name="maps_submenu_title">Zemljevidi &amp; plasti</string>
 <string name="maps_submenu_available_maps">Razpoložljivi zemljevidi</string>
 <string name="maps_submenu_displayed_maps">Prikaži zemljevide</string>
-<string name="maps_submenu_area_downloader">Izberi in shrani območje</string>
+<string name="maps_submenu_area_downloader">Izberi in shrani področje</string>
 <string name="maps_submenu_display_name">Ime zemljevida</string>
 <string name="maps_submenu_display_scale_value">Merilo zemljevida</string>
 <string name="maps_submenu_display_scale_bar">Skala merila</string>
@@ -488,7 +488,7 @@ in tudi:
 <string name="landmarks_explorer_category_locations">Lokacije</string>
 <string name="landmarks_explorer_category_paths">Poti</string>
 <string name="landmarks_explorer_category_proximities">Bližinjski alarmi</string>
-<string name="landmarks_explorer_category_routes">Routes</string>
+<string name="landmarks_explorer_category_routes">Rute</string>
 <string name="landmarks_explorer_category_segments">Odseki sledi</string>
 <string name="landmarks_explorer_category_sets">Skupek smernih točk</string>
 <string name="landmarks_explorer_category_tracks">Sledi</string>
@@ -501,7 +501,7 @@ in tudi:
 <string name="landmarks_explorer_name_path">Path</string>
 <string name="landmarks_explorer_name_picture">Slikaj smerno točko</string>
 <string name="landmarks_explorer_name_proximity">Bližinjski alarm</string>
-<string name="landmarks_explorer_name_route">Pot</string>
+<string name="landmarks_explorer_name_route">Ruta</string>
 <string name="landmarks_explorer_name_segment">Odsek sledi</string>
 <string name="landmarks_explorer_name_set">Skupek smernih točk</string>
 <string name="landmarks_explorer_name_slope">Naklon</string>
@@ -527,7 +527,7 @@ in tudi:
 <string name="landmarks_create_waypoint_desc">Ustvari točko na zemljevidu.</string>
 <string name="landmarks_create_picture_desc">Zajemi sliko in jo dodaj kot točko na zemljevidu.</string>
 <string name="landmarks_create_set_desc">Ustvari več smernih točk na zemljevidu, upravljanje z vsemi naenkrat.</string>
-<string name="landmarks_create_route_desc">Ustvari več smernih točk na zemljevidu po vrsti z risanjem poti.</string>
+<string name="landmarks_create_route_desc">Ustvari več smernih točk na zemljevidu po vrsti z risanjem rute.</string>
 <string name="landmarks_create_area_desc">Nariši področje na zemljevidu.</string>
 <string name="landmarks_create_path_desc">Nariši pot na zemljevidu.</string>
 <string name="landmarks_create_file_desc">Ustvari datoteko za hrambo različnih geopodatkov.</string>

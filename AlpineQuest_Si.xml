@@ -1006,112 +1006,112 @@ in tudi:
 <string name="landmarks_details_statistics_settings_moving_threshold">Moving threshold</string>
 <string name="landmarks_details_statistics_settings_min_break_time">Min. break time</string>
 <string name="landmarks_details_statistics_settings_include_inter_segments">Include inter-segment gaps</string>
-<string name="landmarks_details_no_data_time">No time data</string>
-<string name="landmarks_details_no_data_elevation">No elevation data</string>
+<string name="landmarks_details_no_data_time">Ni podatkov o času</string>
+<string name="landmarks_details_no_data_elevation">Ni podatkov o višini</string>
 
-<string name="landmarks_sym_group_custom">Custom</string>
-<string name="landmarks_sym_group_accommodation">Accommodation</string>
-<string name="landmarks_sym_group_amenity">Amenity</string>
-<string name="landmarks_sym_group_food">Food</string>
-<string name="landmarks_sym_group_health">Health</string>
-<string name="landmarks_sym_group_manmade">Man made</string>
-<string name="landmarks_sym_group_natural">Natural</string>
-<string name="landmarks_sym_group_power">Power</string>
-<string name="landmarks_sym_group_shopping">Shopping</string>
-<string name="landmarks_sym_group_sport">Sport</string>
-<string name="landmarks_sym_group_tourism">Tourism</string>
+<string name="landmarks_sym_group_custom">Po meri</string>
+<string name="landmarks_sym_group_accommodation">Nastanitev</string>
+<string name="landmarks_sym_group_amenity">Javne dobrine</string>
+<string name="landmarks_sym_group_food">Hrana</string>
+<string name="landmarks_sym_group_health">Zdravje</string>
+<string name="landmarks_sym_group_manmade">Umetno</string>
+<string name="landmarks_sym_group_natural">Naravno</string>
+<string name="landmarks_sym_group_power">Energija</string>
+<string name="landmarks_sym_group_shopping">Nakupovanje</string>
+<string name="landmarks_sym_group_sport">Šport</string>
+<string name="landmarks_sym_group_tourism">Turizem</string>
 <string name="landmarks_sym_group_transport">Transport</string>
-<string name="landmarks_sym_group_water">Water</string>
-<string name="landmarks_sym_group_worship">Worship</string>
+<string name="landmarks_sym_group_water">Voda</string>
+<string name="landmarks_sym_group_worship">Verski objekti</string>
 
-<string name="core_details_category_geocaching">Geocaching</string>
+<string name="core_details_category_geocaching">Geolov</string>
 
-<string name="landmarks_features_import_description_1p">Allows the application to import placemarks from %s files.</string>
-<string name="landmarks_features_export_description_1p">Allows the application to export placemarks to %s files.</string>
+<string name="landmarks_features_import_description_1p">Dovoli aplikaciji uvoz geopodatkov iz %s datotek.</string>
+<string name="landmarks_features_export_description_1p"> Dovoli aplikaciji izvoz geopodatkov v %s datoteke.</string>
 
-<string name="landmarks_import_options_download_external_content">Download external content</string>
-<string name="landmarks_import_options_fix_gps_week_rollout">Fix GPS week number rollout issues</string>
+<string name="landmarks_import_options_download_external_content">Prenesi zunanjo vsebino</string>
+<string name="landmarks_import_options_fix_gps_week_rollout">Popravi "GPS week number rollout" napako</string>
 
-<string name="landmarks_import_xsv_separator">Separator</string>
-<string name="landmarks_import_xsv_assign">Assign to&#8230;</string>
-<string name="landmarks_import_xsv_first_row_headers">Headers in first row</string>
+<string name="landmarks_import_xsv_separator">Ločilec</string>
+<string name="landmarks_import_xsv_assign">To pripiši&#8230;</string>
+<string name="landmarks_import_xsv_first_row_headers">Glava v prvi vrsti</string>
 
-<string name="landmarks_ldks_provider_title">Online placemarks</string>
-<string name="landmarks_ldks_provider_unavailable">Sorry, right now Community Placemarks is only available in the full or activated versions.</string>
+<string name="landmarks_ldks_provider_title">Geopodatki na spletu</string>
+<string name="landmarks_ldks_provider_unavailable">Oprostite, trenutno so geopodatki skupnosti na voljo le v celotni ali aktivirani različici aplikacije  .</string>
 
-<string name="landmarks_ldks_signin_desc">Save your placemarks online, share them with your friends.</string>
-<string name="landmarks_ldks_signin_button">Sign in</string>
-<string name="landmarks_ldks_signin_username_desc">3 to 10 characters, a-z;A-Z;0-9</string>
-<string name="landmarks_ldks_signin_password_desc">3 to 30 characters</string>
-<string name="landmarks_ldks_signin_failed">Wrong username/password provided, please try again.</string>
+<string name="landmarks_ldks_signin_desc">Shranite svoje geopodatke na spletu, delite jih z prijatelji.</string>
+<string name="landmarks_ldks_signin_button">Vpis</string>
+<string name="landmarks_ldks_signin_username_desc">3 do 10 znakov, a-z;A-Z;0-9</string>
+<string name="landmarks_ldks_signin_password_desc">3 do 30 znakov</string>
+<string name="landmarks_ldks_signin_failed">Vnešeno geslo ali up. ime je napačno, prosimo poskusite ponovno.</string>
 
-<string name="landmarks_ldks_signup_desc">Don’t have an account yet? Create one right now for free!</string>
-<string name="landmarks_ldks_signup_button">Create account</string>
-<string name="landmarks_ldks_signup_entry_exists_1p">%s already exists, please choose another one.</string>
-<string name="landmarks_ldks_button_verify">Verify</string>
-<string name="landmarks_ldks_verification_not_matching">Not matching</string>
+<string name="landmarks_ldks_signup_desc">Še nimate računa? Ustvarite si ga sedaj popolnoma zastonj!</string>
+<string name="landmarks_ldks_signup_button">Ustvari račun</string>
+<string name="landmarks_ldks_signup_entry_exists_1p">%s že obstaja, prosimo izberite kaj drugega.</string>
+<string name="landmarks_ldks_button_verify">Preveri</string>
+<string name="landmarks_ldks_verification_not_matching">Se ne ujema</string>
 
-<string name="landmarks_ldks_verify_email_message_s">Please verify your email address.</string>
-<string name="landmarks_ldks_verify_email_pin_sent">PIN code sent by email</string>
+<string name="landmarks_ldks_verify_email_message_s">Prosimo, verificirajte svoj elektronski naslov.</string>
+<string name="landmarks_ldks_verify_email_pin_sent">PIN koda poslana preko elektronske pošte</string>
 
-<string name="landmarks_ldks_toast_connection_failed">Failed to connect to the server, working offline.</string>
-<string name="landmarks_ldks_toast_modify_success">Modifications successfully sent to the server.</string>
-<string name="landmarks_ldks_toast_update_tiles_1p">Updating data from server (%s remaining)&#8230;</string>
-<string name="landmarks_ldks_toast_update_success_1p">%s new item(s).</string>
-<string name="landmarks_ldks_dialog_modify_failed">Failed to send modifications to the server. Please check your last modifications.</string>
-<string name="landmarks_ldks_dialog_wrong_version">Your version is no more supported, please update your client.</string>
-<string name="landmarks_ldks_explorer_header_title_offline">Working offline.</string>
-<string name="landmarks_ldks_explorer_header_up_to_date">Up to date.</string>
-<string name="landmarks_ldks_explorer_header_pendings_1p">%s pending action(s).</string>
+<string name="landmarks_ldks_toast_connection_failed">Neuspel poskus povezave z strežnikom, deluje brez povezave.</string>
+<string name="landmarks_ldks_toast_modify_success">Spremembe uspešno poslane na strežnik.</string>
+<string name="landmarks_ldks_toast_update_tiles_1p">Posodobi podatke iz serverja (preostane še %s)&#8230;</string>
+<string name="landmarks_ldks_toast_update_success_1p">%s novih predmetov.</string>
+<string name="landmarks_ldks_dialog_modify_failed">Neuspel poskus pošiljanja sprememb na strežnik. Prosimo, preverite svoje zadnje spremembe.</string>
+<string name="landmarks_ldks_dialog_wrong_version">Vaša različica žal ni več podprta, prosimo posodobite aplikacijo.</string>
+<string name="landmarks_ldks_explorer_header_title_offline">Deluje brez povezave.</string>
+<string name="landmarks_ldks_explorer_header_up_to_date">Ažurno.</string>
+<string name="landmarks_ldks_explorer_header_pendings_1p">V teku še %s procesov.</string>
 
-<string name="landmarks_ldks_context_menu_log_off">Sign off</string>
-<string name="landmarks_ldks_context_menu_account">My account</string>
-<string name="landmarks_ldks_context_menu_connect">Work online</string>
-<string name="landmarks_ldks_context_menu_disconnect">Work offline</string>
-<string name="landmarks_ldks_context_menu_refresh_folder">Refresh folder</string>
-<string name="landmarks_ldks_context_menu_refresh_area">Refresh area</string>
+<string name="landmarks_ldks_context_menu_log_off">Odjava</string>
+<string name="landmarks_ldks_context_menu_account">Moj račun</string>
+<string name="landmarks_ldks_context_menu_connect">Način z povezavo</string>
+<string name="landmarks_ldks_context_menu_disconnect">Način brez povezave</string>
+<string name="landmarks_ldks_context_menu_refresh_folder">Posodobi mapo</string>
+<string name="landmarks_ldks_context_menu_refresh_area">Osveži območje</string>
 
-<string name="landmarks_ldks_explorer_category_hidden_folders">Hidden folders</string>
-<string name="landmarks_ldks_explorer_category_users">Users</string>
-<string name="landmarks_ldks_explorer_category_friends">Friends</string>
-<string name="landmarks_ldks_explorer_category_public_waypoints">Public waypoints</string>
+<string name="landmarks_ldks_explorer_category_hidden_folders">Skrite mape</string>
+<string name="landmarks_ldks_explorer_category_users">Uporabniki</string>
+<string name="landmarks_ldks_explorer_category_friends">Prijatelji</string>
+<string name="landmarks_ldks_explorer_category_public_waypoints">Javne smerne točke</string>
 
-<string name="landmarks_ldks_explorer_name_user">User</string>
-<string name="landmarks_ldks_explorer_name_my_landmarks_title">My waypoints</string>
-<string name="landmarks_ldks_explorer_name_my_landmarks_desc">Your online waypoints</string>
-<string name="landmarks_ldks_explorer_name_public_landmarks_title">My public waypoints</string>
-<string name="landmarks_ldks_explorer_name_public_landmarks_desc">Public waypoints you created or modified</string>
-<string name="landmarks_ldks_explorer_name_my_friends_title">My Friends</string>
-<string name="landmarks_ldks_explorer_name_my_friends_desc">Add users to access their waypoints</string>
+<string name="landmarks_ldks_explorer_name_user">Uporabnik</string>
+<string name="landmarks_ldks_explorer_name_my_landmarks_title">Moje smerne točke</string>
+<string name="landmarks_ldks_explorer_name_my_landmarks_desc">Vaše smerne točke na spletu</string>
+<string name="landmarks_ldks_explorer_name_public_landmarks_title">Moje javne smerne točke</string>
+<string name="landmarks_ldks_explorer_name_public_landmarks_desc">Javne smerne točke katere ste ustvarili ali modificirali</string>
+<string name="landmarks_ldks_explorer_name_my_friends_title">Moji prijatelji</string>
+<string name="landmarks_ldks_explorer_name_my_friends_desc">Dodaj uporabnike za dostop do njihovih smernih točk.</string>
 
-<string name="landmarks_ldks_create_folder_hidden_title">Hidden folder</string>
-<string name="landmarks_ldks_create_folder_hidden_desc">Allows you to browse an hidden sub-folder.</string>
-<string name="landmarks_ldks_create_friend_title">Friend</string>
-<string name="landmarks_ldks_create_friend_desc">Define another user as a friend in order to browse its placemarks easier.</string>
-<string name="landmarks_ldks_create_public_waypoint_title">Public waypoint</string>
-<string name="landmarks_ldks_create_public_waypoint_desc">Share some information about this location. A new waypoint will be created on the map, visible to all users.</string>
-<string name="landmarks_ldks_create_public_waypoint_disclaimer_check">Before creating a new waypoint, please check that no other waypoint exists on the same place.</string>
-<string name="landmarks_ldks_create_public_waypoint_disclaimer_personal">Public waypoints are visible to all users. Do not enter any personal information.</string>
-<string name="landmarks_ldks_create_public_waypoint_disclaimer_correct">Please choose carefuly the waypoint icon: it will be displayed on the map for all users.</string>
+<string name="landmarks_ldks_create_folder_hidden_title">Skrita mapa</string>
+<string name="landmarks_ldks_create_folder_hidden_desc">Dovoli brskanje skritih map.</string>
+<string name="landmarks_ldks_create_friend_title">Prijatelj</string>
+<string name="landmarks_ldks_create_friend_desc">Opredeli uporabnika kot prijatelja, da boste lažje dostopali do njegovih geopodatkov.</string>
+<string name="landmarks_ldks_create_public_waypoint_title">Javne smerne točke</string>
+<string name="landmarks_ldks_create_public_waypoint_desc">Delite nekaj podatkov o tej lokaciji. Na zemljevidu bo kreirana nova smerna točka, katera bo vidna vsem uporabnikom.</string>
+<string name="landmarks_ldks_create_public_waypoint_disclaimer_check">Predno ustvarite novo smerno točko vas prosimo, da najprej preverite, če na tej lokaciji že obstaja kakšna druga smerna točka .</string>
+<string name="landmarks_ldks_create_public_waypoint_disclaimer_personal">Javne smerne točke so vidne vsem uporabnikom. Ne vnašajte nobenih osebnih podatkov.</string>
+<string name="landmarks_ldks_create_public_waypoint_disclaimer_correct">Prosimo skrbno izberite ikono smerne točke: Prikazana bo na zemljevidu vsem uporabnikom.</string>
 
-<string name="landmarks_ldks_details_line_visibility">Visibility</string>
-<string name="landmarks_ldks_details_line_visibility_private">Private</string>
-<string name="landmarks_ldks_details_line_visibility_hidden">Hidden</string>
-<string name="landmarks_ldks_details_line_visibility_public">Public</string>
+<string name="landmarks_ldks_details_line_visibility">Vidljivost</string>
+<string name="landmarks_ldks_details_line_visibility_private">Privatno</string>
+<string name="landmarks_ldks_details_line_visibility_hidden">Skrito</string>
+<string name="landmarks_ldks_details_line_visibility_public">Javno</string>
 
 
 
 
 <!-- Activation texts -->
 
-<string name="activation_dialog_title_lite">Lite version</string>
-<string name="activation_dialog_limited_feature_s">This feature is not available in this free version.</string>
-<string name="activation_dialog_desc_lite_s">Enjoy all features of AlpineQuest and support us by using the complete version, all future updates included.</string>
-<string name="activation_dialog_url_lite">Click here for more information</string>
+<string name="activation_dialog_title_lite">Zastonjska različica</string>
+<string name="activation_dialog_limited_feature_s">Ta možnost v zastonjski različici žal ni na voljo.</string>
+<string name="activation_dialog_desc_lite_s">Uživajte v uporabi vseh možnosti, ki jih ponuja aplikacija AlpineQuest in nas podprite z nakupom celotne različice, katera vključuje vse nadaljne nadgradnje aplikacije.</string>
+<string name="activation_dialog_url_lite">Za več informacij pritisnite tukaj</string>
 
-<string name="activation_context_menu_activation">Activation</string>
-<string name="activation_description_s">Activate the application only if requested. \nIf you’ve purchased the complete version on the Play Store, do not activate but use the dedicated version.</string>
-<string name="activation_status_activated">Activated</string>
-<string name="activation_status_unactivated">Not activated</string>
-<string name="activation_status_locked">Locked by another device</string>
+<string name="activation_context_menu_activation">Aktivacija</string>
+<string name="activation_description_s">Aktivirajte le, če tako zahteva od vas aplikacija. \nČe ste nakup celotne verzije opravili v Trgovini Play, ne aktivirajte, temveč uporabite namensko različico.</string>
+<string name="activation_status_activated">Aktivirano</string>
+<string name="activation_status_unactivated">Ni aktivirano</string>
+<string name="activation_status_locked">Zaklenjeno preko druge naprave</string>
 <string name="activation_info_line_status">Status</string>

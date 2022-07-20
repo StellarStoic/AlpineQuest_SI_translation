@@ -589,7 +589,7 @@ in tudi:
 <!-- Geolocation feature main texts -->
 
 <string name="geolocation_state_waiting_location_1p">Čakam na „%s“&#8230;</string>
-<string name="geolocation_state_listening_to_1p">Uporaba „%s“&#8230;</string>
+<string name="geolocation_state_listening_to_1p">Uporablja se „%s“&#8230;</string>
 <string name="geolocation_state_source_disabled_1p">„%s“ je ugasnjen!</string>
 <string name="geolocation_state_not_active">Ni aktiven</string>
 <string name="geolocation_satellite_abbrev">sat</string>

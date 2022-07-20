@@ -512,7 +512,7 @@ in tudi:
 <string name="landmarks_explorer_cell_waypoint_1p">%s smerna točka</string>
 <string name="landmarks_explorer_cell_waypoints_1p">%s smerne točke</string>
 
-<string name="landmarks_context_menu_auto_target">Samodejni cilj najbližje</string>
+<string name="landmarks_context_menu_auto_target">Samodejni izbor najbližje</string>
 <string name="landmarks_context_menu_edit_points">Uredi točke</string>
 <string name="landmarks_context_menu_edit_profile">Uredi profil</string>
 <string name="landmarks_context_menu_dynamic_profile">Dinamični profil</string>

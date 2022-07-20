@@ -455,7 +455,7 @@ in tudi:
 <string name="maps_elevation_dem_activate">Vključi uporabo višinskih podatkov</string>
 <string name="maps_elevation_dem_download">Samodejno namesti višinske podatke</string>
 <string name="maps_elevation_dem_map">Pokritost višinskih podatkov</string>
-<string name="maps_elevation_dem_source_1p">Okvirni podatki iz %s</string>
+<string name="maps_elevation_dem_source_1p">Značilni podatki iz %s</string>
 <string name="maps_elevation_dem">Digitalni višinski model (DEM)</string>
 <string name="maps_elevation_dem_abbrev">DEM</string>
 <string name="maps_elevation_map_heights">DEM Višine</string>

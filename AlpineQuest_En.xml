@@ -5,18 +5,18 @@ Turn your Android device into a real off-road GPS using off-line topo maps!
 
 AlpineQuest is <b>the complete solution for all outdoor activities and sports</b>, including hiking, running, trailing, hunting, sailing, geocaching, off-road navigation and much more.
 
-You can access and store locally a large range of <b>on-line topographic maps, which will remain available</b> even while being out of cell coverage. AlpineQuest also supports <b>on-board file based maps</b>, like QCT or OZFx2 maps.
+You can access and store locally a large range of <b>on-line topographic maps, which will remain available</b> even while being out of cell coverage. AlpineQuest also supports many <b>on-board file-based raster map</b> formats.
 
 By using the GPS and the magnetic sensor of your device (with compass display), getting lost is part of the past: <b>you are localized in real-time on the map</b>, which can also <b>be oriented</b> to match where you are looking at.
 
-Save and retrieve <b>placemarks</b>, share them with your friends. <b>Track</b> your path, get <b>advanced statistics</b> and <b>interactive graphics</b>. You won’t have anymore questions about what you can accomplish.
+Save and retrieve unlimited <b>placemarks</b>, share them with your friends. <b>Track</b> your path, get <b>advanced statistics</b> and <b>interactive graphics</b>. You won’t have anymore questions about what you can accomplish.
 
 By staying fully operational out of cell coverage (as often in mountain or abroad), AlpineQuest assists you in all your desires of deep wilderness exploring...
 
+<b><b>No advertisements ~ No data monetization ~ No analytics ~ No third party libraries</b></b>
+
 <b><b>Don’t hesitate, try the free Lite version right now!</b></b> [for full version]
 <b><b>Don’t hesitate, use it right now for free!</b></b> [for free version]
-
-<b><b>No advertisements ~ No data monetization ~ No analytics ~ No third party libraries</b></b>
 
 PLEASE report suggestions and issues on our dedicated forum https://www.alpinequest.net/forum (no registration needed, all questions answered) and not in comments.
 
@@ -25,38 +25,35 @@ PLEASE report suggestions and issues on our dedicated forum https://www.alpinequ
 
 ★★ <b>Maps</b> ★★
 • Built-in <b>online maps</b> (with <b>automatic local storage</b>; road, topo and satellite maps included) and <b>online layers</b> (road names, hillshade, contours);
-• Get more online maps and layers in one click from the included community map list (all major worldwide maps and many local topo maps);
+• Get more online maps and layers in one click from the included community maps list (all major worldwide maps and many local topo maps);
 • Complete <b>area storage</b> of online maps for off-line use;
-• <b>On-board offline maps</b> support (raster) including <b>KMZ Overlays</b>, <b>OziExplorer OZFx2/OZFx3 (partly)/.map+.jpg/.png/.bmp/.gif</b>, <b>GeoPackage GeoPkg</b>, <b>MbTile</b>, <b>SqliteDB</b> and <b>TMS</b> zipped tiles (visit our website to get MOBAC, the free map creator);
+• <b>On-board offline maps</b> support (raster) including <b>KMZ Overlays</b>, <b>OziExplorer OZFx2, OZFx3 (partly) and calibrated images</b>, <b>GeoTiff</b>, <b>GeoPackage GeoPkg</b>, <b>MbTile</b>, <b>SqliteDB</b> and <b>TMS</b> zipped tiles (visit our website to get MOBAC, the free map creator);
 • <b>QuickChart</b> Memory Map support (.qct maps only, .qc3 maps not compatible);
-• Built-in <b>image calibration tool</b> to use any scan or picture as map;
+• Built-in <b>image calibration tool</b> to use any scan or picture as a map;
 • <b>Digital elevation model</b> on-board storage (1-arcsec SRTM DEM) and support for <b>HGT</b> elevation files (both 1-arcsec and 3-arcsec resolutions) allowing display of <b>terrain</b>, <b>hillshade</b> and <b>steep slopes</b>;
-• Multiple <b>maps in layers</b> display, with per-map opacity/contrast/color control;
-• Advanced SD memory card Map Explorer.
+• <b>Polar maps</b> (Arctic and Antarctic) support;
+• Multiple <b>maps in layers</b> display, with per-map opacity/contrast/color/tint/blending control.
 
 ★★ <b>Placemarks</b> ★★
 • Create, display, save, restore <b>unlimited number of items</b> (waypoints, routes, areas and tracks);
 • Import/export <b>GPX</b> files, <b>Google Earth KML/KMZ</b> files and <b>CSV/TSV</b> files;
-• Import <b>ShapeFile SHP/PRJ/DBF</b>, <b>OziExplorer WPT/PLT</b>, <b>Geocaching LOC</b> waypoints and export <b>AutoCAD DXF</b> files;
+• Import <b>ShapeFile SHP/PRJ/DBF</b>, <b>OziExplorer WPT/PLT</b>, <b>GeoJSON</b>, <b>IGC tracks</b>, <b>Geocaching LOC</b> waypoints and export <b>AutoCAD DXF</b> files;
 • Save and share online locations with other users using Community Placemarks;
 • <b>Details</b>, <b>advanced statistics</b> and <b>interactive graphics</b> on various items;
-• Time Controller to replay time-tagged tracks;
-• Routes, tracks and areas creator;
-• Advanced SD memory card Placemarks Explorer.
+• Time Controller to replay time-tagged tracks.
 
-★★ <b>GPS Position / Orientation</b> ★★
-• On-map geolocation using GPS or Network;
+★★ <b>GNSS Position / Orientation</b> ★★
+• On-map geolocation using device GNSS receivers (GPS/Glonass/Galileo/…) or Network;
 • Map orientation, <b>compass</b> and target finder;
-• Built-in <b>GPS/Barometric track recorder</b> (long tracking capable, running in a separate and light process);
+• Built-in <b>GNSS/Barometric track recorder</b> (long tracking capable, running in a separate and light process) with battery level and network strength recording;
 • Proximity alerts and leave path alerts;
-• Barometer support (for compatible devices).
+• Barometer support (compatible devices).
 
 ★★ <b>And more:</b> ★★
-• Metric, imperial and hybrid distance units;
-• GPS Latitude/Longitude and grid coordinate formats (UTM, MGRS, USNG, OSGB, SK42, Irish, Swiss, Lambert, QTH Maidenhead Locator System, ...);
+• Metric, imperial, nautical and hybrid distance units;
+• Latitude/Longitude and grid coordinate formats (WGS, UTM, MGRS, USNG, OSGB, SK42, Lambert, QTH, …) with on-map grids display;
 • Ability to import hundreds of coordinate formats from http://www.spatialreference.org;
-• On-map grids display, full screen map view, multi-touch zoom;
-• ...
+• …
 
 
 
@@ -750,7 +747,7 @@ If you are a real adventurer, try <b>AlpineQuest Off-Road Explorer</b>, the comp
 <string name="settings_canvas_zoom_type_title">Zoom controls</string>
 <string name="settings_canvas_zoom_type_desc">Define zoom controls behavior and display on the map.</string>
 <string name="settings_canvas_zoom_type_mode_buttons">Buttons</string>
-<string name="settings_canvas_zoom_type_mode_all">Buttons and slider</string>
+<string name="settings_canvas_zoom_type_mode_slider">Slider</string>
 <string name="settings_canvas_zoom_type_shortcuts_s">Double-tap the map on the same point to zoom in, double-tap different points to zoom out.</string>
 <string name="settings_canvas_zoom_type_volume_keys">Volume buttons zoom in or zoom out the map</string>
 <string name="settings_canvas_zoom_type_adjust_zoom">Auto-adjust zoom on map levels</string>
@@ -1030,7 +1027,7 @@ If you are a real adventurer, try <b>AlpineQuest Off-Road Explorer</b>, the comp
 <string name="landmarks_features_export_description_1p">Allows the application to export placemarks to %s files.</string>
 
 <string name="landmarks_import_options_download_external_content">Download external content</string>
-<string name="landmarks_import_options_fix_gps_week_rollout">Fix GPS week number rollout issues</string>
+<string name="landmarks_import_options_fix_gps_week_rollover">Fix GPS week number rollover issues</string>
 
 <string name="landmarks_import_xsv_separator">Separator</string>
 <string name="landmarks_import_xsv_assign">Assign to&#8230;</string>

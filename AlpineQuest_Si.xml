@@ -1,6 +1,6 @@
 <!-- AlpineQuest description -->
 
-Spremenite svojo Android napravo v čisto pravi ročni GPS z raznoraznimi topografskimi zemljevidi!
+Spremenite svojo napravo v čisto pravi ročni GPS z topografskimi zemljevidi!
 
 
 AlpineQuest je <b>celovita rešitev za vaše zunanje športne aktivnosti in avanture</b>, kot so pohodništvo, tek, gorništvo, lov, jadranje, geocaching, navigacija po brezpotju in še veliko več.
@@ -9,9 +9,9 @@ Dostopate lahko do različnih vrst <b>topografskih kart, katere si lahko shranit
 
 Z uporabo GPS-a in magnetnega senzorja vaše naprave (z prikazom kompasa), je bojazen da bi se izgubili, stvar preteklosti: <b>Vaša natančna lokacija je prikazana na zemljevidu</b>, s katerim se lahko <b>orientirate</b> z prikazom smeri kamor ste usmerjeni.
 
-Shranite ali pridobite neomejeno število<b>geopodatkov</b>in jih delite z prijatelji. <b>Sledite</b> svoji poti ter pridobite <b>napredno statistiko</b> z <b>interaktivno grafiko</b>. Konec je vprašanj o tem, kaj vse lahko dosežete.
+Shranite ali pridobite neomejeno število <b>geopodatkov</b> in jih delite z prijatelji. <b>Sledite</b> svoji poti ter pridobite <b>napredno statistiko</b> z <b>interaktivno grafiko</b>. Konec je vprašanj o tem, kaj vse lahko dosežete.
 
-Funkcionalnost aplikacije ni okrnjena četudi se znajdete v območju brez omrežnega signala (kar je pogost pojav v gorah in na tujem), AlpineQuest vam pomaga pri vseh vaših željah po raziskovanju divjine...
+Funkcionalnost aplikacije ni okrnjena četudi se znajdete v območju brez omrežnega signala (kar je pogost pojav v gorah in na tujem), AlpineQuest vam pomaga pri vseh vaših željah po raziskovanju divjine…
 
 <b><b>Brez oglaševanja ~ Vaših podatkov ne prodajamo ~ Ne analiziramo podatkov o uporabi ~ brez zanašanja na tretje knjižnice </b></b>
 
@@ -24,36 +24,33 @@ PROSIMO sporočite predloge ali napake za v to namemnjen forumu https://www.alpi
 <u><b>Glavne prednosti</b></u> (za celotno različico):
 
 ★★ <b>Zemljevidi</b> ★★
-• Vključuje <b>online zemljevidi</b> (z <b>avtomatskim lokalnim shranjevanjem</b>; vključeni cestni, topografski in satelitski zemljevidi) in <b>online plasti</b> (imena ulic, senčenje terena, plastnice);
-• Pridobite online zemljevide ter plasti z enim klikom iz seznama zemljevidov skupnosti (Vsi večji svetovni zemljevidi in mnogo vrst lokalnih topografskih zemljevidov);
-• Celotno <b>shranjevanje področij</b> online zemljevidov za uporabo brez omrežnega signala;
-• <b>Lokalno shranjeni zemljevidi</b> podpira (raster) vključno z <b>KMZ plastmi</b>, <b>OziExplorer OZFx2/OZFx3 (delno) in kalibrirane slike</b>, <b>GeoTiff</b> <b>GeoPackage GeoPkg</b>, <b>MbTile</b>, <b>SqliteDB</b> and <b>TMS</b> stisnjene ploščice zemljevida oz. (en.) zipped tiles  (Obiščite našo spletno stran, da pridobite brezplačni ustvarjalec zemljevidov, MOBAC.);
-• <b>QuickChart</b> Memory Map podpora (samo .qct zemljevidi, .qc3 zemljevidi niso podprti);
-• Vključuje <b>Kalibracijo lastnih slik</b> za uporabo katerekoli slike kot zemljevid;
-• <b>Digitalni višinski model</b> shranjeno na napravi (1-arcsec SRTM DEM) in podpora za <b>HGT</b> datoteke z podatki o višini (oba 1-arcsec in 3-arcsec resolucije) dovoljuje prikaz <b>terena</b>, <b>senčenje naklona terena</b> in <b>strmih pobočij</b>;
-• <b>Polarni zemljevidi</b> Podpora za (Arktiko in Antarktiko);
+• Vključuje <b>online zemljevidi</b> (z <b>avtomatskim lokalnim shranjevanjem</b> za uporabo brez omrežnega signala; vključeni cestni, topografski in satelitski zemljevidi) in <b>online plasti</b> (imena ulic, senčenje terena, plastnice);
+• Pridobite online zemljevide ter plasti z enim klikom iz seznama zemljevidov skupnosti (vsi večji svetovni zemljevidi in mnogo vrst lokalnih topografskih zemljevidov);
+• <b>Lokalno shranjeni zemljevidi</b> podpira (raster) vključno z <b>KMZ plastmi, OziExplorer OZFx2/OZFx3 (delno) in kalibrirane slike, GeoTiff, QuickChart QCT, GeoPackage GeoPkg, MbTile, SqliteDB</b> in več;
+• Vključuje <b>kalibracijo lastnih slik</b> za uporabo katerekoli slike kot zemljevid;
+• <b>Digitalni višinski model</b> shranjeno na napravi (1-arcsec SRTM DEM)  dovoljuje prikaz <b>terena, senčenje naklona terena in strmih pobočij</b>;
+• <b>Polarni zemljevidi</b> podpora za (Arktiko in Antarktiko);
 • Mnogo <b>zemljevidov in plasti</b> prikaz, možnost spreminjanja za vsak zemljevid/sloj posebaj prosojnost/kontrast/barve.
 
 ★★ <b>Geopodatki</b> ★★
 • Ustvari, prikaži, shrani, povrni <b>neomejena količina oznak</b> (smerne točke, rute, področja in sledi);
-• Uvoz/izvoz <b>GPX</b> datotek, <b>Google Earth KML/KMZ</b> datotek in <b>CSV/TSV</b> datotek;
-• Uvoz <b>ShapeFile SHP/PRJ/DBF</b>, <b>OziExplorer WPT/PLT</b>, <b>GeoJSON</b>, <b>IGC tracks</b>, <b>Geocaching LOC</b> smerne točke in izvoz <b>AutoCAD DXF</b> datotek;
-• Shrani ali deli online lokacije z ostalimi uporabniki kateri uporabljajo geopodatke skupnosti;
-• <b>Podrobnosti</b>, <b>napredna statistika</b> in <b>interaktivna grafika</b> pri različnih načinih;
+• Uvoz/izvoz <b>GPX, Google Earth KML/KMZ in CSV/TSV</b> datotek;
+• Uvoz <b>ShapeFile SHP/PRJ/DBF, OziExplorer WPT/PLT, GeoJSON, IGC, Geocaching LOC</b> smerne točke in izvoz <b>AutoCAD DXF</b> datotek;
+• Podrobnosti, napredna statistika in interaktivna grafika pri različnih načinih;
 • Časovnik za predvajanje sledi katere vsebujejo časovne točke;
 
 ★★ <b>GNSS Lokacija / Orientacija</b> ★★
-• Prikaz geolokacije na zemljevidu z GNSS sprejemnika (GPS/Glonass/Galileo/...) ali omrežnega signala;
+• Prikaz geolokacije na zemljevidu z GNSS sprejemnika (GPS/Glonass/Galileo/…) ali omrežnega signala;
 • orijentacija zemljevida, <b>kompas</b> in iskalec tarč;
-• Vgrajen <b>GNSS/Barometrični snemalnik sledi</b> (Možnost daljšega sledenja, zaradi ločenega in lahkega procesa) z snemanjem nivoja baterije ter jakosti omrežnega signala;
+• Vgrajen <b>GNSS/Barometrični snemalnik sledi</b> (možnost daljšega sledenja, zaradi ločenega in lahkega procesa) z snemanjem nivoja baterije ter jakosti omrežnega signala;
 • Alarm prebliževanju tarče in alarm o odstopanju s poti;
 • Podpora barometra (le za naprave z vgrajenim barometrom).
 
 ★★ <b>In še veliko več:</b> ★★
-• Metrične, imperične, navtične in hibridne enote razdalje;
-• Zemljepisna širina/dolžina in mrežni koordinatni sistemi (WGS, UTM, MGRS, USNG, OSGB, SK42, Lambert, QTH, …) z prikazom koordinatnih mrež na zemljevidu;
+• Metrične, navtične in hibridne enote razdalje;
+• Zemljepisna širina/dolžina in mrežni koordinatni sistemi (WGS, UTM, MGRS, USNG, SK42, QTH, …) z prikazom koordinatnih mrež na zemljevidu;
 • Možnost uvoza na stotine koordinatnih sistemov iz http://www.spatialreference.org;
-• ...
+• …
 
 
 
@@ -94,12 +91,11 @@ Preprost vklop/izklop za varčevanje z energijo.
 
 in tudi:
 • Metrične, Imperične in hibridne enote razdalje;
-• GPS Širina/dolžina in mrežni koordinatni sistemi (UTM, MGRS, USNG, OSGB koordinatna mreža, Irska koordinatna mreža, Švicarska koordinatna mreža, Lambert koordinatna mreža, DFCI koordinatna mreža, QTH Maidenhead Locator System, ...);
+• GPS Širina/dolžina in mrežni koordinatni sistemi (UTM, MGRS, USNG, QTH Maidenhead Locator System, …);
 • Možnost uvoza na stotine koordinatnih sistemov iz http://www.spatialreference.org;
 • Mrežni prikaz;
 • Celiozaslonski način;
-• Multi-touch zoom;
-• ...
+• …
 
 ★★ <b>Potrebujete več?</b> ★★
 Če ste pravi avanturist, preizkusite <b>AlpineQuest Off-Road Explorer</b>, Celostna rešitev za aktivnosti na prostem na način „vse v enem“ zemljevidu, shranjenem lokalno na napravi, katerega poganja zmogljiv GPS lokator in še veliko več: https://www.alpinequest.net/google-play
@@ -330,6 +326,8 @@ in tudi:
 <string name="core_toolkit_error_write_no_grants_s">Ta pomnilnik ni zapisljiv.</string>
 <string name="core_toolkit_error_intent_input_s">Nezmožnost upravljanja z zunanjo vsebino.</string>
 <string name="core_toolkit_error_service_unavailable_s">Storitev je nedosegljiva.</string>
+<string name="core_toolkit_error_application_not_found_s_1p">Aplikacija %s ni bila najdena.</string>
+<string name="core_toolkit_error_application_found_s_1p">Aplikacija %s je bila najdena.</string>
 <string name="core_toolkit_error_device_locked_s">Prosimo odklenite napravo.</string>
 <string name="core_toolkit_error_report_message_1p">Zahvaljujemo se za poslano poročilo, ki vsebuje %s napak(e).</string>
 
@@ -353,6 +351,7 @@ in tudi:
 <string name="core_explorer_address_sdcard">SD kartica</string>
 <string name="core_explorer_address_storage">Pomnilnik naprave</string>
 <string name="core_explorer_address_downloads">Moji prenosi</string>
+<string name="core_explorer_address_media">Media</string>
 <string name="core_explorer_cell_empty">Ta prostor je prazen.</string>
 <string name="core_explorer_file_doesnt_exist">Ta datoteka ne obstaja.</string>
 <string name="core_explorer_scanning_1p">Skeniranje „%s“&#8230;</string>
@@ -466,7 +465,7 @@ in tudi:
 
 <string name="maps_area_downloader_creator_cell_tile_1p">%s plošča</string>
 <string name="maps_area_downloader_creator_cell_tiles_1p">%s plošče</string>
-<string name="maps_area_downloader_process_terminated">Uspešno zaključeno</string>
+<string name="maps_area_downloader_process_terminated">Zaključeno</string>
 <string name="maps_area_downloader_process_working">Delo v teku</string>
 
 <string name="maps_onboard_provider_title">Zemljevidi v mapah</string>
@@ -737,6 +736,7 @@ in tudi:
 <string name="settings_technical_path_dialog_warning_unavailable">Vaš sistem vam je onemogočil uporabo te lokacije.</string>
 <string name="settings_technical_path_dialog_warning_removable">Ta lokacija bo izbrisana iz sistema, ko boste izbrisali aplikacijo.</string>
 <string name="settings_technical_path_dialog_warning_vulnerable">Če uporabljate aplikacijo za popravke, lahko ta izbriše to lokacijo.</string>
+<string name="settings_technical_path_dialog_use_media_folder">Uporabite predstavnostno mapo za shranjevanje slik, zvočnih datotek in izvoženih datotek.</string>
 
 <string name="settings_canvas_category">Izgled zemljevida</string>
 <string name="settings_canvas_infobox_style_title">Izgled okna z informacijami</string>
@@ -826,6 +826,7 @@ in tudi:
 <string name="atk_metadata_direction">Smer</string>
 <string name="atk_metadata_dyncolor">dinamična barva</string>
 <string name="atk_metadata_email">Email</string>
+<string name="atk_metadata_energy">Energija</string>
 <string name="atk_metadata_file_data">Datoteka z podatki</string>
 <string name="atk_metadata_file_path">Pot</string>
 <string name="atk_metadata_group">Skupina</string>

@@ -846,7 +846,7 @@ in tudi:
 <string name="atk_metadata_location_latitude">Zemljepisna širina</string>
 <string name="atk_metadata_location_satellites">Sateliti</string>
 <string name="atk_metadata_mapping_crs_geoid">Geoid</string>
-<string name="atk_metadata_mapping_crs_projection">Predvidevanje</string>
+<string name="atk_metadata_mapping_crs_projection">Projekcija</string>
 <string name="atk_metadata_mapping_scale">Merilo</string>
 <string name="atk_metadata_name">Ime</string>
 <string name="atk_metadata_network">Omrežje</string>

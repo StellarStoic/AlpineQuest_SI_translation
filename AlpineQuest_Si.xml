@@ -483,7 +483,7 @@ in tudi:
 <string name="landmarks_explorer_category_files">Datoteke krajevnih oznak</string>
 <string name="landmarks_explorer_category_locations">Lokacije</string>
 <string name="landmarks_explorer_category_paths">Poti</string>
-<string name="landmarks_explorer_category_proximities">Bližinjski alarmi</string>
+<string name="landmarks_explorer_category_proximities">Bližinski alarmi</string>
 <string name="landmarks_explorer_category_routes">Rute</string>
 <string name="landmarks_explorer_category_segments">Odseki sledi</string>
 <string name="landmarks_explorer_category_sets">Skupek smernih točk</string>
@@ -496,7 +496,7 @@ in tudi:
 <string name="landmarks_explorer_name_location">Lokacija</string>
 <string name="landmarks_explorer_name_path">Path</string>
 <string name="landmarks_explorer_name_picture">Slikaj smerno točko</string>
-<string name="landmarks_explorer_name_proximity">Bližinjski alarm</string>
+<string name="landmarks_explorer_name_proximity">Bližinski alarm</string>
 <string name="landmarks_explorer_name_route">Ruta</string>
 <string name="landmarks_explorer_name_segment">Odsek sledi</string>
 <string name="landmarks_explorer_name_set">Skupek smernih točk</string>

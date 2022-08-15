@@ -807,7 +807,7 @@ in tudi:
 <!-- Other common texts -->
 
 <string name="core_details_no_information">Ni informacij.</string>
-<string name="core_details_category_metadata">Informacija</string>
+<string name="core_details_category_metadata">Info</string>
 
 <string name="atk_metadata_access_key">Ključ za odklep</string>
 <string name="atk_metadata_address">Naslov</string>

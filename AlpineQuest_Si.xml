@@ -230,7 +230,7 @@ in tudi:
 <string name="core_button_stop">Ustavi</string>
 <string name="core_button_undisplay">Skrij</string>
 <string name="core_button_undisplay_all_other">Skrij ostale</string>
-<string name="core_button_deselect">Preklični izbrano</string>
+<string name="core_button_deselect">Prekliči izbor</string>
 <string name="core_button_update">Posodobi</string>
 <string name="core_button_whats_new">Kaj je novega?</string>
 <string name="core_button_yes">Da</string>

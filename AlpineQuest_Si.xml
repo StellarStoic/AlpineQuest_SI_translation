@@ -206,7 +206,7 @@ in tudi:
 <string name="core_button_move_top">Prestavi na vrh</string>
 <string name="core_button_move_up">Prestavi navzgor</string>
 <string name="core_button_no">Ne</string>
-<string name="core_button_none">Nič</string>
+<string name="core_button_none">Nobena</string>
 <string name="core_button_ok">OK</string>
 <string name="core_button_online_help">Spletna pomoč</string>
 <string name="core_button_open">Odpri</string>
@@ -1010,10 +1010,10 @@ in tudi:
 <string name="landmarks_sym_group_custom">Po meri</string>
 <string name="landmarks_sym_group_accommodation">Nastanitev</string>
 <string name="landmarks_sym_group_amenity">Javne dobrine</string>
-<string name="landmarks_sym_group_food">Hrana</string>
+<string name="landmarks_sym_group_food">Hrana in pijača</string>
 <string name="landmarks_sym_group_health">Zdravje</string>
 <string name="landmarks_sym_group_manmade">Umetno</string>
-<string name="landmarks_sym_group_natural">Naravno</string>
+<string name="landmarks_sym_group_natural">Narava</string>
 <string name="landmarks_sym_group_power">Energija</string>
 <string name="landmarks_sym_group_shopping">Nakupovanje</string>
 <string name="landmarks_sym_group_sport">Šport</string>

@@ -6,7 +6,7 @@ Slovenian translation support for [AlpineQuest](https://www.alpinequest.net/) ap
 
 | EN ! | SI ? | SI 👍 |
 | ----------- | ----------- | ----------- |
-| Route | ruta | ruta    |
+| Route | ~~ruta~~ | pot    |
 | Waypoint | smerna točka ali kažipot 🤔 |  smerna točka    |
 | Path | pot|  pot    |
 | Track | sled | sled  |
@@ -15,4 +15,37 @@ Slovenian translation support for [AlpineQuest](https://www.alpinequest.net/) ap
 | Landmark | mestna oznaka - znamenitost 🤷‍♂️|      |
 
 
+# NEW ADDON - XML String Checker
+
+A Python script to compare two XML files and verify that all string names match line by line.
+
+## Features
+
+- **Line-by-line comparison** - Checks string names at exact line positions
+- **Cascade detection** - Stops after first mismatch to avoid redundant warnings
+- **Multiple file support** - Handles comments, HTML tags, and non-string content
+- **Clear reporting** - Shows exact line numbers and actionable fixes
+
+## Usage
+
+1. Prepare your files:
+   - `AlpineQuest_En.xml` - Base English strings file
+   - `AlpineQuest_Si.xml` - Translated strings file
+
+2. Run the script:
+   ```python stringsChacker.py```
+
+3. Fix any reported mismatches and run again until all strings match.
+
+## Output Examples
+
+![Success Example](ok.png)
+*Perfect match - all strings synchronized*
+
+![Mismatch Example](ntOk.png)
+*First mismatch detected with line number*
+
+Perfect for ensuring translated XML files maintain the same string structure as the original.
 [![N|Solid](https://alpinequest.net/lib/tpl/mnml-blog/user/logo.jpg)](https://alpinequest.net/#don_t_wait_try_it_right_now)
+
+

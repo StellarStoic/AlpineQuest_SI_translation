@@ -1,55 +1,58 @@
 <!-- AlpineQuest description -->
 
-Spremenite svojo napravo v čisto pravi ročni GPS z topografskimi zemljevidi!
+Spremenite svojo Android napravo v pravi terenski GPS z uporabo topografskih zemljevidov brez povezave!
 
 
-AlpineQuest je <b>celovita rešitev za vaše zunanje športne aktivnosti in avanture</b>, kot so pohodništvo, tek, gorništvo, lov, jadranje, geocaching, navigacija po brezpotju in še veliko več.
+<b>Brez oglasov ~ Brez deljenja podatkov in monetizacije ~ Brez analitik ~ Brez knjižnic tretjih oseb</b>
 
-Dostopate lahko do različnih vrst <b>topografskih kart, katere si lahko shranite na vašo napravo, kjer vam bojo vedno pri roki</b> v slučaju, če se znajdete v območju brez omrežnega signala. AlpineQuest podpira tudi mnogo različnih <b>formatov datotek z zemljevidi</b>.
+AlpineQuest je <b>celovita rešitev za vse zunanje dejavnosti in športe</b>, vključno s pohodništvom, tekom, sledenjem, lovom, plovbo, geocachingom, navigacijo izven ceste in še veliko več.
 
-Z uporabo GPS-a in magnetnega senzorja vaše naprave (z prikazom kompasa), je bojazen da bi se izgubili, stvar preteklosti: <b>Vaša natančna lokacija je prikazana na zemljevidu</b>, s katerim se lahko <b>orientirate</b> z prikazom smeri kamor ste usmerjeni.
+Splošno dostopne, topografske <b>spletne karte lahko shranjujete lokalno</b>, kar omogoča njihovo uporabo tudi brez mobilnega signala. AlpineQuest podpira tudi veliko različnih formatov <b>rasterskih kart na osnovi datotek</b>.
 
-Shranite ali pridobite neomejeno število <b>krajevnih oznak</b> in jih delite z prijatelji. <b>Sledite</b> svoji poti ter pridobite <b>napredno statistiko</b> z <b>interaktivno grafiko</b>. Konec je vprašanj o tem, kaj vse lahko dosežete.
+Z uporabo GPS in magnetnega senzorja vaše naprave (z zaslonom kompasa), se ne boste več izgubili: <b>v realnem času ste locirani na zemljevidu</b>, katerega se lahko <b>orientira</b> v smeri kamor gledate.
 
-Funkcionalnost aplikacije ni okrnjena četudi se znajdete v območju brez omrežnega signala (kar je pogost pojav v gorah in na tujem), AlpineQuest vam pomaga pri vseh vaših željah po raziskovanju divjine…
+Shranite in pridobite neomejeno število <b>krajevnih oznak</b>, delite jih s svojimi prijatelji. <b>Sledite</b> svoji poti, pridobivajte <b>napredno statistiko</b> in <b>interaktivno grafiko</b>. Ne boste več imeli vprašanj o tem, kaj lahko dosežete.
 
-<b><b>Brez oglaševanja ~ Vaših podatkov ne prodajamo ~ Ne analiziramo podatkov o uporabi ~ brez zanašanja na tretje knjižnice </b></b>
+AlpineQuest vam, popolnoma neodvisno od mobilnega signala (kot pogosto v gorah ali v tujini), pomaga pri vseh vaših željah po raziskovanju divjine...
 
-<b><b>Ne odlašajte, preizkusite brezplačno različico sedaj!</b></b> [for full version]
-<b><b>Ne odlašajte, uporabite jo sedaj, povsem zastonj!</b></b> [for free version]
+<b>Ne oklevajte, preizkusite brezplačno Lite različico zdaj!</b> [za polno različico]
+<b>Ne oklevajte, uporabite to Lite različico zdaj brezplačno!</b> [za brezplačno različico]
 
-PROSIMO sporočite predloge ali napake za v to namemnjen forumu https://www.alpinequest.net/forum (registracija ni potrebna, odgovorimo na vsa vprašanja, le v angleškem jeziku) in ne v komentarje.
+PROSIMO, da predloge in težave poročate na našem forumu https://www.alpinequest.net/forum (registracija ni potrebna, odgovorimo na vsa vprašanja le v angleškem jeziku), in ne v komentarjih.
 
 
-<u><b>Glavne prednosti</b></u> (za celotno različico):
+<u><b>Glavne lastnosti so</b></u> (za polno različico):
 
 ★★ <b>Zemljevidi</b> ★★
-• Vključuje <b>online zemljevidi</b> (z <b>avtomatskim lokalnim shranjevanjem</b> za uporabo brez omrežnega signala; vključeni cestni, topografski in satelitski zemljevidi) in <b>online plasti</b> (imena ulic, senčenje terena, plastnice);
-• Pridobite online zemljevide ter plasti z enim klikom iz seznama zemljevidov skupnosti (vsi večji svetovni zemljevidi in mnogo vrst lokalnih topografskih zemljevidov);
-• <b>Lokalno shranjeni zemljevidi</b> podpira (raster) vključno z <b>KMZ plastmi, OziExplorer OZFx2/OZFx3 (delno) in kalibrirane slike, GeoTiff, QuickChart QCT, GeoPackage GeoPkg, MbTile, SqliteDB</b> in več;
-• Vključuje <b>kalibracijo lastnih slik</b> za uporabo katerekoli slike kot zemljevid;
-• <b>Digitalni višinski model</b> shranjeno na napravi (1-arcsec SRTM DEM)  dovoljuje prikaz <b>terena, senčenje naklona terena in strmih pobočij</b>;
-• <b>Polarni zemljevidi</b> podpora za (Arktiko in Antarktiko);
-• Mnogo <b>zemljevidov in plasti</b> prikaz, možnost spreminjanja za vsak zemljevid/sloj posebaj prosojnost/kontrast/barve.
+• Vgrajeni <b>spletni zemljevidi</b> (z <b>samodejnim lokalnim shranjevanjem</b>; vključeni zemeljski, topografski in satelitski zemljevidi) in <b>spletni sloji</b> (imeni cest, senčenje hribov, konture);
+• Pridobite več spletnih zemljevidov in plasti z enim klikom s seznama skupnostnih zemljevidov (vsi glavni svetovni zemljevidi in mnogi lokalni topografski zemljevidi);
+• Popolno <b>shranjevanje območja</b> spletnih zemljevidov za uporabo brez povezave;
+• Podpora za <b>zemljevide brez povezave</b> (raster) vključno s <b>KMZ-nadloge, OziExplorer OZFx2, OZFx3 (delno) in kalibrirane slike, GeoTiff, GeoPackage GeoPkg, MbTile, SqliteDB</b> in <b>TMS</b> - stisnjene ploščice (obilščite našo spletno stran, da pridobite MOBAC, brezplačni ustvarjalec zemljevidov);
+• Podpora za <b>QuickChart</b> Memory Map (.qct zemljevidi samo, .qc3 zemljevidi niso združljivi);
+• Vgrajeno <b>orodje za kalibracijo slik</b>, da uporabite kakršen koli posnetek ali sliko kot zemljevid;
+• <b>Digitalni model reliefa</b> za shranjevanje na krovu (1-sekundni SRTM DEM) in podpora za <b>HGT</b> elevation files (both 1-arcsec and 3-arcsec resolutions) omogoča prikazovanje <b>terena</b>, <b>senčenja hribov</b> and <b>strmi pobočja</b>;
+• Podpora za <b>polarne zemljevide</b> (arktični in antarktični);
+• Večplastni prikaz <b>zemljevidov</b>, z nadzorom nad nepredušnostjo/barvo/kontrastom/tintiranje/blendanjem na zemljevid.
 
 ★★ <b>Krajevne oznake</b> ★★
-• Ustvari, prikaži, shrani, povrni <b>neomejena količina oznak</b> (smerne točke, rute, področja in sledi);
-• Uvoz/izvoz <b>GPX, Google Earth KML/KMZ in CSV/TSV</b> datotek;
-• Uvoz <b>ShapeFile SHP/PRJ/DBF, OziExplorer WPT/PLT, GeoJSON, IGC, Geocaching LOC</b> smerne točke in izvoz <b>AutoCAD DXF</b> datotek;
-• Podrobnosti, napredna statistika in interaktivna grafika pri različnih načinih;
-• Časovnik za predvajanje sledi katere vsebujejo časovne točke;
+• Ustvari, prikaži, shrani, obnovi <b>neomejeno število krajevnih oznak</b> (smerne točke, poti, območja in sledi);
+• Uvoz/izvoz <b>GPX</b> datotek, <b>Google Earth KML/KMZ</b> datotek in <b>CSV/TSV</b> datotek;
+• Uvoz <b>ShapeFile SHP/PRJ/DBF, OziExplorer WPT/PLT, GeoJSON, IGC tracks, Geocaching LOC</b> smerne točke in izvoz <b>AutoCAD DXF</b> datotek;
+• Shranjevanje in deljenje spletnih mest z drugimi uporabniki s pomočjo označb skupnosti;
+• <b>Podrobnosti</b>, <b>napredna statistika</b> in <b>interaktivna grafika</b> v različnih načinih;
+• Upravljalnik časa za ponovno predvajanje sledi označenih s časovnimi točkami.
 
-★★ <b>GNSS Lokacija / Orientacija</b> ★★
-• Prikaz geolokacije na zemljevidu z GNSS sprejemnika (GPS/Glonass/Galileo/…) ali omrežnega signala;
-• orijentacija zemljevida, <b>kompas</b> in iskalec tarč;
-• Vgrajen <b>GNSS/Barometrični snemalnik sledi</b> (možnost daljšega sledenja, zaradi ločenega in lahkega procesa) z snemanjem nivoja baterije ter jakosti omrežnega signala;
-• Alarm prebliževanju tarče in alarm o odstopanju s poti;
-• Podpora barometra (le za naprave z vgrajenim barometrom).
+★★ <b>GNSS lokacija / orientacija</b> ★★
+• Geolokacija na zemljevidu s pomočjo GNSS sprejemnikov naprave (GPS/Glonass/Galileo/…) ali mreže;
+• Orientacija zemljevida, <b>kompas</b> in iskalnik ciljev;
+• Vgrajen <b>GNSS/Barometrični snemalnik sledi</b> (možnost daljšega sledenja, ki deluje v ločenem in lahkem procesu) z beleženjem nivoja baterije in jakost omrežnega signala;
+• Opozorila o bližini cilja in skrenitve s poti;
+• Podpora za barometer (le združljive naprave z vgrajenim braometrom).
 
-★★ <b>In še veliko več:</b> ★★
-• Metrične, navtične in hibridne enote razdalje;
-• Zemljepisna širina/dolžina in mrežni koordinatni sistemi (WGS, UTM, MGRS, USNG, SK42, QTH, …) z prikazom koordinatnih mrež na zemljevidu;
-• Možnost uvoza na stotine koordinatnih sistemov iz http://www.spatialreference.org;
+★★ <b>In še več</b> ★★
+• Metrične, imperialne, navtične in hibridne enote razdalje;
+• Zemljepisna širina/dolžina in mrežni koordinatni sistemi (WGS, UTM, MGRS, USNG, OSGB, SK42, Lambert, QTH, …) z prikazom koordinatnih mrež na zemljevidu;
+• Možnost uvoza na stotine formatov koordinatnih sistemov s spletne strani https://www.spatialreference.org;
 • …
 
 
@@ -57,48 +60,51 @@ PROSIMO sporočite predloge ali napake za v to namemnjen forumu https://www.alpi
 
 <!-- OfflineMaps description -->
 
-OfflineMaps ponuja dostop širokega spektra zemljevidov!
-OfflineMaps+ ponuja dostop širokega spektra zemljevidov!
+OfflineMaps vam ponuja dostop do širokega nabora zemljevidov!
+OfflineMaps+ vam ponuja dostop do širokega nabora zemljevidov!
 
 --
 
-Ste naveličani čakanja, da se zemljevid naloži? Uporabite vse v enem OfflineMaps! <b>Prikazani zemljevid se shrani lokalno in se ob naslednji uporabi prikaže hitro, četudi nimate omrežnega signala</b>.
+<b>Brez oglasov ~ Brez deljenja podatkov in monetizacije ~ Brez analitik ~ Brez knjižnic tretjih oseb</b>
 
-• <b>Želite več kot le ceste na svojih zemljevidih?</b> Tukaj boste našli, kar potrebujete;
-• <b>Se pogosto znajdete v območju slabega omrežnega signala?</b> Vse vam je dostopno;
-• <b>Se velikokrat odpravite v tujino?</b> nikdar se ne boste več izgubili;
-• <b>Imate omejeno količino mobilnih podatkov?</b> OfflineMaps vam bo zmanjšal porabo le teh.
+Ste naveličani čakanja, da se zemljevidi prikažejo? Uporabite All-In-One OfflineMaps! <b>Ko so zemljevidi prikazani, se shranijo in ostanejo hitro dostopni, tudi brez povezave z omrežjem</b>.
+
+• <b>Si želite več kot le ceste na svojih zemljevidih?</b> Tukaj boste našli, kar potrebujete;
+• <b>Pogosto hodite na mesta z slabim omrežjem?</b> Vse bo ostalo dostopno;
+• <b>Pogosto hodite v tujino?</b> Ne boste se več izgubili;
+• <b>Imate omejitev količine podatkov?</b> Zmanjšala bo vašo porabo.
 
 --
 
-<b><b>Ta Plus različica vsebuje vse lastnosti Standardne različice brez oglasov, in podpira uvoz profesionalnih GPS in ostalih formatov datotek krajevnih oznak (smerne točke, rute, sledi, področja) kot so GPX, Google Earth KML/KMZ (prekrivanja niso podprta), Ozi Explorer WPT/PLT, CVS/TSV and Geocaching LOC</b></b>
+<b>Ta Plus različica vključuje vse funkcije osnovne različice brez oglasov in podpira uvoz profesionalnih GPS in geografskih formatov datotek z oznakami (smerne točke, poti, sledi, območja) kot so GPX, Google Earth KML/KMZ (prekrivanja niso podprta), Ozi Explorer WPT/PLT, CVS/TSV in Geocaching LOC</b>
 
 --
 
 ★★ <b>Zemljevidi</b> ★★
-Na voljo je veliko zemljevidov, vklučno z avtokartami, topografskimi zemljevidi, aero (satelitskimi) posnetki in različni sloji s katerimi lahko prekrijete zemljevide: OpenStreetMap (Ceste, Topo), USGS National Map (Hi-res topo, Aero posnetki), Svetovno vojaški Sovietski topografski zemljevid, itd.
-• Vse zemljevide lahko stlačite v sloje, z možnostjo precizne nastavitve prosojnosti;
-• Izberite in shranite večja področja z nekaj kliki;
-• Shranjeni podatki se lahko počistijo na preprost način.
+Na voljo je veliko zemljevidov, vključno s klasičnimi cestnimi zemljevidi, topografskimi zemljevidi, zračnimi (satelitskimi) zemljevidi in različnimi sloji, ki jih lahko dodate kateremu koli zemljevidu: OpenStreetMap (Roads, Topo), USGS National Map (Hi-res topo, Aerial imagery), Svetski vojaški sovjetski topografski zemljevidi, itd.
+• Vsi zemljevidi se lahko nalagajo v slojih, s preciznim nadzorom prekrivanja;
+• Izberite in shranite velika območja z nekaj kliki;
+• Shranjeni prostor je pregleden in ga je mogoče enostavno počistiti.
 
-★★ <b>Prikaži, shrani in povrni neomejeno št. krajevnih oznak</b> ★★
-Lahko dodate različne predmete na zemljevide kot so recimo smerne točke, ikone, rute, področja in sledi.
+★★ <b>Prikaz, shranjevanje in pridobivanje neomejenih krajevnih oznak</b> ★★
+Na zemljevid lahko dodate različne predmete, kot so smerne točke, ikone, poti, območja in sledi.
 Z njimi lahko z lahkoto upravljate z uporabo zmogljivega SD-Card Placemarks Explorer-ja.
 
-★★ <b>Prikaz lokacije na Zemljevidu & Orientacija</b> ★★
-Vaša trenutna geolokacija in smer so vidno prikazani na zemljevidu, kateri so lahko obrnejo v smer pogleda (odvisno od zmogljivosti naprave).
-Preprost vklop/izklop za varčevanje z energijo.
+★★ <b>GPS lokacija in orientacija</b> ★★
+Vaša dejanska lokacija in smer sta jasno prikazani na zemljevidu, ki se lahko zasuka, da se ujema z vašo dejansko smerjo pogleda (odvisno od zmogljivosti naprave).
+Enostaven vklop/izklop za varčevanje z baterijo.
 
-in tudi:
-• Metrične, Imperične in hibridne enote razdalje;
-• GPS Širina/dolžina in mrežni koordinatni sistemi (UTM, MGRS, USNG, QTH Maidenhead Locator System, …);
-• Možnost uvoza na stotine koordinatnih sistemov iz http://www.spatialreference.org;
-• Mrežni prikaz;
-• Celiozaslonski način;
+In tudi:
+• Metrične, imperialne in hibridne enote razdalje;
+• Format GPS geografske širine/geografske dolžine in mrežne koordinate (UTM, MGRS, USNG, OSGB Grid, Irish Grid, Swiss Grid, Lambert Grids, DFCI Grid, QTH Maidenhead Locator System, …);
+• Možnost uvoza stotin formatov koordinatnih sistemov iz https://www.spatialreference.org;
+• Prikaz mrež na zemljevidu;
+• Prikaz zemljevida celotnega zaslona;
+• Multi-touch povečava;
 • …
 
 ★★ <b>Potrebujete več?</b> ★★
-Če ste pravi avanturist, preizkusite <b>AlpineQuest Off-Road Explorer</b>, Celostna rešitev za aktivnosti na prostem na način „vse v enem“ zemljevidu, shranjenem lokalno na napravi, katerega poganja zmogljiv GPS lokator in še veliko več: https://www.alpinequest.net/google-play
+Če ste pravi pustolovec, poskusite z <b>AlpineQuest Off-Road Explorer</b>, popolno rešitev na prostem, ki temelji na All-In-One OfflineMaps, opremljeno z močnim sledilnikom GPS in še več: https://www.alpinequest.net/google-play
 
 
 
@@ -106,10 +112,10 @@ in tudi:
 <!-- About OM -->
 
 <string name="om_whatsnew_howto_title">Kako deluje?</string>
-<string name="om_whatsnew_howto_content">Zemljevidi se nalagajo iz spleta. Vse kar se prikaže na zaslonu se shrani lokakno na napravo, kar pride še kako prav, ko se znajdete v območjih ki niso pokrita z omrežjem.\nTam so vam na voljo različni zemljevi in plasti.</string>
+<string name="om_whatsnew_howto_content">Zemljevidi se pridobivajo z interneta. Vse, kar je prikazano, je lokalno shranjeno, da ostane na voljo tudi brez povezave. \nNa voljo je veliko zemljevidov in plasti.</string>
 
-<string name="om_whatsnew_alpinequest_title">Potrebujete še več funkcionalnosti?</string>
-<string name="om_whatsnew_alpinequest_content">Če potrebujete celovito rešitev za zunanje aktivnost z zamljevidi, ki ne potrebujejo internetnega dostopa, preverite naše ostale aplikacije, AlpineQuest. zagotavlja veliko več možnosti, kot denimo vrhunski ročni GPS in barometrični lokalizator:</string>
+<string name="om_whatsnew_alpinequest_title">Potrebujete več funkcij?</string>
+<string name="om_whatsnew_alpinequest_content">Če potrebujete popolno rešitev za aktivnosti na prostem z zemljevidi brez povezave, preverite našo drugo aplikacijo, AlpineQuest. Ta ponuja še veliko več funkcij, kot na primer zmogljiv GPS in barometrični sledilnik lokacije:</string>
 
 
 
@@ -118,7 +124,7 @@ in tudi:
 
 <string name="core_submenu_title_display">Info</string>
 <string name="core_submenu_title_options">Možnosti</string>
-<string name="core_submenu_hide_menu">Skriti meni</string>
+<string name="core_submenu_hide_menu">Skritj meni</string>
 <string name="core_submenu_lock_screen">Zakleni zaslon</string>
 <string name="core_submenu_print_map">Zajemi zemljevid</string>
 <string name="core_submenu_screen_center_coordinates">Koordinate sredine zaslona</string>
@@ -129,48 +135,53 @@ in tudi:
 
 <string name="maps_submenu_title">Zemljevidi &amp; plasti</string>
 <string name="maps_submenu_available_maps">Razpoložljivi zemljevidi</string>
-<string name="maps_submenu_displayed_maps">Prikaži zemljevide</string>
-<string name="maps_submenu_area_downloader">Izberi in shrani področje</string>
+<string name="maps_submenu_displayed_maps">Prikazani zemljevidi</string>
+<string name="maps_submenu_area_downloader">Izberi in shrani območje</string>
 <string name="maps_submenu_display_name">Ime zemljevida</string>
 <string name="maps_submenu_display_scale_value">Merilo zemljevida</string>
 <string name="maps_submenu_display_scale_bar">Skala merila</string>
 <string name="maps_submenu_only_use_local_storage">Uporabi le lokalni pomnilnik</string>
 <string name="maps_submenu_show_storage_coverage">Prikaži naloženo v pomnilniku</string>
-<string name="maps_submenu_correct_china_shift">Pravilen odklon čez Kitajsko</string>
-<string name="maps_submenu_favorites_title">Priljubljeni zemljevidi &amp; seti</string>
+<string name="maps_submenu_correct_china_shift">Popravi odmike nad Kitajsko</string>
 
 <string name="landmarks_submenu_title">Krajevne točke</string>
 <string name="landmarks_submenu_browse">Raziskuj krajevne oznake</string>
 <string name="landmarks_submenu_create">Ustvari oznako</string>
 <string name="landmarks_submenu_displayed_landmarks">Prikaži krajevne oznake</string>
 <string name="landmarks_submenu_control_time">Časovnica</string>
-<string name="landmarks_submenu_display_target_information">Informacije o tarči</string>
+<string name="landmarks_submenu_display_target_information">Informacije o cilju</string>
+<string name="landmarks_submenu_display_target_line">Prikaz linije do cilja</string>
 <string name="landmarks_submenu_display_labels">Imena krajevnih oznak</string>
 
 <string name="geolocation_submenu_title">Pozicioniranje</string>
-<string name="geolocation_submenu_dashboard">Način raziskovalec</string>
+<string name="geolocation_submenu_dashboard">Raziskovalni način</string>
 <string name="geolocation_submenu_geolocation">Trenutna lokacija</string>
-<string name="geolocation_submenu_tracker">snemalnik sledi</string>
+<string name="geolocation_submenu_tracker">Snemalnik sledi</string>
 <string name="geolocation_submenu_barometer">Barometer</string>
-<string name="geolocation_submenu_rotate">Obračanje zemljevida (z uporabo GNSS)</string>
-<string name="geolocation_submenu_display_information">Status pozicije</string>
+<string name="geolocation_submenu_rotate">Usmerjanje zemljevida (z uporabo GNSS)</string>
+<string name="geolocation_submenu_display_location_line">Prikaži linijo od položaja</string>
+<string name="geolocation_submenu_display_information">Status položaja</string>
 <string name="geolocation_submenu_tracker_information">Status snemalnika sledi</string>
 
 <string name="orientation_submenu_title">Orientacija</string>
 <string name="orientation_submenu_compass">Kompas</string>
-<string name="orientation_submenu_rotate">Obračanje zemljevida (z uporabo kompasa)</string>
+<string name="orientation_submenu_rotate">Usmerjanje zemljevida (z uporabo kompasa)</string>
 <string name="orientation_submenu_compass_on_map">Prikaži kompas na zemljevidu</string>
-<string name="orientation_submenu_status">Trenutni kurz</string>
+<string name="orientation_submenu_status">Trenutna smer</string>
 
 
 
 
 <!-- Common buttons -->
 
-<string name="core_button_about">O aplikaciji</string>
+<string name="core_button_about">O programu</string>
 <string name="core_button_activate">Aktiviraj</string>
+<string name="core_button_add">Dodaj</string>
 <string name="core_button_all">Vse</string>
+<string name="core_button_automatic">Avtomatsko</string>
+<string name="core_button_backup">Varnostna kopija</string>
 <string name="core_button_browse">Brskaj</string>
+<string name="core_button_calibrate">Kalibriraj</string>
 <string name="core_button_cancel">Prekliči</string>
 <string name="core_button_clipboard">Odložišče</string>
 <string name="core_button_close">Zapri</string>
@@ -183,31 +194,31 @@ in tudi:
 <string name="core_button_delete">Izbriši</string>
 <string name="core_button_details">Podrobnosti</string>
 <string name="core_button_disable">Onemogoči</string>
-<string name="core_button_display">Prikaži</string>
+<string name="core_button_display">Prikaz</string>
 <string name="core_button_edit">Uredi</string>
-<string name="core_button_edit_color">Prilagodi barvo</string>
+<string name="core_button_edit_color">Uredi barvo</string>
 <string name="core_button_edit_details">Uredi podrobnosti</string>
-<string name="core_button_empty">Izprazni</string>
-<string name="core_button_enter_coupon">Vnos kupona</string>
+<string name="core_button_empty">Prazno</string>
+<string name="core_button_enter_coupon">Vnesi kupon</string>
 <string name="core_button_exit">Izhod</string>
 <string name="core_button_export_as">Izvozi kot</string>
 <string name="core_button_filter">Filter</string>
-<string name="core_button_fullscreen">Celozaslonski način</string>
+<string name="core_button_fullscreen">Celoten zaslon</string>
 <string name="core_button_gallery">Galerija</string>
 <string name="core_button_group">Skupina</string>
 <string name="core_button_hide">Skrij</string>
 <string name="core_button_import">Uvozi</string>
-<string name="core_button_insert_here">Izberi tukaj</string>
+<string name="core_button_insert_here">Vstavi tukaj</string>
 <string name="core_button_install">Namesti</string>
-<string name="core_button_jump_to">Prikaži</string>
+<string name="core_button_jump_to">Preskoči</string>
 <string name="core_button_more">Več</string>
-<string name="core_button_move_bottom">Prestavi na dno</string>
-<string name="core_button_move_down">Prestavi navzdol</string>
-<string name="core_button_move_top">Prestavi na vrh</string>
-<string name="core_button_move_up">Prestavi navzgor</string>
+<string name="core_button_move_bottom">Premakni na dno</string>
+<string name="core_button_move_down">Premakni dol</string>
+<string name="core_button_move_top">Premakni na vrh</string>
+<string name="core_button_move_up">Premakni gor</string>
 <string name="core_button_no">Ne</string>
-<string name="core_button_none">Nobena</string>
-<string name="core_button_ok">OK</string>
+<string name="core_button_none">Noben</string>
+<string name="core_button_ok">V redu</string>
 <string name="core_button_online_help">Spletna pomoč</string>
 <string name="core_button_open">Odpri</string>
 <string name="core_button_open_url">Odpri URL</string>
@@ -216,28 +227,29 @@ in tudi:
 <string name="core_button_purchase">Kupi</string>
 <string name="core_button_refresh">Osveži</string>
 <string name="core_button_rename">Preimenuj</string>
-<string name="core_button_report_errors">Sporoči napake</string>
+<string name="core_button_report_errors">Poročaj o napakah</string>
 <string name="core_button_reset">Ponastavi</string>
+<string name="core_button_restore">Obnovi</string>
 <string name="core_button_resume">Nadaljuj</string>
-<string name="core_button_reverse_order">Obratni vrstni red</string>
+<string name="core_button_reverse_order">Obrni vrstni red</string>
 <string name="core_button_save">Shrani</string>
-<string name="core_button_search">Išči</string>
+<string name="core_button_search">Iskanje</string>
 <string name="core_button_select">Izberi</string>
 <string name="core_button_settings">Nastavitve</string>
 <string name="core_button_share">Deli</string>
-<string name="core_button_start">Zaženi</string>
-<string name="core_button_start_new">Zaženi novo</string>
+<string name="core_button_start">Začni</string>
+<string name="core_button_start_new">Začni novo</string>
 <string name="core_button_stop">Ustavi</string>
-<string name="core_button_undisplay">Skrij</string>
-<string name="core_button_undisplay_all_other">Skrij ostale</string>
-<string name="core_button_deselect">Prekliči izbor</string>
+<string name="core_button_undisplay">Ne prikaži</string>
+<string name="core_button_undisplay_all_other">Ne prikaži ostalih</string>
+<string name="core_button_deselect">Odznači</string>
 <string name="core_button_update">Posodobi</string>
 <string name="core_button_whats_new">Kaj je novega?</string>
 <string name="core_button_yes">Da</string>
-<string name="core_button_zoom">Povečava</string>
+<string name="core_button_zoom">Približaj</string>
 
 <string name="core_button_leave_comment">Oddaj komentar</string>
-<string name="core_button_support_forum">Forum</string>
+<string name="core_button_support_forum">Forum za pomoč</string>
 <string name="core_button_privacy_policy">Polica zasebnosti</string>
 <string name="core_button_terms_of_use">Pogoji uporabe</string>
 
@@ -261,10 +273,13 @@ in tudi:
 <string name="core_utils_size_large">Veliko</string>
 <string name="core_utils_size_very_large">Zelo veliko</string>
 
-<string name="core_utils_size_very_low">Zelo nizko</string>
-<string name="core_utils_size_low">Nizko</string>
+<string name="core_utils_size_very_low">Zelo malo</string>
+<string name="core_utils_size_low">Malo</string>
 <string name="core_utils_size_high">Visoko</string>
 <string name="core_utils_size_very_high">Zelo visoko</string>
+
+<string name="core_utils_direction_left">Levo</string>
+<string name="core_utils_direction_right">Desno</string>
 
 <string name="core_utils_units_distance_meter">meter</string>
 <string name="core_utils_units_angle_degree">stopinja</string>
@@ -290,15 +305,23 @@ in tudi:
 <string name="core_utils_units_weigth_kg_abbrev">kg</string>
 <string name="core_utils_units_weigth_lbs_abbrev">lb</string>
 <string name="core_utils_units_energy_kcal_abbrev">kcal</string>
+<string name="core_utils_units_energy_wh_abbrev">Wh</string>
+<string name="core_utils_units_power_w_abbrev">W</string>
 <string name="core_utils_units_cardinals_abbrev">N,S,E,W</string>
 
-<string name="core_utils_default">prevzeto</string>
+<string name="core_utils_period_month">mesec</string>
+<string name="core_utils_period_year">leto</string>
+
+<string name="core_utils_default">privzeto</string>
 <string name="core_utils_session_only">samo ta seja</string>
+
+<string name="core_services_fair_use_applies">Pravična uporaba</string>
+<string name="core_services_coverage">Približno pokrito območje</string>
+<string name="core_services_offline_use">Shramba za uporabo brez omrežja</string>
+<string name="core_services_pack_desc">Paket vključuje:</string>
 
 <string name="core_toolkit_share_location_1p">Lokacija je %s</string>
 <string name="core_toolkit_share_location_named_2p" formatted="false">Lokacija %s je %s</string>
-<string name="core_toolkit_share_location_received">Nova lokacija</string>
-<string name="core_toolkit_share_location_list_empty">Ni lokacije za prikaz.</string>
 
 <string name="core_toolkit_loading">Nalagam</string>
 <string name="core_toolkit_please_wait">Prosimo počakajte</string>
@@ -306,19 +329,29 @@ in tudi:
 <string name="core_toolkit_aborted">Preklicano</string>
 
 <string name="core_toolkit_optional">Neobvezno</string>
+<string name="core_toolkit_other">Drugo</string>
 <string name="core_toolkit_field_required">To polje je obvezno</string>
-<string name="core_toolkit_custom_item">Predmet po meri</string>
+<string name="core_toolkit_long_press_edit">Za urejanje pritisnite in zadržite element</string>
+<string name="core_toolkit_custom">Po meri</string>
+<string name="core_toolkit_custom_item">Element po meri</string>
+<string name="core_toolkit_exported_items">Izvoženi elementi</string>
+
+<string name="core_toolkit_bookmarks">Zaznamki</string>
+<string name="core_toolkit_bookmark">Zaznamek</string>
+<string name="core_toolkit_favorite_items">Priljubljeni elementi</string>
+<string name="core_toolkit_favorite_item">Priljubljen element</string>
+<string name="core_toolkit_favorite_save_as">Shrani kot priljubljeno</string>
 
 <string name="core_toolkit_error">Napaka</string>
 <string name="core_toolkit_error_no_network">Ni omrežja</string>
 <string name="core_toolkit_error_network">Omrežna napaka</string>
 <string name="core_toolkit_error_unknown">Neznana napaka</string>
+<string name="core_toolkit_error_format">Neveljaven format</string>
 
 <string name="core_toolkit_error_occured_s">Pojavila se je napaka.</string>
-<string name="core_toolkit_error_data_corrupted_s">Podatki v pomnilniku so poškodaovani.</string>
+<string name="core_toolkit_error_data_corrupted_s">Lokalni podatki so morda poškodovani.</string>
 <string name="core_toolkit_error_action_failed_s_1p">Zahtevana operacija „%s“ ni uspela.</string>
-<string name="core_toolkit_error_coupon_invalid_s">Ta kupon ni veljaven ali pa je potekel.</string>
-<string name="core_toolkit_error_out_of_memory_s">Nizek nivo medpolnilnika. Prosimo ponovno zaženite aplikacijo.</string>
+<string name="core_toolkit_error_out_of_memory_s">Nizek nivo medpolnilnika.</string>
 <string name="core_toolkit_error_storage_s">Nismo uspeli najti ali uporabiti primernega prostora za shranjevanje.</string>
 <string name="core_toolkit_error_storage_configure_s">Želite nastaviti sedaj?</string>
 <string name="core_toolkit_error_limited_features_s">Funkcionalnost bo omejena.</string>
@@ -331,9 +364,9 @@ in tudi:
 <string name="core_toolkit_error_device_locked_s">Prosimo odklenite napravo.</string>
 <string name="core_toolkit_error_report_message_1p">Zahvaljujemo se za poslano poročilo, ki vsebuje %s napak(e).</string>
 
-<string name="core_toolkit_message_restart_application_s">Prosimo, da aplikacijo zaženete znova.</string>
+<string name="core_toolkit_message_restart_application_s">Prosimo, znova zaženite aplikacijo.</string>
 <string name="core_toolkit_message_item_saved_s">Predmet uspešno shranjen.</string>
-<string name="core_toolkit_swipe_up_for_options">Podrsaj navzgor za opcije</string>
+<string name="core_toolkit_swipe_up_for_options">Podrsaj navzgor za možnosti</string>
 
 <string name="core_toolkit_permissions_location_name">Dostop do lokacije</string>
 <string name="core_toolkit_permissions_storage_name">Dostop do pomnilnika</string>
@@ -343,6 +376,7 @@ in tudi:
 <string name="core_toolkit_permissions_not_granted_s">Za uporabo te funkcije morate aplikaciji dovoliti dostop.</string>
 
 <string name="core_toolkit_question_are_you_sure_s">Ali ste prepričani?</string>
+<string name="core_toolkit_question_do_not_ask_again_s">Ne sprašuj več</string>
 <string name="core_toolkit_question_confirm_exit_s">Zapri aplikacijo?</string>
 <string name="core_toolkit_question_file_already_imported_s">To datoteko je že uvožena. Odpri obstoječo ali ponovno uvozi?</string>
 <string name="core_toolkit_question_replace_existing_item_s">Ta predmet že obstaja, ga želite nadomestiti?</string>
@@ -358,8 +392,6 @@ in tudi:
 <string name="core_explorer_folder_create_desc">Mape vam omogočajo preprosto urejenje predmetov.</string>
 <string name="core_explorer_folder_permission_s">Aplikaciji niste dovolili dostopa do datotek v napravi.</string>
 <string name="core_explorer_folder_permission_limited_s">Nekatere datoteke morda ne bojo prikazane.</string>
-<string name="core_explorer_bookmarks">Zaznamki</string>
-<string name="core_explorer_bookmark">Zaznamek</string>
 
 <string name="core_explorer_item_delete_success_s">Predmet izbrisan.</string>
 <string name="core_explorer_item_move_success_s">Predmet premaknjen.</string>
@@ -399,26 +431,45 @@ in tudi:
 <string name="application_help_title">Kje najti pomoč?</string>
 <string name="application_help_content">Pridobite pomoč, Vprašajte, Izpostavite napake, nikar ne odlašajte:</string>
 
-<string name="application_eula">Predno začnete uporabljati aplikacijo, prosimo preberite, in se strinjajte z pogoji uporabe the Psyberia EULA:</string>
+<string name="application_eula">Predno začnete uporabljati aplikacijo, prosimo preberite, in se strinjajte z pogoji uporabe, the Psyberia EULA:</string>
 <string name="application_disclaimer">Vse slike, vrednosti in meritve, ki jih poda ta aplikacija, so okvirne in lahko prihaja do napak. Vedno jo uporabljajte v povezavi z uradnimi viri in zdravo kmečko pametjo, poskrbite, da se na pot odpravite usposobljeni in z vso potrebno opremo, upoštevajte vse razumne previdnostne ukrepe in se zavedajte tveganj.</string>
 
 <string name="core_loader_loading">Nalagam komponente&#8230;</string>
 <string name="core_loader_restoring">Obnavljam predmete&#8230;</string>
+
+<string name="core_beta_version">Nestabilna beta različica, uporabljajte previdno.</string>
 <string name="core_safecheck_bad_signature">Ta različica aplikacije je bila nezakonito modificirana in lahko vsebuje škodljivo kodo in viruse. Prosimo, da uporabljate le uradno različico.</string>
 
-<string name="canvas_feature_disabled">Zaradi zakonskih omejitev je ta možnost onesposobljena za naslednje zemljevide(e):</string>
-
 <string name="core_workspace_switch">Zamenjaj delovno okolje</string>
-<string name="core_workspace_default">Prevzeto delovno okolje</string>
+<string name="core_workspace_default">Privzeto delovno okolje</string>
+
+<string name="core_backups_list_empty_s">Nimate še nobene varnostne kopije.</string>
+<string name="core_backups_list_create_s">Redno ustvarjajte varnostne kopije podatkov aplikacije, da preprečite morebitno izgubo.</string>
+<string name="core_backups_backup_large_data_s">Velika količina podatkov, priporočljivo je ročno varnostno kopiranje.</string>
+<string name="core_backups_backup_too_large_s">Količina podatkov za varnostno kopiranje je prevelika.</string>
+<string name="core_backups_backup_success_s">Skoraj končano! \n\nNe pozabite kopirati varnostne kopije v svojo najljubšo storitev v oblaku, da jo boste imeli varno shranjeno.</string>
+<string name="core_backups_restore_warning_s">Ta postopek obnovitve bo izbrisal in zamenjal nekatere datoteke v vaši napravi. Uporabite ga le po novi namestitvi aplikacije.</string>
+<string name="core_backups_restore_restart_s">Ob koncu postopka obnovitve se bo aplikacija ponovno zagnala.</string>
+<string name="core_backups_restore_merge_s">Datoteke, ki so že prisotne v napravi, ne bodo obnovljene.</string>
+<string name="core_backups_restore_replace_s">Datoteke, ki so že prisotne v napravi, bodo zamenjane.</string>
+
+<string name="core_menu_long_press_hint_s">Dolg pritisk na gumb menija v pogledu zemljevida bo poklical njegov prvi element.</string>
 
 <string name="core_locker_unlock_s">Dolg-pritisk tipke za glasnost (-) za zaklep zemljevida pred dotiki. Izključite ga z tipko za nazaj.</string>
 <string name="core_locker_next_s">Dolg-dotik tipke za glasnost (+) za prikaz naslednjega pogleda.</string>
+
+<string name="core_advanced_settings">Napredne nastavitve</string>
+<string name="core_advanced_settings_displaimer_s">Spreminjanje naprednih nastavitev lahko povzroči nestabilnost ali zastoje aplikacije, uporabljajte previdno.</string>
 
 <string name="core_screensaver_name">Ohranjevalnik zaslona</string>
 
 <string name="core_features_get_more">Pridobite več možnosti!</string>
 <string name="core_features_manage">Upravljaj z možnostmi</string>
 <string name="core_features_add_support_1p">%s Podpora</string>
+
+<string name="core_iap_subscription_valid">Naročnina je aktivna</string>
+
+<string name="canvas_feature_disabled">Zaradi pravnih razlogov je ta funkcija onemogočena za naslednje zemljevide:</string>
 
 
 
@@ -427,19 +478,21 @@ in tudi:
 
 <string name="maps_context_menu_layer">Dodaj kot sloj</string>
 <string name="maps_context_menu_opacity">Prosojnost sloja</string>
+<string name="maps_context_menu_parameters">Edit parameters</string>
 <string name="maps_context_menu_key">Ključ zemljevida</string>
 <string name="maps_context_menu_erase_color">Izbriši barvo</string>
 <string name="maps_context_menu_calibrate">Kalibriraj</string>
-<string name="maps_context_menu_reorder">Presortiraj</string>
+<string name="maps_context_menu_reorder">Razporedi</string>
 
-<string name="maps_confirm_outbound_title">Oddaljeni zemljevidi</string>
+<string name="maps_confirm_outbound_title">zemljevid izven meja</string>
 <string name="maps_confirm_outbound_desc">Zemljevid, ki ste ga izbrali nima podatkov za to lokacijo in zaradi tega bo zaslon ostal prazen.</string>
 <string name="maps_confirm_outbound_desc_slide">Želite prestaviti zemljevid do območja z podatki</string>
 
-<string name="maps_favorites_set_empty">Trenutno priljubljeni zemljevidi ali skupek zemljevidov, še niso dodani</string>
-<string name="maps_favorites_create_to_save_s">Spremembe lahko shranite kot priljubljene zemljevide ali kot skupek priljubljenih zemljevidov.</string>
-<string name="maps_favorites_item">Priljubljeni elementi</string>
-<string name="maps_favorites_save_as">Shrani kot priljubljeno</string>
+<string name="maps_favorites_title">Priljubljeni zemljevidi &amp; zbirk</string>
+<string name="maps_favorites_set_empty">Trenutno priljubljeni zemljevidi ali zbirke zemljevidov, še niso dodani</string>
+<string name="maps_favorites_create_to_save_s">Spremembe lahko shranite kot priljubljene zemljevide ali kot zbirko priljubljenih zemljevidov.</string>
+<string name="maps_favorites_unsaved_list_s">Trenutno prikazana konfiguracija zemljevidov bo zamenjana in izgubljena.</string>
+<string name="maps_favorites_ask_save_list_s">Ali jo želite shraniti kot priljubljeno zbirko?</string>
 
 <string name="maps_online_provider_title">Zemljevidi na zahtevo</string>
 <string name="maps_online_installed">Nameščeni zemljevidi</string>
@@ -448,7 +501,7 @@ in tudi:
 <string name="maps_online_force_update_data">Prisilna posodobitev lokalnih podatkov</string>
 <string name="maps_online_add_new">Dodaj nove zemljevide</string>
 <string name="maps_online_add_new_desc">Raziščite ali namestite zemljevide iz skupnosti:</string>
-<string name="maps_online_suggest">Predlagaj</string>
+<string name="maps_online_add_new_none_s">Ni izbranega zemljevida.</string>
 
 <string name="maps_elevation_title">Višinski podatki</string>
 <string name="maps_elevation_dem_activate">Vključi uporabo višinskih podatkov</string>
@@ -479,25 +532,25 @@ in tudi:
 
 <!-- Landmarks feature main texts -->
 
-<string name="landmarks_explorer_category_areas">Področja</string>
+<string name="landmarks_explorer_category_areas">Območja</string>
 <string name="landmarks_explorer_category_files">Datoteke krajevnih oznak</string>
 <string name="landmarks_explorer_category_locations">Lokacije</string>
 <string name="landmarks_explorer_category_paths">Poti</string>
 <string name="landmarks_explorer_category_proximities">Bližinski alarmi</string>
-<string name="landmarks_explorer_category_routes">Rute</string>
+<string name="landmarks_explorer_category_routes">Poti</string>
 <string name="landmarks_explorer_category_segments">Odseki sledi</string>
 <string name="landmarks_explorer_category_sets">Skupek smernih točk</string>
 <string name="landmarks_explorer_category_tracks">Sledi</string>
 <string name="landmarks_explorer_category_waypoints">Smerne točke</string>
-<string name="landmarks_explorer_name_area">Področje</string>
+<string name="landmarks_explorer_name_area">območje</string>
 <string name="landmarks_explorer_name_audio">Glasovna smerna točka</string>
 <string name="landmarks_explorer_name_file">Datoteka krajevne oznake</string>
 <string name="landmarks_explorer_name_landmark">Krajevna oznaka</string>
 <string name="landmarks_explorer_name_location">Lokacija</string>
-<string name="landmarks_explorer_name_path">Path</string>
+<string name="landmarks_explorer_name_path">Pot</string>
 <string name="landmarks_explorer_name_picture">Slikaj smerno točko</string>
 <string name="landmarks_explorer_name_proximity">Bližinski alarm</string>
-<string name="landmarks_explorer_name_route">Ruta</string>
+<string name="landmarks_explorer_name_route">Pot</string>
 <string name="landmarks_explorer_name_segment">Odsek sledi</string>
 <string name="landmarks_explorer_name_set">Skupek smernih točk</string>
 <string name="landmarks_explorer_name_slope">Naklon</string>
@@ -523,24 +576,26 @@ in tudi:
 <string name="landmarks_create_waypoint_desc">Ustvari točko na zemljevidu.</string>
 <string name="landmarks_create_picture_desc">Zajemi sliko in jo dodaj kot točko na zemljevidu.</string>
 <string name="landmarks_create_set_desc">Ustvari več smernih točk na zemljevidu, upravljanje z vsemi naenkrat.</string>
-<string name="landmarks_create_route_desc">Ustvari več smernih točk na zemljevidu po vrsti z risanjem rute.</string>
-<string name="landmarks_create_area_desc">Nariši področje na zemljevidu.</string>
+<string name="landmarks_create_route_desc">Ustvari več smernih točk na zemljevidu po vrsti z risanjem poti.</string>
+<string name="landmarks_create_area_desc">Nariši območje na zemljevidu.</string>
 <string name="landmarks_create_path_desc">Nariši pot na zemljevidu.</string>
 <string name="landmarks_create_file_desc">Ustvari novo datoteko za hrambo krajevnih oznak.</string>
 <string name="landmarks_create_proximity_desc">Bodite opozorjeni, ko se približate tej lokaciji.</string>
+<string name="landmarks_create_text_title">Tekst</string>
+<string name="landmarks_create_text_desc">Dodaj tekst na zemljevid.</string>
 <string name="landmarks_create_circle_title">Krog</string>
-<string name="landmarks_create_circle_desc">Ustvari krožno področje bazirano na radiju oddaljenosti od sredine zaslona.</string>
+<string name="landmarks_create_circle_desc">Ustvari krožno območje bazirano na radiju oddaljenosti od sredine zaslona.</string>
 <string name="landmarks_create_measure_title">Izmeri</string>
 <string name="landmarks_create_measure_desc">Izmeri dolžino in smer med dvema ali več točkami na zemljevidu.</string>
 <string name="landmarks_create_slope_title">Izračunaj naklon</string>
 <string name="landmarks_create_slope_desc">Izračunaj naklon med dvema ali več točkami.</string>
 <string name="landmarks_create_autorouting_title">Avtomatsko vodenje</string>
+<string name="landmarks_create_fastrouting_title">hitro-vodenje</string>
 <string name="landmarks_create_autorouting_desc">Samodejno nariše pot, ki sledi cestam na zemljevidu.</string>
 <string name="landmarks_create_quick_waypoint">Hitra smerna točka</string>
 
 <string name="landmarks_create_dialog_category_tools">Orodja</string>
 <string name="landmarks_create_side_title">Ustvarjalec krajevnih oznak</string>
-<string name="landmarks_create_side_add">Dodaj lokacijo</string>
 <string name="landmarks_create_side_new_segment">Nova sekcija/krog</string>
 <string name="landmarks_create_side_draw">Nariši</string>
 <string name="landmarks_create_side_save">Shrani &amp; zapri</string>
@@ -552,6 +607,9 @@ in tudi:
 <string name="landmarks_follow_path_option_distance_1p">Ustvari tarčo vsaj %s v naprej</string>
 <string name="landmarks_follow_path_option_warn_me_1p">Opozori me, če se oddaljim vsaj %s vstran</string>
 <string name="landmarks_follow_path_option_dont_warn_me">Ne opozori me, če se oddaljim</string>
+
+<string name="landmarks_photos_name">Moje slike</string>
+<string name="landmarks_photos_indexing">Indeksiranje fotografij&#8230;</string>
 
 <string name="landmarks_proximity_alerts_repeat">Ponovi opozorila</string>
 
@@ -596,9 +654,9 @@ in tudi:
 
 <string name="geolocation_info_high_accuracy_disable_s">Visoka natančnost lokacije je izklopljena.</string>
 
-<string name="geolocation_source_title">Vir zaznavanja lokacije</string>
-<string name="geolocation_source_disabled">Vir zaznavanja lokacije je izključen</string>
-<string name="geolocation_source_none_desc">Vir za zaznavanje lokacije na tej napravi ni bil zaznan.</string>
+<string name="geolocation_source_title">Vir lokacije</string>
+<string name="geolocation_source_disabled">Vir lokacije je izključen</string>
+<string name="geolocation_source_none_desc">Vir lokacije na tej napravi ni bil zaznan.</string>
 <string name="geolocation_source_auto_title">Samodejna izbira</string>
 <string name="geolocation_source_auto_desc">Uporablja lokacijo zunanjega GNSS ter mobilnega omrežja.</string>
 <string name="geolocation_source_gps_title">GNSS</string>
@@ -636,7 +694,6 @@ in tudi:
 
 <!-- Barometer feature main texts -->
 
-<string name="barometer_calibrate_title">Kalibracija barometra</string>
 <string name="barometer_calibrate_text">Za precizne barometrične podatke je potrebna kalibracija barometra.\nPostavite se na znano višino (Uporabite lahko GNSS višino) in jo vnesite kot referenco.</string>
 <string name="barometer_calibrate_current_2p" formatted="false">Trenutni referenčni pritisk znaša %s ob %s.</string>
 <string name="barometer_calibrate_elevation">Trenutna nadmorska višina</string>
@@ -653,15 +710,13 @@ in tudi:
 <string name="tracker_state_desc_connecting">Povezujem storitev</string>
 <string name="tracker_state_desc_stopped">Snemalnik sledi se je izklopil</string>
 <string name="tracker_save_folder_name">Recorded tracks</string>
-<string name="tracker_group_recorded_tracks">Posnete sledi</string>
 <string name="tracker_save_desc_1p">AlpineQuest Sled %s</string>
 <string name="tracker_group_last_track">Zadnja posneta sled</string>
 <string name="tracker_message_resume_track_s">Nadaljuj od zadnje posnete sledi ali začni novo sled?</string>
 <string name="tracker_message_save_track_failed_s">Trenutno posnetih podatkov sledi ni bilo mogoče shraniti. Izbriši zadnjo posneto sled?</string>
+<string name="tracker_message_volume_muted_s">Povečajte glasnost obvestil, da boste slišali opozorila.</string>
 <string name="tracker_settings_ignore_distance">Preskoči lokacijo, če se ne premikam</string>
 <string name="tracker_settings_use_barometer_desc">Posnemi barometrične podatke za izračun bolj natančne višinske razlike</string>
-<string name="tracker_settings_warn">Opozori me, če je GNSS signal izgubljen ali prešibak</string>
-<string name="tracker_settings_dashmode">Samodejno zaženi ali ustavi snemalnik skupaj z aplikacijo</string>
 
 
 
@@ -681,8 +736,9 @@ in tudi:
 <string name="settings_display_category">Merske enote</string>
 <string name="settings_display_distances_title">Razdalja</string>
 <string name="settings_display_distances_metric">Metrična</string>
+<string name="settings_display_distances_metric_feet_elevations">višina v čevljih</string>
 <string name="settings_display_distances_imperial">Imperialna</string>
-<string name="settings_display_distances_imperial_metric_elevations">metrična nadmorska višina</string>
+<string name="settings_display_distances_imperial_metric_elevations">višina v metrih</string>
 <string name="settings_display_distances_imperial_deci_miles">deci. mi</string>
 <string name="settings_display_distances_nautical">Navtična</string>
 
@@ -704,10 +760,11 @@ in tudi:
 <string name="settings_display_slopes_title">Naklon</string>
 <string name="settings_display_slopes_percents">Odstotki</string>
 <string name="settings_display_slopes_degrees">Stopinje</string>
+<string name="settings_display_slopes_glide_ratio">Jadralno število</string>
 
-<string name="settings_display_pressures_title">Pritisk</string>
+<string name="settings_display_pressures_title">Enota pritiska</string>
 <string name="settings_display_pressures_pascals">Hektopaskali / Milibari</string>
-<string name="settings_display_pressures_mmhg">Milimeter živega srebra</string>
+<string name="settings_display_pressures_mmhg">Milimetri živega srebra</string>
 <string name="settings_display_pressures_inhg">Inč živega srebra</string>
 
 <string name="settings_display_reference_north_title">Referenčni sever</string>
@@ -716,7 +773,7 @@ in tudi:
 <string name="settings_display_reference_north_magnetic">Magnetni sever</string>
 
 <string name="settings_display_heading_arrow">Puščica</string>
-<string name="settings_display_heading_line">Črta</string>
+<string name="settings_display_heading_line">Linija</string>
 <string name="settings_display_heading_field_of_view">Vidno polje</string>
 
 <string name="settings_technical_category">Tehnične nastavitve</string>
@@ -736,11 +793,17 @@ in tudi:
 <string name="settings_technical_path_dialog_warning_unavailable">Vaš sistem vam je onemogočil uporabo te lokacije.</string>
 <string name="settings_technical_path_dialog_warning_removable">Ta lokacija bo izbrisana iz sistema, ko boste izbrisali aplikacijo.</string>
 <string name="settings_technical_path_dialog_warning_vulnerable">Če uporabljate aplikacijo za popravke, lahko ta izbriše to lokacijo.</string>
-<string name="settings_technical_path_dialog_use_media_folder">Uporabite predstavnostno mapo za shranjevanje slik, zvočnih datotek in izvoženih datotek.</string>
+<string name="settings_technical_path_dialog_warning_external">Uporaba zunanjega pomnilnika (MicroSD) ni priporočljiva, saj lahko povzroči upočasnitve, zastoje in težave z datotekami.</string>
+<string name="settings_technical_path_dialog_use_media_folder">Uporabite mapo z mediji za shranjevanje slik, zvočnih datotek in izvoženih datotek.</string>
 
 <string name="settings_canvas_category">Izgled zemljevida</string>
-<string name="settings_canvas_infobox_style_title">Izgled okna z informacijami</string>
-<string name="settings_canvas_infobox_style_desc">Določi velikost in barvo ozadja okna z informacijami prikazanega na zemljevidu.</string>
+<string name="settings_canvas_menu_style_title">Menus appearance</string>
+<string name="settings_canvas_menu_style_desc">Define the style and orientation of menus.</string>
+<string name="settings_canvas_menu_style_side">Stranska vrstica menija</string>
+<string name="settings_canvas_menu_style_transparency">Prosojnost</string>
+<string name="settings_canvas_menu_style_rounding">Zaokroževanje</string>
+<string name="settings_canvas_infobox_style_title">Slog info okna</string>
+<string name="settings_canvas_infobox_style_desc">Določite velikost in barvo ozadja informacijskih okencev, prikazanih na zemljevidu.</string>
 <string name="settings_canvas_long_press_map_title">Dejanja dolgega pritiska na zemljevid</string>
 <string name="settings_canvas_long_press_map_desc">Določi katera dejanja se zaženenejo ob dolgem pritisku na zemljevid.</string>
 <string name="settings_canvas_long_press_map_action_map_only">Prikaži samo zemljevid</string>
@@ -752,6 +815,7 @@ in tudi:
 <string name="settings_canvas_zoom_type_volume_keys">Tipke za glasnost povečajo ali pomanjšajo zemljevid</string>
 <string name="settings_canvas_zoom_type_adjust_zoom">Samodejno prilagodi povečavo na nivojih zemljevida</string>
 <string name="settings_canvas_zoom_type_long_press">Dolg pritisk gumbov za povečavo spremeni ločljivost prikazanega zemljevida</string>
+<string name="settings_canvas_zoom_type_tap_press_zoom">Pritisnite in premaknite prst gor/dol za povečavo</string>
 <string name="settings_canvas_grids_title">Oblika in gostota koordinatne mreže</string>
 <string name="settings_canvas_grids_desc">Določi kako je mreža prikazana na zemljevidu.</string>
 <string name="settings_canvas_grids_option_minor_labels">Prikaži napise manj pomembnih črt</string>
@@ -766,16 +830,18 @@ in tudi:
 
 <string name="settings_landmarks_display_size_title">Velikost krajevnih oznak</string>
 <string name="settings_landmarks_display_size_desc">Velikost krajevnih oznak (poti, smernih točk, ikon) prikazanih na zemljevidu.</string>
-<string name="settings_landmarks_display_color_title">Prevzeta barva</string>
-<string name="settings_landmarks_display_color_desc">Prevzeta barva krajevne oznake na zemljevidu.</string>
+<string name="settings_landmarks_display_color_title">privzeta barva</string>
+<string name="settings_landmarks_display_color_desc">privzeta barva krajevne oznake na zemljevidu.</string>
 <string name="settings_landmarks_display_target_color_title">Barva tarče</string>
 <string name="settings_landmarks_display_target_color_desc">Barva krajevne oznake kot tarče na zemljevidu.</string>
+<string name="settings_landmarks_display_tracks_style_title">Slog sledi</string>
+<string name="settings_landmarks_display_tracks_style_desc">Možnosti prikaza posnetih sledi, prikazanih na zemljevidu.</string>
+<string name="settings_landmarks_display_tracks_style_time_bounds">Prikaži časovne meje</string>
+<string name="settings_landmarks_display_tracks_style_events">Prikaži dogodke</string>
 <string name="settings_landmarks_display_borders_title">Prikaži meje</string>
 <string name="settings_landmarks_display_borders_desc">Prikaži meje krajevnih oznak prikazanih na zemljevidu.</string>
 <string name="settings_landmarks_display_shadows_title">Prikaži sence</string>
 <string name="settings_landmarks_display_shadows_desc">Prikaži senco krajevnih oznak na zemljevidu.</string>
-<string name="settings_landmarks_display_time_bounds_title">Prikaži časovne kazalce</string>
-<string name="settings_landmarks_display_time_bounds_desc">Prikaži časovne kazalce pri sledeh prikazanih na zemljevidu.</string>
 <string name="settings_landmarks_preprocess_title">Predprocesiranje sledi</string>
 <string name="settings_landmarks_preprocess_desc">Izboljšaj natančnost sledi z filtriranjem in popravlanjem točk predno so prikazane.</string>
 
@@ -785,9 +851,7 @@ in tudi:
 <string name="settings_geolocation_auto_activate_explorer_mode_desc">Aktiviraj raziskovalni način z potegom dveh prstov navzdol po zemljevidu.</string>
 <string name="settings_geolocation_previous_locations_title">Prikaži prejšnje lokacije</string>
 <string name="settings_geolocation_previous_locations_desc">Prikaži prejšnje GNSS lokacije na zemljevidu.</string>
-<string name="settings_geolocation_distance_line_title">Prikaži črto razdalje</string>
-<string name="settings_geolocation_distance_line_desc">Prikaži črto lokacije od sredine zaslona, do trenutne GNSS lokacije.</string>
-<string name="settings_geolocation_course_display_type_title">Prikaži trenutno smer gibanja</string>
+<string name="settings_geolocation_course_display_type_title">Prikaz trenutne smeri</string>
 <string name="settings_geolocation_course_display_type_desc">Določi kako naj se prikaže trenutna GNSS smer gibanja na zemljevidu.</string>
 <string name="settings_geolocation_disable_in_back_title">Onemogoči v ozadju</string>
 <string name="settings_geolocation_disable_in_back_desc">Onemogoči posodobitve lokacije, ko aplikacija deluje v ozadju, da privarčuje z energijo.</string>
@@ -797,6 +861,15 @@ in tudi:
 
 <string name="settings_orientation_heading_display_type_title">Prikaz trenutnega kurza</string>
 <string name="settings_orientation_heading_display_type_desc">Določi kako naj se prikaže trenutni kurz po kompasu na zemljevidu.</string>
+
+<string name="settings_tracker_signal_warnings_title">Opozorilo o izgubljenem signalu</string>
+<string name="settings_tracker_signal_warnings_desc">Opozori me, če je GNSS signal izgubljen ali prešibek.</string>
+<string name="settings_tracker_ask_for_activity_title">Vprašaj za aktivnost</string>
+<string name="settings_tracker_ask_for_activity_desc">Vprašaj za trenutno aktivnost ob zagonu snemalnika sledi ali novem segmentu/krogu.</string>
+<string name="settings_tracker_reset_stats_on_new_segment_title">Ponastavi statistike ob novem segmentu</string>
+<string name="settings_tracker_reset_stats_on_new_segment_desc">Med snemanjem sledi ponastavi statistike »doslej opravljenega« ob začetku novega segmenta/kroga.</string>
+<string name="settings_tracker_dash_mode_title">Nadzorna plošča</string>
+<string name="settings_tracker_dash_mode_desc">Ko je aktivno, se snemalnik sledi samodejno ustavi in nadaljuje z delovanjem aplikacije.</string>
 
 <string name="settings_display_location_import_import_desc_1p">Vnesi katerokoli WKT/PROJ definicijo koordinatnih sistemov, ali katerokoli EPSG/ESRI/SR-ORG ID iz %s.</string>
 <string name="settings_display_location_import_not_supported_1p">Koordinatni sistem „%s“ trenutno še ni podprt. Prosimo kontaktirajte nas na forumu za pomoč in postavite vprašanja v zvezi vaše težave.</string>
@@ -820,6 +893,7 @@ in tudi:
 <string name="atk_metadata_copyright">Copyright</string>
 <string name="atk_metadata_creator">Ustvarjalec</string>
 <string name="atk_metadata_date">Datum</string>
+<string name="atk_metadata_data">Podatki</string>
 <string name="atk_metadata_density">Gostota</string>
 <string name="atk_metadata_description">Opis</string>
 <string name="atk_metadata_description_none">Brez opisa.</string>
@@ -835,9 +909,11 @@ in tudi:
 <string name="atk_metadata_keywords">Ključne besede</string>
 <string name="atk_metadata_location">Lokacija</string>
 <string name="atk_metadata_location_accuracy">Natančnost</string>
+<string name="atk_metadata_location_azimuth_grid">Azimut (mreža)</string>
+<string name="atk_metadata_location_azimuth_mag">Azimut (mag.)</string>
+<string name="atk_metadata_location_azimuth">Azimut</string>
 <string name="atk_metadata_location_barometric_elevation">Nadmorska višina po barometru</string>
-<string name="atk_metadata_location_bearing">Graduacija</string>
-<string name="atk_metadata_location_bearing_reverse">Obratna smer</string>
+<string name="atk_metadata_location_convergence">Konvergenca</string>
 <string name="atk_metadata_location_coordinates">Koordinate</string>
 <string name="atk_metadata_location_declination">Deklin.</string>
 <string name="atk_metadata_location_elevation">Nadmorska višina</string>
@@ -845,6 +921,9 @@ in tudi:
 <string name="atk_metadata_location_longitude">Zemljepisna dolžina</string>
 <string name="atk_metadata_location_latitude">Zemljepisna širina</string>
 <string name="atk_metadata_location_satellites">Sateliti</string>
+<string name="atk_metadata_location_relative_1p">Relativni %s</string>
+<string name="atk_metadata_location_reverse_1p">Obratni %s</string>
+<string name="atk_metadata_location_variation">Variacija</string>
 <string name="atk_metadata_mapping_crs_geoid">Geoid</string>
 <string name="atk_metadata_mapping_crs_projection">Projekcija</string>
 <string name="atk_metadata_mapping_scale">Merilo</string>
@@ -855,16 +934,19 @@ in tudi:
 <string name="atk_metadata_picture">Slika</string>
 <string name="atk_metadata_pictures">Slike</string>
 <string name="atk_metadata_place">Kraj</string>
+<string name="atk_metadata_power">Moč</string>
 <string name="atk_metadata_pressure">Tlak</string>
 <string name="atk_metadata_pressure_sealevel">Tlak ob morju</string>
 <string name="atk_metadata_size">Velikost</string>
 <string name="atk_metadata_source">Vir</string>
 <string name="atk_metadata_statistics">Statistika</string>
-<string name="atk_metadata_statistics_area">Področje</string>
+<string name="atk_metadata_statistics_area">območje</string>
+<string name="atk_metadata_statistics_average">Povprečje</string>
 <string name="atk_metadata_statistics_calories">Kalorije</string>
 <string name="atk_metadata_statistics_distance">Razdalja</string>
 <string name="atk_metadata_statistics_distance_from_center">Razdalja od sredine zaslona</string>
 <string name="atk_metadata_statistics_duration">Trajanje</string>
+<string name="atk_metadata_statistics_effort">Intenzivnost</string>
 <string name="atk_metadata_statistics_elevations">Nadmorska višina</string>
 <string name="atk_metadata_statistics_elevations_gain">Pridobljena višina</string>
 <string name="atk_metadata_statistics_elevations_loss">Izgubljena višina</string>
@@ -891,6 +973,7 @@ in tudi:
 <string name="atk_metadata_url">Url</string>
 <string name="atk_metadata_username">Uporabniško ime</string>
 <string name="atk_metadata_version">Različica</string>
+<string name="atk_metadata_vertical">Vertikalno</string>
 <string name="atk_metadata_weight">Teža uporabnika</string>
 
 <string name="core_toolkit_error_intent">Oprostite, trenutno nimate nameščene nobene aplikacije, ki bi omogočala tovrstno operacijo.</string>
@@ -899,7 +982,9 @@ in tudi:
 <string name="core_canvas_online_tile_queuing">Uvrščanje</string>
 <string name="core_canvas_online_tile_connecting">Povezovanje</string>
 <string name="core_canvas_online_tile_not_available">Nedostopno</string>
-<string name="core_canvas_online_tile_local_storage_only">Področje ni shranjeno</string>
+<string name="core_canvas_online_tile_local_storage_only">območje ni shranjeno</string>
+<string name="core_canvas_online_tile_quota_error">Kvota dosežena</string>
+<string name="core_canvas_online_tile_access_error">Napaka dostopa</string>
 
 <string name="core_button_open_with_external">Ostale aplikacije</string>
 <string name="core_button_open_with_direction">Smer zemljevida</string>
@@ -913,7 +998,6 @@ in tudi:
 
 <string name="core_graphics_category_profile">Profil</string>
 <string name="core_graphics_category_events">Dogodki</string>
-<string name="core_graphics_category_waypoints">Smerne točke</string>
 <string name="core_graphics_not_enough_data">Ni dovolj podatkov</string>
 <string name="core_graphics_touch_profile">pritisnite na profil za upravljanje</string>
 <string name="core_graphics_title_y">Nastavi Y</string>
@@ -969,13 +1053,18 @@ in tudi:
 <string name="maps_community_list_world_title">Svetovni zemljevidi</string>
 <string name="maps_community_list_local_title">Lokalni zemljevidi</string>
 <string name="maps_community_list_featured_maps">Posebna ponudba zemljevidov</string>
-<string name="maps_community_list_refreshed_1p">List posodobitev: %s novih zemljevidov</string>
+<string name="maps_community_list_official_maps">Zemljevidi uradnih agencij</string>
+<string name="maps_community_list_partners_maps">Zemljevidi partnerjev</string>
+<string name="maps_community_list_public_maps">Javni zemljevidi</string>
+<string name="maps_community_list_premium_maps">Premium zemljevidi</string>
+<string name="maps_community_list_refreshed_1p">Seznam posodobljen: %s nov zemljevid(ov)</string>
+<string name="maps_community_suggest">Predlagaj zemljevid</string>
+<string name="maps_community_log_in">Najprej se prijavite, da lahko predlagate zemljevid za dodajanje.</string>
 
 <string name="maps_community_type_aeronautical">Letalski</string>
 <string name="maps_community_type_historical">Zgodovinjski</string>
 <string name="maps_community_type_nautical">Navtični</string>
-<string name="maps_community_type_other">Ostali</string>
-<string name="maps_community_type_roads">Ceste</string>
+<string name="maps_community_type_roads">Avtokarte</string>
 <string name="maps_community_type_satellite">Satelitski</string>
 <string name="maps_community_type_topo">Topografski</string>
 
@@ -1007,7 +1096,6 @@ in tudi:
 <string name="landmarks_details_no_data_time">Ni podatkov o času</string>
 <string name="landmarks_details_no_data_elevation">Ni podatkov o višini</string>
 
-<string name="landmarks_sym_group_custom">Po meri</string>
 <string name="landmarks_sym_group_accommodation">Nastanitev</string>
 <string name="landmarks_sym_group_amenity">Javne dobrine</string>
 <string name="landmarks_sym_group_food">Hrana in pijača</string>
@@ -1021,6 +1109,40 @@ in tudi:
 <string name="landmarks_sym_group_transport">Transport</string>
 <string name="landmarks_sym_group_water">Voda</string>
 <string name="landmarks_sym_group_worship">Verski objekti</string>
+
+<string name="landmarks_activity">Aktivnost</string>
+<string name="landmarks_activity_aeroplane">Letalo</string>
+<string name="landmarks_activity_air">Zrak</string>
+<string name="landmarks_activity_atv">ATV</string>
+<string name="landmarks_activity_autobus">Avtobus</string>
+<string name="landmarks_activity_bicycle">Kolo</string>
+<string name="landmarks_activity_boat">Čoln</string>
+<string name="landmarks_activity_cablecar">Žičnica</string>
+<string name="landmarks_activity_canoe">Kanu</string>
+<string name="landmarks_activity_drive">Vožnja</string>
+<string name="landmarks_activity_helicopter">Helikopter</string>
+<string name="landmarks_activity_hike">Pohod</string>
+<string name="landmarks_activity_horse">Konj</string>
+<string name="landmarks_activity_motorcycle">Motor</string>
+<string name="landmarks_activity_nordic">Nordijska hoja</string>
+<string name="landmarks_activity_offroad">Off-road</string>
+<string name="landmarks_activity_paragliding">Jadralno padalstvo</string>
+<string name="landmarks_activity_rickshaw">Rikša</string>
+<string name="landmarks_activity_roller">Rolanje</string>
+<string name="landmarks_activity_run">Tek</string>
+<string name="landmarks_activity_sail">Jadranje</string>
+<string name="landmarks_activity_scooter">Skiro</string>
+<string name="landmarks_activity_skate">Rolkanje</string>
+<string name="landmarks_activity_ski">Smučanje</string>
+<string name="landmarks_activity_skimo">Skimo</string>
+<string name="landmarks_activity_sled">Sani</string>
+<string name="landmarks_activity_snowmobile">Motorne sani</string>
+<string name="landmarks_activity_snowshoe">Krplje</string>
+<string name="landmarks_activity_trail">Gorski tek</string>
+<string name="landmarks_activity_train">Vlak</string>
+<string name="landmarks_activity_tram">Tramvaj</string>
+<string name="landmarks_activity_walk">Hoja</string>
+<string name="landmarks_activity_water">Voda</string>
 
 <string name="core_details_category_geocaching">Geolov</string>
 
@@ -1036,31 +1158,39 @@ in tudi:
 
 <string name="landmarks_ldks_provider_title">Krajevne oznake na spletu</string>
 <string name="landmarks_ldks_provider_unavailable">Oprostite, trenutno so krajevne oznake skupnosti na voljo le v celotni ali aktivirani različici aplikacije.</string>
+<string name="landmarks_ldks_account_phrase">Poveži se z avanturo</string>
 
-<string name="landmarks_ldks_signin_desc">Shranite svoje krajevne oznake v oblak in jih delite z prijatelji.</string>
-<string name="landmarks_ldks_signin_button">Vpis</string>
-<string name="landmarks_ldks_signin_username_desc">3 do 10 znakov, a-z;A-Z;0-9</string>
+<string name="landmarks_ldks_signin_desc_s">Shranite svoje označbe na spletu, delite jih s prijatelji.</string>
+<string name="landmarks_ldks_signin_purchases_desc_s">Najprej se prijavite za nakupovanje.</string>
+<string name="landmarks_ldks_signin_button">Prijava</string>
+<string name="landmarks_ldks_signin_username_desc">3 do 10 znakov, a–z;A–Z;0–9</string>
 <string name="landmarks_ldks_signin_password_desc">3 do 30 znakov</string>
-<string name="landmarks_ldks_signin_failed">Vnešeno geslo ali up. ime je napačno, prosimo poskusite ponovno.</string>
+<string name="landmarks_ldks_signin_failed_s">Napačno uporabniško ime ali geslo, poskusite znova.</string>
 
-<string name="landmarks_ldks_signup_desc">Še nimate računa? Ustvarite si ga sedaj popolnoma zastonj!</string>
+<string name="landmarks_ldks_signup_desc_s">Še nimate računa? Ustvarite ga zdaj brezplačno!</string>
 <string name="landmarks_ldks_signup_button">Ustvari račun</string>
-<string name="landmarks_ldks_signup_entry_exists_1p">%s že obstaja, prosimo izberite kaj drugega.</string>
+<string name="landmarks_ldks_signup_entry_exists_1p">%s že obstaja, izberite drugega.</string>
+
 <string name="landmarks_ldks_button_verify">Preveri</string>
 <string name="landmarks_ldks_verification_not_matching">Se ne ujema</string>
+<string name="landmarks_ldks_not_connected">Ni prijave</string>
+<string name="landmarks_ldks_connected_as_1p">Prijavljeni kot %s</string>
 
 <string name="landmarks_ldks_verify_email_message_s">Prosimo, verificirajte svoj elektronski naslov.</string>
-<string name="landmarks_ldks_verify_email_pin_sent">PIN koda poslana preko elektronske pošte</string>
+<string name="landmarks_ldks_verify_email_pin_sent_s">PIN koda poslana preko elektronske pošte</string>
 
-<string name="landmarks_ldks_toast_connection_failed">Neuspel poskus povezave z strežnikom, deluje brez povezave.</string>
-<string name="landmarks_ldks_toast_modify_success">Spremembe uspešno poslane na strežnik.</string>
-<string name="landmarks_ldks_toast_update_tiles_1p">Posodobi podatke iz serverja (preostane še %s)&#8230;</string>
-<string name="landmarks_ldks_toast_update_success_1p">%s novih predmetov.</string>
-<string name="landmarks_ldks_dialog_modify_failed">Neuspel poskus pošiljanja sprememb na strežnik. Prosimo, preverite svoje zadnje spremembe.</string>
-<string name="landmarks_ldks_dialog_wrong_version">Vaša različica žal ni več podprta, prosimo posodobite aplikacijo.</string>
-<string name="landmarks_ldks_explorer_header_title_offline">Deluje brez povezave.</string>
-<string name="landmarks_ldks_explorer_header_up_to_date">Posodobljeno.</string>
-<string name="landmarks_ldks_explorer_header_pendings_1p">V teku še %s procesov.</string>
+<string name="landmarks_ldks_toast_connection_failed_s">Povezava s strežnikom ni uspela, delovanje brez povezave.</string>
+<string name="landmarks_ldks_toast_maintenance_s">Strežnik je trenutno v vzdrževanju.</string>
+<string name="landmarks_ldks_toast_too_much_sessions_s">Preveč odprtih sej. Odjavite se z ene od teh naprav:</string>
+<string name="landmarks_ldks_toast_modify_success_s">Spremembe so bile uspešno poslane na strežnik.</string>
+<string name="landmarks_ldks_toast_update_tiles_1p">Prenašanje točk zanimanja (%s)&#8230;</string>
+<string name="landmarks_ldks_toast_update_success_1p">%s nov element(ov).</string>
+<string name="landmarks_ldks_dialog_modify_failed_s">Pošiljanje sprememb na strežnik ni uspelo. Preverite svoje zadnje spremembe.</string>
+<string name="landmarks_ldks_dialog_wrong_version_s">Vaša različica ni več podprta, posodobite aplikacijo.</string>
+<string name="landmarks_ldks_dialog_log_off_s">Lokalni podatki bodo izbrisani, vključno z vsemi podatki, ki še niso sinhronizirani.</string>
+<string name="landmarks_ldks_explorer_header_title_offline_s">Delovanje brez povezave.</string>
+<string name="landmarks_ldks_explorer_header_up_to_date_s">Posodobljeno.</string>
+<string name="landmarks_ldks_explorer_header_pendings_1p">%s čakajoča dejanja.</string>
 
 <string name="landmarks_ldks_context_menu_log_off">Odjava</string>
 <string name="landmarks_ldks_context_menu_account">Moj račun</string>
@@ -1068,29 +1198,31 @@ in tudi:
 <string name="landmarks_ldks_context_menu_disconnect">Način brez povezave</string>
 <string name="landmarks_ldks_context_menu_refresh_folder">Posodobi mapo</string>
 <string name="landmarks_ldks_context_menu_refresh_area">Osveži območje</string>
+<string name="landmarks_ldks_context_menu_add_as_friend">Dodaj kot prijatelja</string>
 
 <string name="landmarks_ldks_explorer_category_hidden_folders">Skrite mape</string>
 <string name="landmarks_ldks_explorer_category_users">Uporabniki</string>
 <string name="landmarks_ldks_explorer_category_friends">Prijatelji</string>
-<string name="landmarks_ldks_explorer_category_public_waypoints">Javne smerne točke</string>
+<string name="landmarks_ldks_explorer_category_pois">Točke zanimanja</string>
+<string name="landmarks_ldks_explorer_category_requests">Moje zahteve</string>
+<string name="landmarks_ldks_explorer_category_remotes">Zahteve drugih</string>
 
 <string name="landmarks_ldks_explorer_name_user">Uporabnik</string>
+<string name="landmarks_ldks_explorer_name_friend">Prijatelj</string>
 <string name="landmarks_ldks_explorer_name_my_landmarks_title">Moje smerne točke</string>
-<string name="landmarks_ldks_explorer_name_my_landmarks_desc">Vaše smerne točke na spletu</string>
-<string name="landmarks_ldks_explorer_name_public_landmarks_title">Moje javne smerne točke</string>
-<string name="landmarks_ldks_explorer_name_public_landmarks_desc">Javne smerne točke, katere ste ustvarili ali modificirali</string>
+<string name="landmarks_ldks_explorer_name_my_landmarks_desc_s">Vaše smerne točke na spletu</string>
+<string name="landmarks_ldks_explorer_name_my_pois_title">Moje točke zanimanja</string>
+<string name="landmarks_ldks_explorer_name_my_pois_desc_s">Točke zanimanja (POI), ki ste jih ustvarili ali spremenili.</string>
 <string name="landmarks_ldks_explorer_name_my_friends_title">Moji prijatelji</string>
-<string name="landmarks_ldks_explorer_name_my_friends_desc">Dodaj uporabnike za dostop do njihovih smernih točk.</string>
+<string name="landmarks_ldks_explorer_name_my_friends_desc_s">Dodaj uporabnike kot prijatelje za dostop do njihovih smernih točk.</string>
 
 <string name="landmarks_ldks_create_folder_hidden_title">Skrita mapa</string>
-<string name="landmarks_ldks_create_folder_hidden_desc">Dovoli brskanje po skritih mapah.</string>
-<string name="landmarks_ldks_create_friend_title">Prijatelj</string>
-<string name="landmarks_ldks_create_friend_desc">Dodaj uporabnika kot prijatelja, da boste lažje dostopali do njegovih krajevnih oznak.</string>
-<string name="landmarks_ldks_create_public_waypoint_title">Javne smerne točke</string>
-<string name="landmarks_ldks_create_public_waypoint_desc">Delite nekaj podatkov o tej lokaciji. Na zemljevidu bo kreirana nova smerna točka, katera bo vidna vsem uporabnikom.</string>
-<string name="landmarks_ldks_create_public_waypoint_disclaimer_check">Predno ustvarite novo smerno točko vas prosimo, da najprej preverite, če na tej lokaciji že obstaja kakšna druga smerna točka.</string>
-<string name="landmarks_ldks_create_public_waypoint_disclaimer_personal">Javne smerne točke so vidne vsem uporabnikom. Ne vnašajte nobenih osebnih podatkov.</string>
-<string name="landmarks_ldks_create_public_waypoint_disclaimer_correct">Prosimo skrbno izberite ikono smerne točke: Prikazana bo na zemljevidu vsem uporabnikom.</string>
+<string name="landmarks_ldks_create_folder_hidden_desc_s">Omogoča brskanje po skriti podmapi.</string>
+<string name="landmarks_ldks_create_poi_title">Točka zanimanja</string>
+<string name="landmarks_ldks_create_poi_desc_s">Delite informacije o kraju, ki bodo vidne na zemljevidu vsem drugim uporabnikom.</string>
+<string name="landmarks_ldks_create_poi_disclaimer_check_s">Pred ustvarjanjem nove točke zanimanja preverite, ali morda podobna že obstaja.</string>
+<string name="landmarks_ldks_create_poi_disclaimer_personal_s">Točke zanimanja so vidne vsem uporabnikom, ne vnašajte osebnih podatkov.</string>
+<string name="landmarks_ldks_create_poi_disclaimer_correct_s">Pazljivo izberite ikono točke: vidna bo na zemljevidu vsem uporabnikom.</string>
 
 <string name="landmarks_ldks_details_line_visibility">Vidljivost</string>
 <string name="landmarks_ldks_details_line_visibility_private">Privatno</string>
